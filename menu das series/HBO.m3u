@@ -1,0 +1,42 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://premium-users.sandrostoreps3.workers.dev/movie/posters/SERIES/A.Amiga.Genial.jpg" , A Amiga Genial
+http://premium-users.sandrostoreps3.workers.dev/series/A.AMIGA.GENIAL.m3u
+#EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://premium-users.sandrostoreps3.workers.dev/movie/posters/SERIES/A.CASA.DO.DRAGAO.jpg" , A Casa do Dragao
+http://premium-users.sandrostoreps3.workers.dev/series/A.CASA.DO.DRAGAO.m3u
+#EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://premium-users.sandrostoreps3.workers.dev/movie/posters/SERIES/A.Vida.Sexual.das.Universitarias.jpg" , A Vida Sexual das Universitarias
+http://premium-users.sandrostoreps3.workers.dev/series/A.VIDA.SEXUAL.DAS.UNIVERSITARIAS.m3u
+#EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://premium-users.sandrostoreps3.workers.dev/movie/posters/SERIES/Alguem.Em.Algum.Lugar.jpg" , Alguem Em Algum Lugar
+http://premium-users.sandrostoreps3.workers.dev/series/ALGUEM.EM.ALGUM.LUGAR.m3u
+#EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://premium-users.sandrostoreps3.workers.dev/movie/posters/SERIES/GameofThrones.png" , Game of Thrones
+http://premium-users.sandrostoreps3.workers.dev/series/GAME.OF.THRONES.m3u
+#EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://premium-users.sandrostoreps3.workers.dev/movie/posters/SERIES/Hacks.jpg" , Hacks
+http://premium-users.sandrostoreps3.workers.dev/series/HACKS.m3u
+#EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://premium-users.sandrostoreps3.workers.dev/movie/posters/SERIES/Industry.jpg" , Industry
+http://premium-users.sandrostoreps3.workers.dev/series/INSDUSTRY.m3u
+#EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://premium-users.sandrostoreps3.workers.dev/movie/posters/SERIES/MALDOSAS.jpg" , Maldosas
+http://premium-users.sandrostoreps3.workers.dev/series/MALDOSAS.m3u
+#EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://premium-users.sandrostoreps3.workers.dev/movie/posters/SERIES/O.Regime.jpg" , O Regime
+http://premium-users.sandrostoreps3.workers.dev/series/O.REGIME.m3u
+#EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://premium-users.sandrostoreps3.workers.dev/movie/posters/SERIES/O.Turista.jpg" , O Turista
+http://premium-users.sandrostoreps3.workers.dev/series/O.TURISTA.m3u
+#EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://premium-users.sandrostoreps3.workers.dev/movie/posters/SERIES/Pacificador.png" , Pacificador
+http://premium-users.sandrostoreps3.workers.dev/series/PACIFICADOR.m3u
+#EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://premium-users.sandrostoreps3.workers.dev/movie/posters/SERIES/OS.ORIGINAIS.jpg" , Os Originais
+http://premium-users.sandrostoreps3.workers.dev/series/OS.ORIGINAIS.m3u
+#EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://premium-users.sandrostoreps3.workers.dev/movie/posters/SERIES/RaisedByWolves.png" , Raised By Wolves
+http://premium-users.sandrostoreps3.workers.dev/series/RAISED.BY.WOLVES.m3u
+#EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://premium-users.sandrostoreps3.workers.dev/movie/posters/SERIES/Sobrenatural.png" , Sobrenatural
+http://premium-users.sandrostoreps3.workers.dev/series/SOBRENATURAL.m3u
+#EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://premium-users.sandrostoreps3.workers.dev/movie/posters/SERIES/SupermanAndLois.png" , Superman And Lois
+http://premium-users.sandrostoreps3.workers.dev/series/SUPERMAN.AND.LOIS.m3u
+#EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://premium-users.sandrostoreps3.workers.dev/movie/posters/SERIES/TheBigBangTheory.png" , The Big Bang Theory
+http://premium-users.sandrostoreps3.workers.dev/series/THE.BIG.BANG.THEORY.m3u
+#EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://premium-users.sandrostoreps3.workers.dev/movie/posters/SERIES/thelastofus.jpg" , The Last of us
+http://premium-users.sandrostoreps3.workers.dev/series/THE.LAS.OF.US.m3u
+#EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://premium-users.sandrostoreps3.workers.dev/movie/posters/SERIES/ThePacific.png" , The Pacific
+http://premium-users.sandrostoreps3.workers.dev/series/THE.PACIFIC.m3u
+#EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://premium-users.sandrostoreps3.workers.dev/movie/posters/SERIES/true-blood.png" , True Blood
+http://premium-users.sandrostoreps3.workers.dev/series/TRUE.BLOOD.m3u
+#EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://premium-users.sandrostoreps3.workers.dev/movie/posters/SERIES/True.Detective.jpg" , True Detective
+http://premium-users.sandrostoreps3.workers.dev/series/TRUE.DETECTIVE.m3u

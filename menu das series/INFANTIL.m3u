@@ -1,0 +1,8 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Hercules" tvg-logo="http://premium-users.sandrostoreps3.workers.dev/movie/posters/SERIES/Hercules.png" , Hercules
+http://premium-users.sandrostoreps3.workers.dev/series/HERCULES.m3u
+#EXTINF:-1 tvg-id="" tvg-name="PowerRangers" tvg-logo="http://premium-users.sandrostoreps3.workers.dev/movie/posters/SERIES/PowerRangers.png" , Morphing Power Rangers
+http://premium-users.sandrostoreps3.workers.dev/series/POWER.RANGERS.m3u
+#EXTINF:-1 tvg-id="" tvg-name="FamiliaDinosauro" tvg-logo="http://premium-users.sandrostoreps3.workers.dev/movie/posters/SERIES/FamiliaDinosauro.png" , Familia Dinosauro
+http://premium-users.sandrostoreps3.workers.dev/series/FAMILIA.DINOSAURO.m3u

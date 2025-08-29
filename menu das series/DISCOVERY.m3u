@@ -1,0 +1,6 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="90.Dias.Para.Casar" tvg-logo="http://premium-users.sandrostoreps3.workers.dev/movie/posters/SERIES/90.Dias.Para.Casar.jpg" , 90 Dias Para Casar
+http://premium-users.sandrostoreps3.workers.dev/series/90.DIAS.PARA.CASAR.m3u
+#EXTINF:-1 tvg-id="" tvg-name="1contra-todos" tvg-logo="http://premium-users.sandrostoreps3.workers.dev/movie/posters/SERIES/LARGADOS.E.PELADOS.jpg" , Largados e Pelados
+http://premium-users.sandrostoreps3.workers.dev/series/LARGADOS.E.PELADOS.m3u
