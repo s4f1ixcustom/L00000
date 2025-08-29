@@ -18,5 +18,3 @@ http://sandroflix.sandrostoreps3.workers.dev/tv_menu/RADIO.m3u
 http://sandroflix.sandrostoreps3.workers.dev/tv_menu/RELIGIOSOS.m3u
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="http://sandroflix.sandrostoreps3.workers.dev/icon/posters/TV/YOUTUBE.png" group-title="Canais Grátis" , Canais do Youtube
 http://sandroflix.sandrostoreps3.workers.dev/tv_menu/YOUTUBE.m3u
-#EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="http://sandroflix.sandrostoreps3.workers.dev/icon/posters/TV/PROGAMACAO.png" group-title="Canais Privados" , Insira o Login Premium Para Carregar a Lista
-http://sandroflix-premium.sandrostoreps3.workers.dev/canais.m3u
