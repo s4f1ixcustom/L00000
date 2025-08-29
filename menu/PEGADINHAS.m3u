@@ -1,0 +1,18 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="mp4" tvg-logo="http://sandroflix.sandrostoreps3.workers.dev/movie/posters/HUMOR/chulumblum.jpg" group-title="PEGADINHAS", CHULUMBLUM
+http://github.com/s4f1ixcustom/F00000/releases/download/Pegadinhas/CANAL.DO.CHUMBALUM-MELHORES.PEGADINHAS.mp4
+#EXTINF:-1 tvg-id="" tvg-name="mp4" tvg-logo="http://sandroflix.sandrostoreps3.workers.dev/movie/posters/HUMOR/cameras.escondidas.jpg" group-title="PEGADINHAS", CAMERAS ESCONDIDAS
+http://sandroflix.sandrostoreps3.workers.dev/humor/CAMERAS.ESCONDIDAS.m3u
+#EXTINF:-1 tvg-id="" tvg-name="mp4" tvg-logo="http://sandroflix.sandrostoreps3.workers.dev/movie/posters/HUMOR/canal.boom.jpg" group-title="PEGADINHAS", CANAL BOOM
+http://sandroflix.sandrostoreps3.workers.dev/humor/CANAL.BOOM.m3u
+#EXTINF:-1 tvg-id="" tvg-name="mp4" tvg-logo="http://sandroflix.sandrostoreps3.workers.dev/movie/posters/HUMOR/canal.em.toca.jpg" group-title="PEGADINHAS", CANAL EM TOCA
+http://sandroflix.sandrostoreps3.workers.dev/humor/CANAL.EM.TOCA.m3u
+#EXTINF:-1 tvg-id="" tvg-name="mp4" tvg-logo="http://sandroflix.sandrostoreps3.workers.dev/movie/posters/HUMOR/rafael.chocolate.jpg" group-title="PEGADINHAS", RAFAEL CHOCOLATE
+http://github.com/s4f1ixcustom/F00000/releases/download/Pegadinhas/CANAL.RAFAEL.CHOCOLATE-AS.MELHORES.PEGADINHAS-P.1.mp4
+#EXTINF:-1 tvg-id="" tvg-name="mp4" tvg-logo="http://sandroflix.sandrostoreps3.workers.dev/movie/posters/HUMOR/Paulo%20SMA.jpg" group-title="PEGADINHAS", PAULO SMA
+http://sandroflix.sandrostoreps3.workers.dev/humor/PAULO.SMA.m3u
+#EXTINF:-1 tvg-id="" tvg-name="mp4" tvg-logo="http://sandroflix.sandrostoreps3.workers.dev/movie/posters/HUMOR/MARLOKO.jpg" group-title="PEGADINHAS", MARLOKO
+http://sandroflix.sandrostoreps3.workers.dev/humor/MARLOKO.m3u
+#EXTINF:-1 tvg-id="" tvg-name="mp4" tvg-logo="http://sandroflix.sandrostoreps3.workers.dev/movie/posters/HUMOR/Gerson.Albuquerque.jpg" group-title="PEGADINHAS", GERSON ALBUQUERQUE
+http://github.com/s4f1ixcustom/F00000/releases/download/Pegadinhas/CANAL.DO.GERSON-AS.MELHORES.PEGADINHAS.mp4
