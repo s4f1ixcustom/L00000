@@ -1,0 +1,1793 @@
+#EXTM3U
+
+############################################################################ Rádio Variedades
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0fpOMtV.jpeg" group-title="Rádio Variedades",Jovem Pan FM - 100.9 FM
+https://stream-166.zeno.fm/c45wbq2us3buv?zs=cd8tw3RUSWmgS67GIjYKcw
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R6tDYUJ.jpeg" group-title="Rádio Variedades",Jovem Pan Grande Porto Alegre 90.7
+http://centova6.ciclanohost.com.br:9256/;
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a73qUcI.jpeg" group-title="Rádio Variedades",Jovem Pan Campinas
+http://paineldj2.com.br:8200/
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G8kkR7u.png" group-title="Rádio Variedades",Jovem Pan 95.9 FM - Recife
+https://c1.audiostream.com.br:20001/stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BNoA8I2.png" group-title="Rádio Variedades",Rádio Gaúcha - 93.7 FM
+https://1132747t.ha.azioncdn.net/primary/gaucha_rbs.sdp/chunklist_57bd4b6c-1f8b-4604-a96f-2ef2c6de8219.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TMY3woc.jpeg" group-title="Rádio Variedades",Rádio BandNews SP 96.9 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/BANDNEWSFM_SPAAC.aac?dist=radios.com.br
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xw6vfjD.jpeg" group-title="Rádio Variedades",Antena 1 SP
+https://antenaone.crossradio.com.br/stream/1;?type=mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xw6vfjD.jpeg" group-title="Rádio Variedades",Antena 1 RJ
+http://a1rj.streams.com.br:7801/sm
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fetGktM.jpeg" group-title="Rádio Variedades",CANAÃ FM 93.5
+http://stream1.svrdedicado.org/8006/stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N5MNVI4.png" group-title="Rádio Variedades",Difusora Acreana
+http://midia.ac.gov.br/difusora
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b2ehJlX.jpeg" group-title="Rádio Variedades",Interativa FM 101.7 Avare
+http://streaming.a6.com.br:5043/stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NSBpOAv.jpeg" group-title="Rádio Variedades",Rádio Atlântida FM
+http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/imxar31.jpeg" group-title="Rádio Variedades",Rádio Novo Tempo FM
+http://stream.novotempo.com:1935/radio/smil:rntPortoAlegreRS.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xtIGiFX.jpeg" group-title="Rádio Variedades",Rádio Itapema FM
+http://82747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/ita_poa.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MLu5Bex.jpeg" group-title="Rádio Variedades",104 FM (Porto Alegre)
+http://cast4.audiostream.com.br:8651/mp3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iqs20HX.png" group-title="Rádio Variedades",Radio 105 FM
+https://appradio.app:8010//live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8Oo5F9P.png" group-title="Rádio Variedades",Radio 107 FM
+https://ice.fabricahost.com.br/107fm
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VN5SESb.png" group-title="Rádio Variedades",107.5 Educadora FM
+https://streaming.educadora.irdeb.ba.gov.br/stream-01
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mlgMxlD.jpeg" group-title="Rádio Variedades",A RADIO ROCK 89 FM - São Paulo
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_89FM_ADP.aac?dist=site-89fm
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7NLh2kU.jpeg" group-title="Rádio Variedades",89 - A Radio Rock de Goiania
+https://ice.fabricahost.com.br/89aradiorockgo
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l2o7KRD.png" group-title="Rádio Variedades",Caiçara FM
+http://cast4.audiostream.com.br:8654/mp3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pEnVe6M.png" group-title="Rádio Variedades",CAMPINA FM
+http://cast61.sitehosting.com.br:9962/live?1583625618600
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V22cNPK.jpeg" group-title="Rádio Variedades",CBN 97,1
+https://live.ojc.com.br/e9cd_3/myStream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V22cNPK.jpeg" group-title="Rádio Variedades",CBN Joao Pessoa FM 101.7
+http://audio.cabobranco.tv.br:8000/cbn
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V22cNPK.jpeg" group-title="Rádio Variedades",CBN Maceió
+http://v3.directradios.com:8229/stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V22cNPK.jpeg" group-title="Rádio Variedades",CBN Recife 105.7
+https://59f1cbe63db89.streamlock.net:1443/asabrancaradio/_definst_/asabrancaradio/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aR5ZArY.jpeg" group-title="Rádio Variedades",Energia Retrô
+http://stream.zeno.fm/qez1mu8dys8uv
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PQuKKs4.jpeg" group-title="Rádio Variedades",Kiss FM 92,5
+http://cloud2.cdnseguro.com:23538/
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OqjQIBN.jpeg" group-title="Rádio Variedades",Rádio Clube FM 99.1 - Recife
+https://radio.saopaulo01.com.br:10913/stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SOaOCyN.png" group-title="Rádio Variedades",Rádio Clube 105.5 FM - Brasília
+https://8157.brasilstream.com.br/stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y3oies2.png" group-title="Rádio Variedades",Continental AM 1120 Porto Alegre
+http://streaming10.hstbr.net:8042/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7RyLzr9.png" group-title="Rádio Variedades",Continental FM
+http://cast4.audiostream.com.br:8650/mp3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rCkqprc.png" group-title="Rádio Variedades",Felicidade 90.3
+http://centova10.ciclanohost.com.br:9230/stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/54NLwo2.png" group-title="Rádio Variedades",Folha FM 102,1
+http://r13.ciclano.io:8879/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mqcFb4K.jpeg" group-title="Rádio Variedades",FM Vale Verde
+https://ice.fabricahost.com.br/fmvaleverde
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CwRKTWa.jpeg" group-title="Rádio Variedades",Gazeta FM
+https://shout25.crossradio.com.br:18002/stream?1653871644022
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z261xIT.jpeg" group-title="Rádio Variedades",Energia 97
+https://streaming.inweb.com.br/energia
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2pgvff7.jpeg" group-title="Rádio Variedades",ATIVIDADE FM 87.9 Canudos BA
+http://atividadefm879.html5player.acessaradios.com.br:9256/atividadefm879
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sDCmImi.png" group-title="Rádio Variedades",JERE FM 106.9 JEREMOABO BA
+http://172.82.160.250:8309/stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yqZCToS.png" group-title="Rádio Variedades",Gospel Internacional
+https://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2hMyTjy.png" group-title="Rádio Variedades",Alpha FM 102.1 MHz (Goiânia - GO)
+https://ice.fabricahost.com.br/alphafm1021
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C0HdgsG.png" group-title="Rádio Variedades",Hunter FM - Hits Brasil
+https://live.hunter.fm/hitsbrasil_normal
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pUf0XwX.png" group-title="Rádio Variedades",Transamérica 100.1 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/RT_SPAAC.aac
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pUf0XwX.png" group-title="Rádio Variedades",Transamérica 92.7 FM - Recife / PE
+https://playerservices.streamtheworld.com/api/livestream-redirect/RT_RECAAC.aac
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pUf0XwX.png" group-title="Rádio Variedades",Transamérica 88.7 FM - Belo Horizonte / MG
+https://playerservices.streamtheworld.com/api/livestream-redirect/RT_BHAAC.aac
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pUf0XwX.png" group-title="Rádio Variedades",Transamérica 99.7 FM - Balneário Camboriú / SC
+https://radio02.zas.media/proxy/trans99/stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pUf0XwX.png" group-title="Rádio Variedades",Transamérica 100.3 FM - Curitiba / PR
+https://playerservices.streamtheworld.com/api/livestream-redirect/RT_CWBAAC.aac
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pUf0XwX.png" group-title="Rádio Variedades",Transamérica 100.1 FM - Brasília / DF
+https://playerservices.streamtheworld.com/api/livestream-redirect/RT_DFAAC.aac
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yctVRk3.png" group-title="Rádio Variedades",Mix 106.3 FM - São Paulo
+https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_SAOPAULOAAC.aac
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b5fC5PP.jpeg" group-title="Rádio Variedades",Mix - Campinas
+https://21933.live.streamtheworld.com/MIXFM_CAMPINASAAC.aac?1649900088068
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/75YRowu.jpeg" group-title="Rádio Variedades",Mix FM - Porto Alegre
+https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_POAAAC.aac
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BVwZ4hJ.png" group-title="Rádio Variedades",Mix - Recife 97.1 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_RECIFE971AAC.aac
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9VTV7gV.jpeg" group-title="Rádio Variedades",Mix 102.1 FM - Rio de Janeiro
+https://playerservices.streamtheworld.com/api/livestream-redirect/MIXRIOAAC_SC.aac?dist=radioscombr
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w6qmZdq.png" group-title="Rádio Variedades",Mix 91.3 FM - Florianópolis / SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_FLORIANOPOLIS.mp3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8JWJ3DX.jpeg" group-title="Rádio Variedades",Mix 100.7 FM - Manaus / AM
+https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_MANAUSAAC.aac
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I6OiWpa.png" group-title="Rádio Variedades",Mix 100.9 FM - Belém / PA
+https://www.bravecenterhost.com:8012/stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2UipLOo.jpeg" group-title="Rádio Variedades",Mix 102.9 FM - Londrina / PR
+https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_LONDRIN1029AAC.aac
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/klvDQgf.png" group-title="Rádio Variedades",Mix 103.3 FM - Arapiraca / AL
+https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_ARAPIRACAAAC.aac
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PYlNU4C.png" group-title="Rádio Variedades",Mix 103.9 FM - Natal / RN
+https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_NATALAAC.aac
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CDJ4BCF.png" group-title="Rádio Variedades",Mix 104.1 FM Sul de Minas - Guaranésia / MG
+https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_SULMG.mp3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gzKbK9j.png" group-title="Rádio Variedades",Mix 104.3 FM - Salvador / BA
+https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_SALVADORAAC.aac
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gGrEPiL.png" group-title="Rádio Variedades",Mundo Livre FM Londrina 93,1
+https://rrdns-continental.webnow.com.br/mllondrina.mp3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TwlNfLo.jpeg" group-title="Rádio Variedades",Nativa FM 103.1 - Joinville
+https://cast.youngtech.radio.br/radio/8940/radio
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GOAUkl1.png" group-title="Rádio Variedades",Nova Brasil RJ 89.5
+https://playerservices.streamtheworld.com/api/livestream-redirect/NOVABRASIL_RIOAAC.aac
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cHwMHNl.jpeg" group-title="Rádio Variedades",Rádio Nova Quilombo 100.9 FM
+https://04.painelstreaming.com.br:27122/stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1a772lG.jpeg" group-title="Rádio Variedades",Rádio Nova Líder 96.7 FM
+http://stm.rodrigoti.com.br:27128/stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Od6z787.png" group-title="Rádio Variedades",Cultura dos Palmares 88.9 FM
+https://03.painelstreaming.com.br:27080/;
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ww8cdYs.jpeg" group-title="Rádio Variedades",Farol 90.7 FM
+https://04.painelstreaming.com.br:27120/stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dBS3SqW.png" group-title="Rádio Variedades",Rádio FM Maranhão do Sul
+http://hd3.matutos.com.br:8394/stream?1561472887177
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rmSoZhw.png" group-title="Rádio Variedades",Play FM - Birigui
+http://187.17.175.143:3259/stream?1653869498990
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1zJDubN.jpeg" group-title="Rádio Variedades",PLUS FM CARIRI 100.5MHz
+http://webradio.amsolution.com.br/radio/8140/cariri
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mQjREX0.png" group-title="Rádio Variedades",Rádio 101 FM - Xanxere / SC - Brasil
+http://radioweb.audiosul.com:8241/stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sWAnJn3.jpeg" group-title="Rádio Variedades",Rádio Alvorada
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ALVORADAAAC.aac
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/60NqpMi.jpeg" group-title="Rádio Variedades",Rádio Folha de Pernambuco 96.7 FM
+https://radio.saopaulo01.com.br/8210/stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GoOLO9G.jpeg" group-title="Rádio Variedades",Super Rádio Tupi 96.5 FM
+https://8923.brasilstream.com.br/stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EtT48sv.jpeg" group-title="Rádio Variedades",Band FM 96.1 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/BANDFM_SPAAC.aac?dist=radios.com.br
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V2mZom3.png" group-title="Rádio Variedades",Metropolitana 98.5 FM
+https://ice.fabricahost.com.br/metropolitana985sp
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lb33kWC.png" group-title="Rádio Variedades",Aparecida 104.3 FM
+https://aparecida.jmvstream.com/stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J9a84QB.png" group-title="Rádio Variedades",Rádio 92.3 FM
+https://centova.svdns.com.br:20024/stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jMg7XId.png" group-title="Rádio Variedades",Rádio Bandeirantes 840 AM 90.9 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/RadioBandeirantesAAC.aac?dist=radios.com.br
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IoQ6K00.png" group-title="Rádio Variedades",Rádio 98.1 FM
+https://9526.brasilstream.com.br/stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/87DvHXH.png" group-title="Rádio Variedades",Rádio Cidade 87.9 FM
+https://08.stmip.net:8550/stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kY5XaXt.jpeg" group-title="Rádio Variedades",Rádio Liberdade 92.9 FM
+https://8335.brasilstream.com.br/stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I8mKHr7.jpeg" group-title="Rádio Variedades",Rádio Cidade Verde 93.5 FM
+https://ssl1.transmissaodigital.com:20010/;
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cv8iK8e.png" group-title="Rádio Variedades",Rádio Clube News 90.9 FM
+https://servidor14-3.brlogic.com:7540/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LF5EdiH.png" group-title="Rádio Variedades",Rádio Grenal 95.9 FM
+https://grenal.audiostream.com.br:20000/mp3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/63SiYsz.png" group-title="Rádio Variedades",Rádio Hits 106.9 FM
+https://wz7.servidoresbrasil.com:9984/stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oSnGBDV.jpeg" group-title="Rádio Variedades",Rádio CV Mais 97.5 FM
+https://ssl1.transmissaodigital.com:20098/;
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8dP0e0U.png" group-title="Rádio Variedades",Rádio Canção Nova 89.1 FM
+https://cloud1.cdnseguro.com:20038/stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jw4W000.jpeg" group-title="Rádio Variedades",Rádio JB 99.9 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/JBFMAAC.aac?dist=radios.com.br
+
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio150873_1593609322.jpg" group-title="Rádio Variedades",Rádio Super Amazônia Brasil
+https://s11.maxcast.com.br:8050/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OeqXKzK.jpeg" group-title="Rádio Variedades",Radio Energy 104.2 FM - Moscow / Russia
+https://pub0101.101.ru/stream/air/aac/64/99
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OeqXKzK.jpeg" group-title="Rádio Variedades",Radio Energy 100.3 FM - Paris / França
+https://scdn.nrjaudio.fm/adwz1/fr/30043/aac_64.mp3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OeqXKzK.jpeg" group-title="Rádio Variedades",Radio Energy Sverige 105.1 FM - Estolcomo / Suécia
+https://live-bauerse-fm.sharp-stream.com/nrj_instreamtest_se_aacp
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OeqXKzK.jpeg" group-title="Rádio Variedades",Radio Energy Energy 100.6 FM - Oslo / Noruega
+https://nrj.p4groupaudio.com/NRJ_MM
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OeqXKzK.jpeg" group-title="Rádio Variedades",Radio Energy Energy 102.6 FM - Pointe a Pitre / Guadalupe
+https://scdn.nrjaudio.fm/adwz1/fr_an/55248/mp3_128.mp3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OeqXKzK.jpeg" group-title="Rádio Variedades",Radio Energy Energy Réunion 100 FM - Saint-Denis / Reunião
+https://scdn.nrjaudio.fm/adwz1/fr_re/55759/mp3_128.mp3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OeqXKzK.jpeg" group-title="Rádio Variedades",Radio Energy Energy Leman 103.6 FM - Genebra / Suíça
+https://scdn.nrjaudio.fm/audio1/ch/50001/aac_64.mp3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OeqXKzK.jpeg" group-title="Rádio Variedades",Radio Energy Energy 93.2 FM - Tallinn / Estónia
+https://stream.skymedia.ee/live/NRJ
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OeqXKzK.jpeg" group-title="Rádio Variedades",Radio Energy Energy Antilles 104.4 FM - Fort-de-France / Martinica
+https://scdn.nrjaudio.fm/adwz1/fr_an/55248/mp3_128.mp3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/quOdLUa.jpeg" group-title="Rádio Variedades",Radio NRJ Energy Hits 90
+https://play.global.audio/energy-90s
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fR0JnYa.jpeg" group-title="Rádio Variedades",Radio NRJ Gangsta Rap
+https://scdn.nrjaudio.fm/adwz1/fr_an/55248/mp3_128.mp3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wu6IDoF.jpeg" group-title="Rádio Variedades",Radio NRJ Latin Hits
+https://scdn.nrjaudio.fm/adwz1/fr_an/55248/mp3_128.mp3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jnl6xKg.png" group-title="Rádio Variedades",Rádio Globo RJ 98.1 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_GLOBO_RJAAC.aac?dist=radioscombr
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vE0luX9.jpeg" group-title="Rádio Variedades",Rádio Estância 94.3 FM
+https://r13.ciclano.io:15073/stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CZBvLUU.jpeg" group-title="Rádio Variedades",Rádio Azul 82.5 FM
+https://r16.ciclano.io:15004/stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eHc4JJM.png" group-title="Rádio Variedades",Rádio Evangelizar 1060 AM 1040 AM
+https://shout87.crossradio.com.br:18000/stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/abcuRZg.jpeg" group-title="Rádio Variedades",VIP FM
+https://streaming.inweb.com.br/vipfm1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgvQcUs.jpeg" group-title="Rádio Variedades",Rádio Anime Night
+https://stm2.voxhd.com.br:10422/stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b4GxAO7.png" group-title="Rádio Variedades",Rádio Akiba
+https://ssl.srvstm.com:9526/;stream.nsv
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NvEkY5F.png" group-title="Rádio Variedades",Rádio Animu
+https://cast.animu.com.br:9079/stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KU4WqtU.jpeg" group-title="Rádio Variedades",Rádio J-Hero
+https://stm1.radiojhero.com:18008/;?type=http
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CTGcaEO.png" group-title="Rádio Variedades",Rádio Blast!
+https://centova4.transmissaodigital.com:20143/stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7IjLtO7.png" group-title="Rádio Variedades",Rádio Branime
+https://stream.zeno.fm/tyb7wdty77zuv
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lCvuL1q.png" group-title="Rádio Variedades",Rádio Doru
+https://paineldj6.com.br:20038/stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iDd3MrP.jpeg" group-title="Rádio Variedades",Naradia FM City Pop
+https://stm16.painelcast.com:6718/stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2xVhThV.png" group-title="Rádio Variedades",Rádio AMC
+https://radioamc.com.br/stream/amc
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RZwusYs.png" group-title="Rádio Variedades",Rádio K
+https://ec5.yesstreaming.net:1430/stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NFqs3Tv.png" group-title="Rádio Variedades",Rádio Nikkey
+https://stm8.voxhd.com.br:7996/stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZuCOlEU.png" group-title="Rádio Variedades",Rádio Okinawa
+https://hts05.kshost.com.br:9080/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rpxa2FU.jpeg" group-title="Rádio Variedades",Power Kpop Web Rádio
+http://stm11.srvstm.com:12710/;
+
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio169925_1683389304.jpg" group-title="Rádio Variedades",Rádio Fm Kpop Hits
+https://paineldj5.com.br:20130/stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GiXR1ll.jpeg" group-title="Rádio Variedades",Rádio Massa 94.5 FM
+https://ice.fabricahost.com.br/biancafmpr
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Oa60FXj.png" group-title="Rádio Variedades",Rádio Alternativa
+http://stm5.srvvox.com.br:7484/stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kgRI82H.jpeg" group-title="Rádio Variedades",Rádio Nova Campina
+https://stm4.srvvox.com.br:7838/stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EHKmZBw.jpeg" group-title="Rádio Variedades",Rádio Cidade 87.9 FM
+http://cc1.streammaximum.com:8054/stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uSYyVz7.jpeg" group-title="Rádio Variedades",Rádio C4 FM
+https://stm25.srvstm.com:10780/stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3dUwTYy.png" group-title="Rádio Variedades",Rádio Record 1000 AM
+https://stm10.voxhd.com.br:9702/stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zSbKRaY.jpeg" group-title="Rádio Variedades",Lupa 1 FM 94.5
+https://streaming.livespanel.com:9450/lupa1fm
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o5Wegbk.png" group-title="Rádio Variedades",Interaudio Light
+https://str1.castradios.com.br/8012/stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IxPqYfa.png" group-title="Rádio Variedades",Excesso FM 102.1
+https://excessocast.com.br/listen/recife/recife
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6BRBCVT.jpeg" group-title="Rádio Variedades",Rádio RBC Boas Novas 93.3 FM
+https://directradios.net/proxy/rbc2?mp=/stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DfxJ2oh.jpeg" group-title="Rádio Variedades",Rádio Tribuna 107.9 FM
+https://everest.radionanet.com:1090/stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vmvDctq.jpeg" group-title="Rádio Variedades",Rádio R&B
+https://stream.vagalume.fm/hls/1467745876337223/aac.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vmvDctq.jpeg" group-title="Rádio Variedades",Rádio K-Pop
+https://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vmvDctq.jpeg" group-title="Rádio Variedades",Rádio Gospel Internacional
+https://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vmvDctq.jpeg" group-title="Rádio Variedades",Rádio Gospel
+https://stream.vagalume.fm/hls/14658544132100453351/aac.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vmvDctq.jpeg" group-title="Rádio Variedades",Rádio Reggae
+https://stream.vagalume.fm/hls/1465840912218182609/aac.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vmvDctq.jpeg" group-title="Rádio Variedades",Rádio Forró
+https://stream.vagalume.fm/hls/147015501223418/aac.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vmvDctq.jpeg" group-title="Rádio Variedades",Rádio Pop
+https://stream.vagalume.fm/hls/14660050141766497579/aac.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vmvDctq.jpeg" group-title="Rádio Variedades",Rádio Latina
+https://stream.vagalume.fm/hls/1478199774246251/aac.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vmvDctq.jpeg" group-title="Rádio Variedades",Rádio Eletrônica
+https://stream.vagalume.fm/hls/146411300413492499/aac.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vmvDctq.jpeg" group-title="Rádio Variedades",Rádio Hip-Hop
+https://stream.vagalume.fm/hls/1470155107337444/aac.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vmvDctq.jpeg" group-title="Rádio Variedades",Rádio Pop Rock
+https://stream.vagalume.fm/hls/1506975770142563/aac.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vmvDctq.jpeg" group-title="Rádio Variedades",Rádio Funk
+https://stream.vagalume.fm/hls/1470154922349875/aac.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vmvDctq.jpeg" group-title="Rádio Variedades",Rádio Pagode
+https://stream.vagalume.fm/hls/147015499779090/aac.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vmvDctq.jpeg" group-title="Rádio Variedades",Rádio Rock
+https://stream.vagalume.fm/hls/1464201608479108132/aac.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vmvDctq.jpeg" group-title="Rádio Variedades",Rádio MPB
+https://stream.vagalume.fm/hls/1470154983100588/aac.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vmvDctq.jpeg" group-title="Rádio Variedades",Rádio Sertanejo
+https://stream.vagalume.fm/hls/14619606471054026608/aac.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vmvDctq.jpeg" group-title="Rádio Variedades",Rádio Sertanejo Romântico
+https://stream.vagalume.fm/hls/1499715905423293/aac.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vmvDctq.jpeg" group-title="Rádio Variedades",Rádio Anos 80
+https://stream.vagalume.fm/hls/1507663468882713/aac.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vmvDctq.jpeg" group-title="Rádio Variedades",Rádio Anos 90
+https://stream.vagalume.fm/hls/1478022035646498/aac.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vmvDctq.jpeg" group-title="Rádio Variedades",Rádio Anos 2000
+https://stream.vagalume.fm/hls/147396460892793/aac.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vmvDctq.jpeg" group-title="Rádio Variedades",Rádio Pop Nacional
+https://stream.vagalume.fm/hls/1470169276225492/aac.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vmvDctq.jpeg" group-title="Rádio Variedades",Rádio Pop Rock Nacional
+https://stream.vagalume.fm/hls/14671417541091220806/aac.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vmvDctq.jpeg" group-title="Rádio Variedades",Rádio J-Pop
+https://stream.vagalume.fm/hls/1475776167864381/aac.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vmvDctq.jpeg" group-title="Rádio Variedades",Rádio Românticas
+https://stream.vagalume.fm/hls/1470155219129532/aac.m3u8
+
+############################################################################ Rádio Brasil
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XKDj8Qh.png" group-title="Rádio Brasil",Alpha FM | Goiânia
+https://ice.fabricahost.com.br/alphafm1021
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ruCJs06.png" group-title="Rádio Brasil",Band FM | Campinas SP
+https://evpp.mm.uol.com.br/band/bandfm_camp/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fPeO9hi.png" group-title="Rádio Brasil",BandNews FM | Brasília
+https://evpp.mm.uol.com.br/band/bandnewsfm_bsb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fPeO9hi.png" group-title="Rádio Brasil",BandNews FM | Belo Horizonte
+https://evpp.mm.uol.com.br/band/bandnewsfm_bh/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fPeO9hi.png" group-title="Rádio Brasil",BandNews FM | Curitiba
+https://evpp.mm.uol.com.br/band/bandnewsfm_ctb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fPeO9hi.png" group-title="Rádio Brasil",BandNews FM | Fortaleza
+https://evpp.mm.uol.com.br/band/bandnewsfm_for/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fPeO9hi.png" group-title="Rádio Brasil",BandNews FM | Goiânia
+https://5a57bda70564a.streamlock.net/bandnewsgo/bandnewsgo.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fPeO9hi.png" group-title="Rádio Brasil",BandNews FM | João Pessoa
+https://5b7f3c45ab7c2.streamlock.net/bandnews/bandnews/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fPeO9hi.png" group-title="Rádio Brasil",BandNews FM | Manaus
+https://evpp.mm.uol.com.br/band/bandnewsfm_mao/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fPeO9hi.png" group-title="Rádio Brasil",BandNews FM | Porto Alegre
+https://evpp.mm.uol.com.br/band/bandnewsfm_poa/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fPeO9hi.png" group-title="Rádio Brasil",BandNews FM | Rio de Janeiro
+https://evpp.mm.uol.com.br/band/bandnewsfm_rj/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fPeO9hi.png" group-title="Rádio Brasil",BandNews FM | Salvador
+https://evpp.mm.uol.com.br/band/bandnewsfm_sal/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fPeO9hi.png" group-title="Rádio Brasil",BandNews FM | São Paulo
+https://27423.live.streamtheworld.com/BANDNEWSFM_SPAAC/HLS/666eb4fd-bec8-44cb-a1f8-b35a5535f030/0/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fPeO9hi.png" group-title="Rádio Brasil",BandNews FM | Vitória
+https://evpp.mm.uol.com.br/band/bandnewsfm_vit/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Band_Vale_FM_logo.svg/1200px-Band_Vale_FM_logo.svg.png" group-title="Rádio Brasil",BandVale | Vale do Paraíba SP
+https://evpp.mm.uol.com.br/band/bandvale/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vfYMS0k.png" group-title="Rádio Brasil",Cultura do Pará | Brasil
+https://www.portalcultura.com.br/playerhtml/funtelpa/radio_funtelpa/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aBcsmOq.png" group-title="Rádio Brasil",Educadora FM | Campinas SP
+https://evpp.mm.uol.com.br/band/educadora/playlist.m3u8
+#EXTINF:-1 tvg-language="Portuguese" tvg-logo="https://i.imgur.com/swGcFYI.png" group-title="Rádio Brasil",Nativa FM | Araraquara SP
+https://evpp.mm.uol.com.br/band/nativa_araraquara/playlist.m3u8
+#EXTINF:-1 tvg-language="Portuguese" tvg-logo="https://i.imgur.com/swGcFYI.png" group-title="Rádio Brasil",Nativa FM | Bauru SP
+https://evpp.mm.uol.com.br/band/nativafm_bauru/playlist.m3u8
+#EXTINF:-1 tvg-language="Portuguese" tvg-logo="https://i.imgur.com/swGcFYI.png" group-title="Rádio Brasil",Nativa FM | Campinas SP
+https://evpp.mm.uol.com.br/band/nativafm_camp/playlist.m3u8
+#EXTINF:-1 tvg-language="Portuguese" tvg-logo="https://i.imgur.com/swGcFYI.png" group-title="Rádio Brasil",Nativa FM | São José do Rio Preto SP
+https://evpp.mm.uol.com.br/band/nativa_riopreto/playlist.m3u8
+#EXTINF:-1 tvg-language="Portuguese" tvg-logo="https://i.imgur.com/swGcFYI.png" group-title="Rádio Brasil",Nativa FM | São José dos Campos SP
+https://evpp.mm.uol.com.br/band/nativafm_sjc/playlist.m3u8
+#EXTINF:-1 tvg-language="Portuguese" tvg-logo="https://i.imgur.com/swGcFYI.png" group-title="Rádio Brasil",Nativa FM | São Paulo
+https://27433.live.streamtheworld.com/NATIVA_SPAAC/HLS/1518c71c-f47e-474a-93c5-96bb92b4834f/0/playlist.m3u8
+#EXTINF:-1 tvg-language="Portuguese" tvg-logo="https://i.imgur.com/89c0Ixi.png" group-title="Rádio Brasil",Play FM São Paulo | BandPlay
+https://19813.live.streamtheworld.com/PLAY_SPAAC/HLS/4630fec5-5ccf-4406-bc06-edab6af6b021/0/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L19LnxD.png" group-title="Rádio Brasil",Rádio Sociedade | Salvador BA
+https://radiosociedade-lh.akamaihd.net/i/pp_1@368264/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DPsqixB.png" group-title="Rádio Brasil",Rádio UFRGS | RS Brasil
+http://radioaovivo.ufrgs.br:8000/stream.mp3
+#EXTINF:-1 tvg-language="Portuguese" tvg-logo="https://i.imgur.com/cBF0WmI.png" group-title="Rádio Brasil",Stereo Vale FM | BandPlay
+https://evpp.mm.uol.com.br/band/stereovale/master.m3u8
+
+############################################################################ Rádio Músicas
+
+#EXTINF:-1  tvg-logo="https://imgur.com/hq8WWQ6.png" group-title="Rádio Músicas",Pagode 
+https://hls.hunter.fm/pagode/64.m3u8?shtl=rLegrEjjYDLNiSScageIw8HO.tFEvhucVcOviAxNp1EnuCrAm7v1GpVOQdCA6q2VZ0CA
+
+#EXTINF:-1  tvg-logo="https://imgur.com/hq8WWQ6.png" group-title="Rádio Músicas",Anos 80 retrô
+https://hls.hunter.fm/80s/64.m3u8?shtl=OR99PlKze7mgR_U1AF_NVQZ0.dLFtA%2FSwg6Gi%2Fh77nRQTbBFiELSZm%2BOueXvqQcHVqGs
+
+#EXTINF:-1  tvg-logo="https://imgur.com/hq8WWQ6.png" group-title="Rádio Músicas",Sertanejo
+https://hls.hunter.fm/sertanejo/64.m3u8?shtl=rLegrEjjYDLNiSScageIw8HO.tFEvhucVcOviAxNp1EnuCrAm7v1GpVOQdCA6q2VZ0CA
+
+#EXTINF:-1  tvg-logo="https://imgur.com/hq8WWQ6.png" group-title="Rádio Músicas",Hits Brasil 
+https://hls.hunter.fm/hitsbrasil/64.m3u8?shtl=7KWu3SjMvgY-GhV1-8B6b9rB.lpykqpyxgqfSK4vGJSb3tqheOVp2UggEshcePVZJDVw
+
+#EXTINF:-1  tvg-logo="https://imgur.com/hq8WWQ6.png" group-title="Rádio Músicas",Pisadinha
+https://hls.hunter.fm/pisadinha/64.m3u8?shtl=rLegrEjjYDLNiSScageIw8HO.tFEvhucVcOviAxNp1EnuCrAm7v1GpVOQdCA6q2VZ0CA
+
+#EXTINF:-1  tvg-logo="https://imgur.com/hq8WWQ6.png" group-title="Rádio Músicas",Pop
+https://hls.hunter.fm/pop/64.m3u8?shtl=OR99PlKze7mgR_U1AF_NVQZ0.dLFtA%2FSwg6Gi%2Fh77nRQTbBFiELSZm%2BOueXvqQcHVqGs
+
+#EXTINF:-1  tvg-logo="https://imgur.com/hq8WWQ6.png" group-title="Rádio Músicas",Pop 2
+https://hls.hunter.fm/pop2k/64.m3u8?shtl=OR99PlKze7mgR_U1AF_NVQZ0.dLFtA%2FSwg6Gi%2Fh77nRQTbBFiELSZm%2BOueXvqQcHVqGs
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/UiNMxT2.png" group-title="Rádio Músicas",Rádio POP
+https://stm16.xcast.com.br:12918/stream
+
+#EXTINF:-1  tvg-logo="https://imgur.com/hq8WWQ6.png" group-title="Rádio Músicas",Gospel
+https://hls.hunter.fm/gospel/64.m3u8?shtl=OR99PlKze7mgR_U1AF_NVQZ0.dLFtA%2FSwg6Gi%2Fh77nRQTbBFiELSZm%2BOueXvqQcHVqGs
+
+#EXTINF:-1  tvg-logo="https://imgur.com/hq8WWQ6.png" group-title="Rádio Músicas",Moda Sertaneja
+https://hls.hunter.fm/modasertaneja/64.m3u8?shtl=OR99PlKze7mgR_U1AF_NVQZ0.dLFtA%2FSwg6Gi%2Fh77nRQTbBFiELSZm%2BOueXvqQcHVqGs
+
+#EXTINF:-1  tvg-logo="https://imgur.com/hq8WWQ6.png" group-title="Rádio Músicas", Tropical 
+https://hls.hunter.fm/tropical/64.m3u8?shtl=OR99PlKze7mgR_U1AF_NVQZ0.dLFtA%2FSwg6Gi%2Fh77nRQTbBFiELSZm%2BOueXvqQcHVqGs
+
+#EXTINF:-1  tvg-logo="https://imgur.com/hq8WWQ6.png" group-title="Rádio Músicas",Rock
+https://hls.hunter.fm/rock/64.m3u8?shtl=OR99PlKze7mgR_U1AF_NVQZ0.dLFtA%2FSwg6Gi%2Fh77nRQTbBFiELSZm%2BOueXvqQcHVqGs
+
+#EXTINF:-1  tvg-logo="https://imgur.com/11DH4AQ.png" group-title="Rádio Músicas",ATIVIDADE FM 87.9 Canudos BA
+http://atividadefm879.html5player.acessaradios.com.br:9256/atividadefm879
+
+#EXTINF:-1  tvg-logo="https://imgur.com/sxxaEKP.png" group-title="Rádio Músicas",JERE FM 106.9 JEREMOABO BA
+http://172.82.160.250:8309/stream
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Ns3uV8S.png" group-title="Rádio Músicas",Energia 97
+https://streaming.inweb.com.br/energia
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UiNMxT2.png" group-title="Rádio Músicas",Gospel Internacional
+https://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/OpAKbxr.png" group-title="Rádio Músicas",Rádio Salvador FM YT
+https://ythls.armelin.one/channel/UCFrYnMVzIUXxJPCyv-WcZuw.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gFE3Qih.png" group-title="Rádio Músicas",Antena 1
+https://21qcxjbzwr.singularcdn.net.br/antena1/ngrp:live_all/chunklist_b946000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d2qdM76.png" group-title="Rádio Músicas",Brado Rádio 
+https://servidor17-5.brlogic.com:8300/live?source=links_page
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/atmex20.png" group-title="Rádio Músicas",Shockwave
+https://stm8.painelcast.com:6982/stream
+
+############################################################################ Canais | Estudios de Radio
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2e702dad259e4f3439f1d0fd75ea061b.webp" group-title="Canais de Estudios de Radio",Radio AM/FM Uirapuru
+https://video02.logicahost.com.br/rduirapuru01/rduirapuru01/chunklist_w1087945484.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/272cf3e763cadea0a4dc12297aef8f76.webp" group-title="Canais de Estudios de Radio",Radio Clube Fm 105,5
+https://clubefm1.brasilstream.com.br/hls/clubefm1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2d84a960f5f93615bd7cd244781fe078.webp" group-title="Canais de Estudios de Radio",JK+ FM 102.7
+https://video02.logicahost.com.br/jkfm/jkfm/chunklist_w525192151.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/27256cbc2324cc3cb146bfae8b5fec67.webp" group-title="Canais de Estudios de Radio",Interativa 94.9 FM
+https://59f1cbe63db89.streamlock.net:1443/interativafm/_definst_/interativafm/chunklist_w1882421469.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GdK6miy.png" group-title="Canais de Estudios de Radio",Catve FM Cascavel 91.7
+https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/chunklist_w1271267588.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d7fed4356a9cbd5f7132512c9f7219c1.webp" group-title="Canais de Estudios de Radio",Massa FM
+https://cdn-cdn-massafmsp.ciclano.io:1443/cdn-massafmsp/cdn-massafmsp/chunklist_w1795691500.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/873280c74a305ffe7e2d2d2f62c65597.webp" group-title="Canais de Estudios de Radio",Radio Clube 100,5 FM
+https://live.cdn.upx.com/5e5c_5/myStream.sdp/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9a10daa5fd14c81ddf8ab5ca9067e51f.webp" group-title="Canais de Estudios de Radio",Rede Metropolitana
+https://cdn.cdnseguro.com/metropolitana2/metropolitana2/chunklist_w1056578490.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4c5b6bfa30d2a85b0332b4f2d12dc72c.webp" group-title="Canais de Estudios de Radio",SUPRA FM
+https://live.cdn.upx.com/00079/myStream.sdp/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/034b957933f30a5521e5d38d43639e00.webp" group-title="Canais de Estudios de Radio",Radio Monte FM 96.7
+https://montefm.brasilstream.com.br/hls/montefm/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Rmk94Ur.png" group-title="Canais de Estudios de Radio",Radio Difusora FM 98.9
+https://difusorafm.brasilstream.com.br/hls/difusorafm/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mvJqkIh.png" group-title="Canais de Estudios de Radio",Catve FM Foz 91.9
+https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/chunklist_w1341218980.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9a29f7e4c61fa59e0572925cb2dafaa6.webp" group-title="Canais de Estudios de Radio",Radio Yguazú
+https://live.enhdtv.com:8081/radioiguazutv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/725e36b8123237b92ff407782191f358.webp" group-title="Canais de Estudios de Radio",Ind FM 104,5
+https://virtues.es:1936/indfm/indfm/chunklist_w1685411770.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b14cc88fdb17ec36c0f28e8422a763ce.webp" group-title="Canais de Estudios de Radio",Radio Planalto FM 105.9
+https://cdn-planaltofm.ciclano.io:1443/planaltofm/planaltofm/chunklist_w2116023340.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a2e6e18864bd67a21b55b4feb4ac962e.webp" group-title="Canais de Estudios de Radio",Gospel FM
+https://virtues.es:1936/gospel90/gospel90/chunklist_w1194472670.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1e179dec7c1b7c1780432c0ee9863746.webp" group-title="Canais de Estudios de Radio",87,7 FM Tres Rios
+https://6mngseslsw.zoeweb.tv/z609-live/stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/42ab98803cbeeceeacb1d7374c1db38e.webp" group-title="Canais de Estudios de Radio",Radio Planalto News FM 92.9
+https://cdn-rdplanalto.ciclano.io:1443/rdplanalto/rdplanalto/chunklist_w1192069348.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/507809bb4d141e7486317b4ced00e8d1.webp" group-title="Canais de Estudios de Radio",Radio Ovacion
+https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/chunklist_w418348153.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d115c8cfe0408f7a5d4d444d83a5e30b.webp" group-title="Canais de Estudios de Radio",Tropical 87.5 FM
+https://cdn1.str.srv.br/CM7002/CM7002/chunklist_w1991508081.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/warwWkW.png" group-title="Canais de Estudios de Radio",Radio Difusora 95.3 FM
+https://difusoraamaovivo.brasilstream.com.br/hls/difusoraamaovivo/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/40eaa9286ea75b5b134115cd81691ccf.webp" group-title="Canais de Estudios de Radio",Radio Clube Araras 1460 AM
+https://virtues.es:1936/clubeararense/clubeararense/chunklist_w69239824.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2f2023f84a48acd14849f660a7960a4d.webp" group-title="Canais de Estudios de Radio",RADIO MUNDIAL FM 93.5a
+https://virtues.es:1936/mundialfmpirassununga/mundialfmpirassununga/chunklist_w238186983.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XzCv2tU.gif" group-title="Canais de Estudios de Radio",WOCM Ocean 98.1 FM
+https://5790d294af2dc.streamlock.net/8258/8258/chunklist_w1379876665.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaB3NSoT1fiaV2HuvL_cXsfTkhLVrtnLQY-PWS9ENqW0VGijMhlKm8JDLQihvicOqmYqiwsCCdBcTkyQ0SRTinNMxom45VzoqFDTBOHNq_dUd5SiqNtSeG3OiTGAtgkmA_4_0yVl-rlu1TJw3hSLzULkvTtH0Ab3FF_ET30sCZ8FSYPnQiZ1TtuiP5Osc/w200-h100/R%C3%81DIO%20MARUMBY.jpg" group-title="Canais de Estudios de Radio",RADIO MARUMBY
+https://5a2b083e9f360.streamlock.net/marumby/marumby.sdp/chunklist_w1612571741.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqLS9OQ1lyFFQSK5TxdUpdDAtetNB8uBVS4pUlojDhNOcH8tC1kTt_Os4Iz9q1E1MxNVUiepr-zGFClsImeICav48cD-pCtiUiojzWSgFmr-GRRl7Z0j2Gats2S8dTEnmbQ2amGMobMWVySIBye481vMQUHjDqTDLJcRukc8U_JVBTBE79JQMkGm51C5Q/w200-h100/NOVOS%20HORIZONTES%20FM%20104.7.jpg" group-title="Canais de Estudios de Radio",NOVOS HORIZONTES FM 104.7
+https://5a57bda70564a.streamlock.net/novosh/novosh.sdp/chunklist_w207356910.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hhHbZbT.png" group-title="Canais de Estudios de Radio",RÁDIO VOZ MISSIONÁRIA
+https://tv01.zas.media:1936/vozmissionaria/vozmissionaria/chunklist_w353683795.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3gK1t4P.png" group-title="Canais de Estudios de Radio",RÁDIO TRANS MUNDIAL
+https://video.midiaserverbr.com:3975/live/rtmbrlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/qnWYMIU.png" group-title="Canais de Estudios de Radio",RÁDIO TAROBA FM 101.7
+https://cdn.jmvstream.com/w/LVW-8799/LVW8799_UJQ7Y9nliA/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SXv9GgV.jpeg" group-title="Canais de Estudios de Radio",RÁDIO TROPICAL TARAPOTO
+https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NBpTihy.png" group-title="Canais de Estudios de Radio",RÁDIO SOCIEDADE
+https://painel.sintonizar.tv.br:1936/sociedadevideo/sociedadevideo/chunklist_w98903025.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4ag7oxK.png" group-title="Canais de Estudios de Radio",RÁDIO RCC FM 95.3
+https://video01.kshost.com.br:4443/kamal3366/kamal3366/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vPEO4sz.png" group-title="Canais de Estudios de Radio",RÁDIO RUIDOS FM
+https://panel.tvstream.cl:1936/8022/8022/chunklist_w1540917180.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/RDTA02g.png" group-title="Canais de Estudios de Radio",RÁDIO REDENTOR
+https://virtues.es:1936/redentor/redentor/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c1BlUFw.png" group-title="Canais de Estudios de Radio",RÁDIO Q MUSIC
+https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HoTNUqE.jpeg" group-title="Canais de Estudios de Radio",RÁDIO PLANALTO NEWS 92.1
+https://cdn-rdplanalto.ciclano.io:1443/rdplanalto/rdplanalto/chunklist_w1840781305.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VkCbOET.png" group-title="Canais de Estudios de Radio",RÁDIO PLANALTO FM 105.9
+https://cdn-planaltofm.ciclano.io:1443/planaltofm/planaltofm/chunklist_w2018644666.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eaYywcr.png" group-title="Canais de Estudios de Radio",RÁDIO POSITIVA 99.1
+https://video02.logicahost.com.br/positivafm/positivafm/chunklist_w713204643.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Juk1gLL.png" group-title="Canais de Estudios de Radio",ON FM
+https://5ce9406b73c33.streamlock.net/ONFM/livestream/chunklist_w265505462.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3yIjIKf.jpeg" group-title="Canais de Estudios de Radio",RÁDIO NOVA ERA
+https://stmv1.conectastreaming.com/novaera/novaera/chunklist_w985997650.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/nXFc4Ji.png" group-title="Canais de Estudios de Radio",RADIO M20
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/2Mzdhh9.png" group-title="Canais de Estudios de Radio",RÁDIO MONTANHESA VIÇOSA
+https://qfm.geraistec.com.br/hlsm/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/2Mzdhh9.png" group-title="Canais de Estudios de Radio",RÁDIO MONTANHESA ERVALIA
+https://qfm.geraistec.com.br/hlsmErv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZXCTG0D.png" group-title="Canais de Estudios de Radio",RÁDIO MARUMBY
+https://5a2b083e9f360.streamlock.net/marumby/marumby.sdp/chunklist_w368596073.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/zsV3aqE.png" group-title="Canais de Estudios de Radio",RÁDIO INTERATIVA GOIANIA
+https://59f1cbe63db89.streamlock.net:1443/interativafm/_definst_/interativafm/chunklist_w246335953.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/7MNKEdQ.png" group-title="Canais de Estudios de Radio",RÁDIO JK FM
+https://video02.logicahost.com.br/jkfm/jkfm/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LikuPT8.png" group-title="Canais de Estudios de Radio",RÁDIO HUILA TV
+https://plataformavideo.com:19360/8020/8020.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Tfmu2cB.png" group-title="Canais de Estudios de Radio",RÁDIO FM O DIA
+https://cdn.livespanel.com/live/fmodia/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HjpHa7H.png" group-title="Canais de Estudios de Radio",RÁDIO FM LIBERDADE
+https://fmliberdade.brasilstream.com.br/hls/fmliberdade/index.m3u8?token=6435840468865704000
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pCCJjMZ.jpeg" group-title="Canais de Estudios de Radio",RADIO ITALIA TV
+https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/stream03/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/XECm2wC.png" group-title="Canais de Estudios de Radio",RÁDIO INTERATIVA GOIANIA
+https://virtues.es:1936/indfm/indfm/chunklist_w368502117.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v0KISsa.png" group-title="Canais de Estudios de Radio",RÁDIO ESTÚDIO A FM 87.5
+https://5a57bda70564a.streamlock.net/estudioatv/estudioatv.sdp/chunklist_w428511670.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Nym8L3O.png" group-title="Canais de Estudios de Radio",RÁDIO ELDORADO
+https://cdn.live.br1.jmvstream.com/w/LVW-8491/LVW8491_7Bz8dSRZNZ/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wxNNnMy.png" group-title="Canais de Estudios de Radio",RÁDIO EU E VOCE
+https://virtues.es:1936/radioeuevoce/radioeuevoce/chunklist_w2076218547.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A8ylBJ9.png" group-title="Canais de Estudios de Radio",RÁDIO D2 FM 95.3
+https://serv3.videovox.pw/ibraim3622/ibraim3622/chunklist_w961143203.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y5cZTnb.png" group-title="Canais de Estudios de Radio",RÁDIO DIAMANTINA FM
+https://chapada.brasilstream.com.br/hls/chapada/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a33TP2S.png" group-title="Canais de Estudios de Radio",RÁDIO DIFUSORA FM
+https://difusoraamaovivo.brasilstream.com.br/hls/difusoraamaovivo/index.m3u8?token=5298910756898130000
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WwKYlPN.png" group-title="Canais de Estudios de Radio",RÁDIO CLUBE FM 99
+https://clubefm.brasilstream.com.br/hls/clubefm/index.m3u8?token=10372025852618550000
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XLJuBEm.png" group-title="Canais de Estudios de Radio",RÁDIO CLUBE FM 104.7 (SÃO CARLOS)
+https://live.cdn.upx.com/5e5c_4/myStream.sdp/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EgQNx8p.jpeg" group-title="Canais de Estudios de Radio",RÁDIO CLUBE FM 100.5 (RIBEIRÃO PRETO)
+https://live.cdn.upx.com/5e5c_5/myStream.sdp/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Eeu9LxA.jpeg" group-title="Canais de Estudios de Radio",RÁDIO CIDADE VERDE 93.5
+https://stmv1.transmissaodigital.com/cidadeverde2/cidadeverde2/chunklist_w1648114693.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5CcxVHH.png" group-title="Canais de Estudios de Radio",RÁDIO  CATVE FM 91.7
+https://5b33b873179a2.streamlock.net:1443/catve2/catve2/chunklist_w2049926298.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YJpJUyo.png" group-title="Canais de Estudios de Radio",RADIO CAPITAL
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/chunklist_b2428000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YvpzjYy.png" group-title="Canais de Estudios de Radio",RÁDIO ATIVA FM 98.1
+https://a.cdni.live/ativa98/ativa98/chunklist_w12211223.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ttcnqgP.png" group-title="Canais de Estudios de Radio",RÁDIO ATIVIDADE FM 
+https://stmv1.transmissaodigital.com/obmor2250/obmor2250/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dP8muJU.png" group-title="Canais de Estudios de Radio",RÁDIO 40 GRAUS 102.5
+https://radio40graus.brasilstream.com.br/hls/radio40graus/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k3OUzSX.png" group-title="Canais de Estudios de Radio",RÁDIO 95.1 CULTURA FM (UBERLANDIA)
+https://culturahd.brasilstream.com.br/hls/culturahd/index.m3u8?token=10421204717422428000
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kvaSer5.png" group-title="Canais de Estudios de Radio",RÁDIO 95+ FM 
+https://video01.logicahost.com.br/radio95fm/radio95fm/chunklist_w1824512953.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wiz65Z1.jpeg" group-title="Canais de Estudios de Radio",RÁDIO 97.9 Q FM
+https://qfm.geraistec.com.br/hlsq/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bGqBJLW.png" group-title="Canais de Estudios de Radio",RÁDIO 98.7 CLUBE FM
+https://video02.logicahost.com.br/clubefmuberlandia/clubefmuberlandia/chunklist_w1532992125.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JbYaJlE.jpeg" group-title="Canais de Estudios de Radio",RÁDIO 98 FM (CAMPO FORMOSO)
+https://5a57bda70564a.streamlock.net/98fmtv/98fmtv.sdp/chunklist_w1447228225.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ha8zhIy.png" group-title="Canais de Estudios de Radio",RÁDIO 102.7 FM
+https://stmv1.srvstm.com/rogerio2689/rogerio2689/chunklist_w1791525089.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UdzCdCK.png" group-title="Canais de Estudios de Radio",RÁDIO 106 SERTANEJA
+https://live.cdn.upx.com/2384/myStream.sdp/playlist.m3u8
+
+############################################################################ Cameras | Ao Vivo Brasil
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Cameras Ao Vivo Brasil",Praia de Tramandaí
+https://vid1.streaming.websul.net.br/live/ods-tramandai.stream/chunklist_w1272354472.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Cameras Ao Vivo Brasil",Passo de Torres
+https://vid1.streaming.websul.net.br/live/ods-torres.stream/chunklist_w1702403354.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Cameras Ao Vivo Brasil",Praia de Imbe
+https://vid1.streaming.websul.net.br/live/ods-imb.stream/chunklist_w695745927.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Cameras Ao Vivo Brasil",Ponte Internacional da Amizade
+https://5b33b873179a2.streamlock.net:1443/camerapontefoz/camerapontefoz.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Cameras Ao Vivo Brasil",Goiania - Av. Jamel Cecílio
+https://5a7d54e35f9d2.streamlock.net/flamboyant/flamboyant.stream/chunklist_w1712742205.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Cameras Ao Vivo Brasil",Guaratuba - Praia Central
+https://video02.logicahost.com.br/portaldacidade/guaratubarestaurantebrisadomar.stream/chunklist_w962753312.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Cameras Ao Vivo Brasil",Goiania - Praça da Inspiração
+https://5a7d54e35f9d2.streamlock.net/flamboyant/flamboyant.stream/chunklist_w186174662.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Cameras Ao Vivo Brasil",Cascavel Panoramica
+https://5b33b873179a2.streamlock.net:1443/cameradiscolandia/cameradiscolandia.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Cameras Ao Vivo Brasil",Goiania - Av. Rio Verde
+https://hunq9fz8yk.zoeweb.tv/flamboyant/flamboyant.stream/chunklist_w900243510.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Cameras Ao Vivo Brasil",Caldas Novas - Praça do Prive 2
+https://5a7d54e35f9d2.streamlock.net/flamboyant/flamboyant.stream/chunklist_w134953163.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Cameras Ao Vivo Brasil",Umuarama - Av. Parana
+https://video02.logicahost.com.br/portaldacidade/umuarapostoitamaraty.stream/chunklist_w936622260.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Cameras Ao Vivo Brasil",Cascavel - Centro
+https://5b33b873179a2.streamlock.net:1443/cameradiscolandia/cameradiscolandia.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Cameras Ao Vivo Brasil",Umuarama - Praça Miguel Rossafa
+https://video02.logicahost.com.br/portaldacidade/umuarapostoitamaraty.stream/chunklist_w428670474.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Cameras Ao Vivo Brasil",BRASIL 1
+http://cameras.interaviation.com.br/camera02/interaviation2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Cameras Ao Vivo Brasil",BRASIL 2
+https://5a8d73edc0407.streamlock.net/bnuip200/bnuip20003.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Cameras Ao Vivo Brasil",BRASIL 3
+https://5b33b873179a2.streamlock.net:1443/cameradiscolandia/cameradiscolandia.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Cameras Ao Vivo Brasil",BRASIL 4
+https://hunq9fz8yk.zoeweb.tv/flamboyant/flamboyant.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Cameras Ao Vivo Brasil",BRASIL 5 PORTO BELO
+https://hunq9fz8yk.zoeweb.tv/flamboyant/flamboyant.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Cameras Ao Vivo Brasil",BRASIL 6
+https://cams.cdn-surfline.com/cdn-int/br-saquarema/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Cameras Ao Vivo Brasil",BRASIL 7
+https://5a8d73edc0407.streamlock.net/bnuip200/bnuip20009.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Cameras Ao Vivo Brasil",BRASIL 8
+https://5a8d73edc0407.streamlock.net/bnuip200/bnuip20002.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Cameras Ao Vivo Brasil",BRASIL 9
+https://5a8d73edc0407.streamlock.net/bnuip20/bnuip2005.stream/chunklist.m3u8
+
+############################################################################ Cameras | Ao Vivo no Mundo
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Cameras Ao Vivo no Mundo",Cologne Bonn Airport - Apron Terminal 1 - Alemanha
+https://stream-5gw.1000eyes.de/cupertino/cgn4463E1.stream/chunklist_w894134611.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Cameras Ao Vivo no Mundo",Aquapark Tatralandia II - Eslovaquia
+https://stream.profi-net.sk/tmr/STREAM48.stream/chunklist_w684479581.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Cameras Ao Vivo no Mundo",Gino Paradise Besenova II - Eslovaquia
+https://stream.profi-net.sk/tmr/STREAM46.stream/chunklist_w719534533.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Cameras Ao Vivo no Mundo",Playa Hermosa Costa Rica
+https://cams.cdn-surfline.com/cdn-ec/cr-playahermosa/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Cameras Ao Vivo no Mundo",SNIPTV RUSSIA
+http://live-orsk.cdnvideo.ru/orsk/hithd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Cameras Ao Vivo no Mundo",VK RUSSIA
+https://lifecam.sigma-ktv.ru/CTV_Rec/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Cameras Ao Vivo no Mundo",AFRICA 1
+https://cams.cdn-surfline.com/cdn-int/za-melkbosstrand/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Cameras Ao Vivo no Mundo",AFRICA 2
+https://cams.cdn-surfline.com/cdn-int/za-campsbay/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Cameras Ao Vivo no Mundo",AUSTRIA 1
+https://streaming15.huberwebmedia.at/LiveApp/streams/784827628780861018745117.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Cameras Ao Vivo no Mundo",AUSTRIA 2
+https://streaming11.huberwebmedia.at/LiveApp/streams/197624825349370259602376.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Cameras Ao Vivo no Mundo",CANADA
+http://5ddd47d64e730.streamlock.net:1935/ospreycam/ospreycam.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Cameras Ao Vivo no Mundo",CANADA 2
+https://edge01.london.nginx.hdontap.com/hosb1/Jeezly-3_CWRC.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Cameras Ao Vivo no Mundo",CANADA 3
+https://edge01.london.nginx.hdontap.com/hosb1/Jeezly-2_CWRC.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Cameras Ao Vivo no Mundo",CANADA 4
+https://edge01.london.nginx.hdontap.com/hosb1/Jeezly-1_CWRC.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Cameras Ao Vivo no Mundo",CHINA
+https://d3apr4o6dyu2wj.cloudfront.net/out/v1/5542084556434f93a52a80a27b0e3f8c/index_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Cameras Ao Vivo no Mundo",CHINA 2 PANDA
+https://gcwbndtxyhw.liveplay.myqcloud.com/gcwbnd/ipanda1000_2_hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Cameras Ao Vivo no Mundo",CHINA 3
+https://gctxyhwc.liveplay.myqcloud.com/gc/tms01_1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Cameras Ao Vivo no Mundo",Czech - Jablunkov
+http://stream.silesnet.net/webcams/jablunkov.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Cameras Ao Vivo no Mundo",CZECH 1
+https://stream.mycrony.cz/webcam/miniareal.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Cameras Ao Vivo no Mundo",CZECH 2
+http://31.47.96.14:80/hls/roznov.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Cameras Ao Vivo no Mundo",CZECH 3
+https://cam.moses.cz/stream/cam10/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Cameras Ao Vivo no Mundo",CZECH 4
+https://kamery2.wolfnet.cz/andelka2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Cameras Ao Vivo no Mundo",CZECH 5
+http://kamery2.wolfnet.cz/ZS_Nejdek.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Cameras Ao Vivo no Mundo",CZECH 6
+https://kamery2.wolfnet.cz/bozi_vyhlidka1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Cameras Ao Vivo no Mundo",CZECH 7
+https://streamer.pb.cz/hls/spartak1/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Cameras Ao Vivo no Mundo",CZECH 8
+http://31.47.96.14:80/hls/hutisko.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Cameras Ao Vivo no Mundo",CZECH 9
+https://kamery2.wolfnet.cz/bozi_vyhlidka2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Cameras Ao Vivo no Mundo",CZECH 10
+http://31.47.96.14:80/hls/eroplan.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Cameras Ao Vivo no Mundo",FINLANDIA
+https://camsecure.co/HLS/vitaly.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Cameras Ao Vivo no Mundo",FINLANDIA 2
+https://torget.ostnyland.fi/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Cameras Ao Vivo no Mundo",Germany - Binz
+http://cam01.binz-kabel.de/cam1/960.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Cameras Ao Vivo no Mundo",Germany - Falken
+http://stream.falkenkamera.de:8080/stream.webm
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Cameras Ao Vivo no Mundo",Germany - Groemitz
+http://osltv.stream24.net/osltv1/_definst_/mp4:groemitz.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Cameras Ao Vivo no Mundo",Germany - Groemitz 2
+http://osltv.stream24.net/osltv9/_definst_/mp4:groemitz3.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Cameras Ao Vivo no Mundo",Germany - Heidelberg 1
+https://h055.video-stream-hosting.de/heidelberg-rtplive/_definst_/mp4:camera2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Cameras Ao Vivo no Mundo",Germany - Heidelberg 2
+https://h055.video-stream-hosting.de/heidelberg-rtplive/_definst_/mp4:camera3.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Cameras Ao Vivo no Mundo",USA - Beach Cam
+https://59b69eab8875b.streamlock.net/live/Beach_Cam_01.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Cameras Ao Vivo no Mundo",USA - Beech Moutain Resort
+https://stream.resortcams.com/live/smil:beechsummit.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Cameras Ao Vivo no Mundo",USA - Dead Dog Saloon Stage
+https://5ed7b8fd7bf40.streamlock.net:444/DeadDogSaloonCam/deaddog/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Cameras Ao Vivo no Mundo",USA - Downtown
+https://59d39900ebfb8.streamlock.net/Channels101/default.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Cameras Ao Vivo no Mundo",USA - Downtown 2
+https://59d39900ebfb8.streamlock.net/Channels301/default.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Cameras Ao Vivo no Mundo",USA - Eagle Cam
+https://edge01.london.nginx.hdontap.com/hosb1/dullesgreenway_eaglecam-ptz-video.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Cameras Ao Vivo no Mundo",USA - Falcon
+https://live.hdontap.com/hls/hosb1/f44-fisheye_utica.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Cameras Ao Vivo no Mundo",USA - Folly Beach
+https://5a5f765a4fcc2.streamlock.net:1936/live/folly.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Cameras Ao Vivo no Mundo",USA - Green Parrot Bar
+https://stream.resortcams.com/live-greenparrot/greenparrot2.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Cameras Ao Vivo no Mundo",USA - Hogs Breath Saloon
+https://stream.resortcams.com/live-hogsbreath/hogsbreath3.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Cameras Ao Vivo no Mundo",USA - Hogs Breath Saloon 2
+https://stream.resortcams.com/live-hogsbreath/hogsbreath2-audio.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Cameras Ao Vivo no Mundo",USA - Huntington Beach
+https://edge01.london.nginx.hdontap.com/hosb1/waterfront_swellmagnet.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Cameras Ao Vivo no Mundo",USA - Kure Beach
+https://5a5f765a4fcc2.streamlock.net:1936/live/kbstreet.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Cameras Ao Vivo no Mundo",USA - Mackinac Island Bar
+https://island.networkingdesign.com:8184/hls/live.stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Cameras Ao Vivo no Mundo",USA - Mackinac Island Hotel
+https://island.networkingdesign.com:8183/hls/live.stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Cameras Ao Vivo no Mundo",USA - Madeline Island
+https://stream.resortcams.com/live/madelineisland.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Cameras Ao Vivo no Mundo",USA - Minnesota
+https://stream.resortcams.com/live/spiritmtn.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Cameras Ao Vivo no Mundo",USA - Myrtle Beach Cam
+https://5ab0d1d85f91f.streamlock.net/fuel/boardwalk_1.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Cameras Ao Vivo no Mundo",USA - Myrtle Beach Cam 2
+https://5ab0d1d85f91f.streamlock.net/Riptydz/cam-rt-volleyball.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Cameras Ao Vivo no Mundo",USA - Myrtle Beach Cam 3
+https://5ab0d1d85f91f.streamlock.net/Riptydz/cam-rt-blvd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Cameras Ao Vivo no Mundo",USA - Pineapple Willys Beach
+https://5ed7b8fd7bf40.streamlock.net:444/pwillys/pwillysbeachcam062923/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Cameras Ao Vivo no Mundo",USA - Rehoboth Beach
+https://58bdb48e25cf1.streamlock.net:19350/live/vcde003.stream/playlist.m3u8
+
+############################################################################ Canais | Runtime
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DyxtBnY.png" group-title="Canais Runtime",RUN TIME TV
+https://d3vx6kwn4pkd9t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fj2q06aizeppd-prod/run/rt_br/rt_br.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DyxtBnY.png" group-title="Canais Runtime",RUN TIME ACTION
+https://d3vx6kwn4pkd9t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fj2q06aizeppd-prod/run/rt_ra/rt_ra.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DyxtBnY.png" group-title="Canais Runtime",RUN TIME
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DyxtBnY.png" group-title="Canais Runtime",RUN TIME ACAO
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DyxtBnY.png" group-title="Canais Runtime",RUN TIME COMEDIA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DyxtBnY.png" group-title="Canais Runtime",RUN TIME CRIME
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DyxtBnY.png" group-title="Canais Runtime",RUN TIME CINE ESPANTO
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DyxtBnY.png" group-title="Canais Runtime",RUN TIME ROMANCE
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DyxtBnY.png" group-title="Canais Runtime",RUN TIME FAMILIA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5589
+
+############################################################################ Canais | Urban
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oVX43Cz.png" group-title="Canais Urban",URBAN SPORTS
+https://stream.uniquetv.com.br/uniquetvsports/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7mlxCsY.png" group-title="Canais Urban",URBAN KIDS
+http://200.194.238.229:8383/live/urbankids/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x2mSJhe.png" group-title="Canais Urban",URBAN SERIES
+http://200.194.238.229:8383/live/urbanseries/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yCVtQKK.png" group-title="Canais Urban",URBAN DOCS
+http://200.194.238.229:8383/live/urbandocs/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/vycKksk.png" group-title="Canais Urban",URBAN RETRO
+http://200.194.238.229:8383/live/urbanretro/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Ce0WVu2.png" group-title="Canais Urban",URBAN MOVIES
+http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/fjU0OKj.png" group-title="Canais Urban",URBAN TRAVEL
+http://200.194.238.229:8383/live/urbantravel/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/YTEJYrB.png" group-title="Canais Urban",URBAN TURBO
+http://200.194.238.229:8383/live/urbanturbo/playlist.m3u8
+
+############################################################################ Canais | Hallo!
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K8bO36K.png" group-title="Canais Hallo",Hallo Anime
+https://cdn-1.nxplay.com.br/HalloANIME/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vaGXIqy.png" group-title="Canais Hallo",Hallo Classic
+https://cdn-2.nxplay.com.br/HalloCLASSIC/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vaGXIqy.png" group-title="Canais Hallo",Hallo Movies
+https://cdn-2.nxplay.com.br/HALLOMOVIES/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vaGXIqy.png" group-title="Canais Hallo",Hallo Series
+https://cdn-2.nxplay.com.br/HALLOSERIES/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vaGXIqy.png" group-title="Canais Hallo",Hallo Music
+https://cdn-2.nxplay.com.br/HALLOMUSIC/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vaGXIqy.png" group-title="Canais Hallo",Hallo Doc
+https://cdn-2.nxplay.com.br/HALLODOC/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
+
+############################################################################ Canais | Música
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IPdzeqF.png" group-title="Canais de Música",Afrobeats
+https://stream.ecable.tv/afrobeats/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LZT76RX.png" group-title="Canais de Música",Muzangala TV
+https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/chunklist_w1087878616.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4uHy9Es.png" group-title="Canais de Música",DBM - DIGITAL BLACK MUSIC
+https://edge21.vedge.infomaniak.com/livecast/smil:dbmtv.smil/chunklist_w978770520_b1000000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K2G41Pn.png" group-title="Canais de Música",AFROVIBES TV
+https://vse2-sa-all56.secdn.net/tvsw4-chorigin/play/prod-f71bb37841b54966890bdf772c79cbaa/chunklist_sess641139627.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X4nHIJt.png" group-title="Canais de Música",Play TV (Music)
+http://connectiktv.ddns.net:5000/playtv/@playtv/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DFkwWmV.png" group-title="Canais de Música",Baraza Music TV
+https://ssh101.bozztv.com/ssh101/relaxing/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uHlbAJR.png" group-title="Canais de Música",Portal Foxmix
+https://panel.tvstream.cl:1936/8040/8040/chunklist_w652873405.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x6k5ilc.png" group-title="Canais de Música",Top TV
+https://isaocorp.cloudecast.com/toptv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6pKbCaF.png" group-title="Canais de Música",TV Caruaru	
+https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/chunklist_w1077730678.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/ipKpPCe.png" group-title="Canais de Música",BLITS TV	
+https://video03.logicahost.com.br/blitstv01/blitstv01/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/ibdy2N1.png" group-title="Canais de Música",TV IN FOCO VALES	
+https://5ad482a77183d.streamlock.net/pedroavilacampegmail.com/pedroavilacampegmail.com/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zi9JODn.png" group-title="Canais de Música",4 FUN
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J6pLGMe.png" group-title="Canais de Música",CBTV PLAY
+https://stmv2.samcast.com.br/carla7379/carla7379/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cfxKsF3.png" group-title="Canais de Música",CDTV
+http://stmv1.caxiashost.com.br/caxiashost/caxiashost/playlist.m3u8?wowzasessionid=1090463670
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kjyx8UT.png" group-title="Canais de Música",CENTRAL DO BRASIL TV
+https://stmv2.centralcast.com.br/central/central/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/JZuJpCK.png" group-title="Canais de Música",CLUBBING TV	
+https://clubbingtv-samsungbrazil.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i9fwNqx.png" group-title="Canais de Música",CN AGITOS
+https://serv2.videovox.pw/cnagitos/cnagitos/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/gdmSy9I.png" group-title="Canais de Música",DANCE TELEVISION
+https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xSvscoc.png" group-title="Canais de Música",ERE NEWS
+https://stmv1.samcast.com.br/erenews/erenews/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ww2KhZX.png" group-title="Canais de Música",EURODANCE 90
+https://eurodance90.catcast.tv/content/36987/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/47oBUBM.png" group-title="Canais de Música",GOSPEL MUSIC 
+https://stmv1.srvif.com/gmusic/gmusic/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/coq8mWG.png" group-title="Canais de Música",GOSTEI TV
+https://59f1cbe63db89.streamlock.net:1443/redegostei/redegostei/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TDcCKYT.png" group-title="Canais de Música",IN TV
+https://59f1cbe63db89.streamlock.net:1443/interativafm/_definst_/interativafm/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Oo8OuQ5.png" group-title="Canais de Música",LOVE SONGS
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619b80acac5329000740c022/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://imgur.com/wE5uBK7.png" group-title="Canais de Música",MAIS UM
+https://stream.ichibantv.com:3230/stream/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fP74ULx.png" group-title="Canais de Música",METROPOLITANA
+https://cdn.cdnseguro.com/metroguara/metroguara/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fP74ULx.png" group-title="Canais de Música",METROPOLITANA 2
+https://cdn.cdnseguro.com/metropolitana2/metropolitana2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Es8Q41j.png" group-title="Canais de Música",NUBEH TV
+https://vcp.myplaytv.com/nubehtv/nubehtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8NaTi3T.png" group-title="Canais de Música",OCKO GOLD TV
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/1hyiQnt.png" group-title="Canais de Música",POOP TV
+https://stream.ichibantv.com:3522/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4ICNhcr.png" group-title="Canais de Música",REDE RC
+https://video05.logicahost.com.br/rederc/rederc/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/NaeO3cD.png" group-title="Canais de Música",RETRO MUSIC TV	
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/xVb108q.png" group-title="Canais de Música",RETRO PLUS TV
+https://video06.logicahost.com.br/retroplustv/retroplustv/chunklist_w310581555.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/90joMXl.png" group-title="Canais de Música",STUDIO TV
+https://streamingtv.ddoti.com.br/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/jKcc5Ru.png" group-title="Canais de Música",THE RETRO CHANNEL
+https://5fd5567570c0e.streamlock.net/theretrochannel/stream/chunklist_w215352408.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/53tWLEH.png" group-title="Canais de Música",TV BRASIL POPULAR
+https://srv2.zcast.com.br/rsmusic/rsmusic/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xq9FCbG.png" group-title="Canais de Música",TV CONECTADA
+https://5cf4a2c2512a2.streamlock.net/tvconectada/tvconectada/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WK89j1o.png" group-title="Canais de Música",TV LAGOA DIGITAL
+https://5c483b9d1019c.streamlock.net/tvlagoadigital/tvlagoadigital/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Cgzq84L.png" group-title="Canais de Música",TV PONTA DA SERRA
+https://stmv5.samcast.com.br/luciano2275/luciano2275/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/E5QEy0u.png" group-title="Canais de Música",TV POP BRASIL	
+https://video05.logicahost.com.br/tvpopbrasil/tvpopbrasil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2MMMeUe.png" group-title="Canais de Música",TV RADIO LITORAL
+https://59f1cbe63db89.streamlock.net:1443/tvradiolitoral/_definst_/tvradiolitoral/playlist-480p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vfwM7VH.png" group-title="Canais de Música",VINTAGE TV
+https://video01.kshost.com.br:4443/rogerio7271/rogerio7271/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/kniBSoa.png" group-title="Canais de Música",VH1 MUSIC LEGENDS
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62e8cc10ca869f00078efca8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://imgur.com/aTSeca5.png" group-title="Canais de Música",VH1 CLASSIC
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6076cd1df8576d0007c82193/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=65ac8000-f3eb-11eb-8277-1f560e8d79bd&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e5a8fe10-d4d4-4ffa-8acd-42a34a94fa70&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JbTJjwR.png" group-title="Canais de Música",WISEPLAY TV
+https://acesso.ecast.site:3142/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/0JZLt9q.png" group-title="Canais de Música",WTV	
+https://cdn.jmvstream.com/w/AVJ-13242/playlist/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CS5calC.png" group-title="Canais de Música",NRJ HITS
+https://tv.ngroup.be/live/ngrp:nrj_all/chunklist_w1512511097_b1496608.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CS5calC.png" group-title="Canais de Música",NRJ HITS FHD
+https://tv.ngroup.be/live/ngrp:nrj_all/chunklist_w2055790872_b3268608.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zHCEYWu.jpeg" group-title="Canais de Música",BIRIQUINA 	
+https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/chunklist_w1014410521.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1bhST2U.png" group-title="Canais de Música",21 TV	
+https://live.creacast.com/radio21/smil:radio21.smil/chunklist_w507511044_b2628000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fZtag3S.jpeg" group-title="Canais de Música",51 TV	
+https://59d7d6f47d7fc.streamlock.net/canale51/canale51/chunklist_w714401016.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XGeV45n.png" group-title="Canais de Música",RÁDIO 538	
+https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ete9h5v.png" group-title="Canais de Música",CANAL BSTV
+https://br5093.streamingdevideo.com.br/bstv/bstv/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ete9h5v.png" group-title="Canais de Música",CANAL BSTV HD
+https://br5093.streamingdevideo.com.br/bstv/bstv/playlist.m3u8
+
+############################################################################ Música Online
+
+#EXTINF:-1 tvg-id="localnow_AMusic" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/62154f219ff9cb0ef44b99b2" group-title="Música Online",AMusic Channel | Local Now
+https://amusicchannel-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_61f1dc9206de9f4a617f5ec2_amusicchannel-live/m.m3u8
+#EXTINF:-1 tvg-id="ATAJ0500432A" tvg-logo="https://i.imgur.com/Omx4XSy.png" group-title="Música Online",Bachstiftung | Áustria
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/5fe179b6-6aca-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=AT&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="DEAJ0500427A" tvg-logo="https://i.imgur.com/Omx4XSy.png" group-title="Música Online",Bachstiftung | Alemanha
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/c10782d7-72bd-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="CHAJ0500432A" tvg-logo="https://i.imgur.com/Omx4XSy.png" group-title="Música Online",Bachstiftung | Suiça
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/b169516d-72bd-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=CH&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZHIKmOZ.png" group-title="Música Online",Blast Channel TV | Brasil
+https://video01.logicahost.com.br/blast/blast/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mE3Hhdk.png" group-title="Música Online",BritAsia TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/britasiatv/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/alL0JMt.png" group-title="Música Online",Caltex Music | Irã
+http://vid1.caltexmusic.com/hls/caltextv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bk5kS6k.png" group-title="Música Online",Canela Music Hits
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1058
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bk5kS6k.png" group-title="Música Online",Canela Music Hits
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1747
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2IxMaeI.png" group-title="Música Online",Canela Music Presents
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2548
+#EXTINF:-1 tvg-id="ESBB19000012F" tvg-logo="https://i.imgur.com/a4YXzGU.png" group-title="Música Online",Clubbing TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=738
+#EXTINF:-1 tvg-id="CHBB1900001XL" tvg-logo="https://i.imgur.com/a4YXzGU.png" group-title="Música Online",Clubbing TV 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=753
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a4YXzGU.png" group-title="Música Online",Clubbing TV | Brasil
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=609
+#EXTINF:-1 tvg-id="ClubbingTV.fr" tvg-country="FR" tvg-logo="https://i.imgur.com/a4YXzGU.png" group-title="Música Online",Clubbing TV | França | Rakuten
+https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="5f984784ccb4de0007dfad74" tvg-logo="https://i.imgur.com/a4YXzGU.png" group-title="Música Online",Clubbing TV | Pluto TV Alemanha 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f984784ccb4de0007dfad74/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="GBBB1900001IG" tvg-logo="https://i.imgur.com/a4YXzGU.png" group-title="Música Online",Clubbing TV | Samsung Brasil
+https://clubbingtv-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="GBBB1900001IG" tvg-logo="https://i.imgur.com/a4YXzGU.png" group-title="Música Online",Clubbing TV | Samsung Reino Unido
+https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="5f68f53eb1e5800007390bf8" tvg-logo="http://images.pluto.tv/channels/5f68f53eb1e5800007390bf8/colorLogoPNG.png" group-title="Música Online",CMT Equal Play | EUA
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f68f53eb1e5800007390bf8/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="Conciertos Canela Music" tvg-logo="https://i.imgur.com/8XFoPL4.png" group-title="Música Online",Conciertos | Canela TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1085
+#EXTINF:-1 tvg-id="Conciertos Canela Music" tvg-logo="https://i.imgur.com/8XFoPL4.png" group-title="Música Online",Conciertos | Canela TV ~ link 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1753
+#EXTINF:-1 tvg-id="5f85ca40eda1b10007b967cd" tvg-logo="http://images.pluto.tv/channels/5f85ca40eda1b10007b967cd/colorLogoPNG.png" group-title="Música Online",Conciertos | Pluto TV Argentina
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f85ca40eda1b10007b967cd/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j3bXl33.png" group-title="Música Online",Regional MX | Canela TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1084
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j3bXl33.png" group-title="Música Online",Regional MX | Canela TV 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1751
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wtFM93h.png" group-title="Música Online",Festiva Country Music | EUA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1275
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wtFM93h.png" group-title="Música Online",Festiva Hip Hop | EUA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1273
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wtFM93h.png" group-title="Música Online",Festiva Top 40 TV | EUA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1274
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-63adf8eff3d69d1885731c06" tvg-logo="https://i.imgur.com/hwdiwJc.png" group-title="Música Online",Flou Caribeño | Distro TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01365-spanglishmovies-floucaribedistro-distrotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s8n0V7A.png" group-title="Música Online",Flow Caribeño | Canela TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1083
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s8n0V7A.png" group-title="Música Online",Flow Caribeño | Canela TV 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1748
+#EXTINF:-1 tvg-id="6192396135f3910007fc5fc7" tvg-logo="https://images.pluto.tv/channels/6192396135f3910007fc5fc7/colorLogoPNG.png" group-title="Música Online",GoldStar | Pluto TV Alemanha
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6192396135f3910007fc5fc7/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j6INAu0.png" group-title="Música Online",Indistry | Galxy TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2535
+#EXTINF:-1 tvg-id="60c8b3ddaaf9d4000780066f" tvg-logo="https://images.pluto.tv/channels/60c8b3ddaaf9d4000780066f/colorLogoPNG.png" group-title="Música Online",K-Pop | Pluto TV Espanha
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60c8b3ddaaf9d4000780066f/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="60c8b3ddaaf9d4000780066f" tvg-logo="https://images.pluto.tv/channels/60c8b3ddaaf9d4000780066f/colorLogoPNG.png" group-title="Variedades em coreano",K-Pop | Pluto TV Espanha ~ link 2
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60c8b3ddaaf9d4000780066f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="637cde514c5d280007d2039a" tvg-logo="https://images.pluto.tv/channels/637cde514c5d280007d2039a/colorLogoPNG.png" group-title="Música Online",K-Pop | Pluto TV Suécia
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/637cde514c5d280007d2039a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="637cde514c5d280007d2039a" tvg-logo="https://images.pluto.tv/channels/637cde514c5d280007d2039a/colorLogoPNG.png" group-title="Música Online",K-Pop | Pluto TV Suécia ~ link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/637cde514c5d280007d2039a/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="637cde514c5d280007d2039a" tvg-logo="https://images.pluto.tv/channels/637cde514c5d280007d2039a/colorLogoPNG.png" group-title="Música Online",K-Pop | Pluto TV Suécia ~ link 3
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/637cde514c5d280007d2039a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-631932e2f6672ff675ee5ec0" tvg-logo="https://i.imgur.com/U88dBUh.png" group-title="Música Online",La Bocina Latina
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/la-bocina-latina/master.m3u8
+#EXTINF:-1 tvg-id="5873fc21cad696fb37aa9054" tvg-logo="http://images.pluto.tv/channels/5873fc21cad696fb37aa9054/colorLogoPNG.png" group-title="Música Online",Live Music Replay | Pluto TV EUA
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5873fc21cad696fb37aa9054/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="619b80acac5329000740c022" tvg-logo="https://images.pluto.tv/channels/619b80acac5329000740c022/colorLogoPNG.png" group-title="Música Online",Love Songs | Pluto TV França
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/619b80acac5329000740c022/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UuvaHYu.png" group-title="Música Online",Master Show
+https://mastershowtv.videovox.pw/master6123/master6123/playlist.m3u8
+#EXTINF:-1 tvg-id="6047fabfce6e8e00070bcc9f" tvg-logo="https://images.pluto.tv/channels/6047fabfce6e8e00070bcc9f/colorLogoPNG.png" group-title="Música Online",MTV Biggest Pop | Pluto TV Argentina
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6047fabfce6e8e00070bcc9f/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="6047fbdbbb776a0007e7f2ff" tvg-logo="https://images.pluto.tv/channels/6047fbdbbb776a0007e7f2ff/colorLogoPNG.png" group-title="Música Online",MTV Biggest Pop | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6047fbdbbb776a0007e7f2ff/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="6047fbdbbb776a0007e7f2ff" tvg-logo="https://images.pluto.tv/channels/6047fbdbbb776a0007e7f2ff/colorLogoPNG.png" group-title="Música Online",MTV Biggest Pop | link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6047fbdbbb776a0007e7f2ff/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="5d14fd1a252d35decbc4080c" tvg-logo="https://images.pluto.tv/channels/5d14fd1a252d35decbc4080c/colorLogoPNG.png" group-title="Música Online",MTV Biggest Pop | Pluto TV EUA
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="5d3609cd6a6c78d7672f2a81" tvg-logo="http://images.pluto.tv/channels/5d3609cd6a6c78d7672f2a81/colorLogoPNG.png" group-title="Música Online",MTV Block Party | EUA
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d3609cd6a6c78d7672f2a81/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="6329cf28ef924b00078a9dc1" tvg-logo="https://images.pluto.tv/channels/6329cf28ef924b00078a9dc1/colorLogoPNG.png" group-title="Música Online",MTV Classic | Pluto TV Suécia
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6329cf28ef924b00078a9dc1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="6329cf28ef924b00078a9dc1" tvg-logo="https://images.pluto.tv/channels/6329cf28ef924b00078a9dc1/colorLogoPNG.png" group-title="Música Online",MTV Classic | Pluto TV Suécia ~ link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6329cf28ef924b00078a9dc1/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="6329cf28ef924b00078a9dc1" tvg-logo="https://images.pluto.tv/channels/6329cf28ef924b00078a9dc1/colorLogoPNG.png" group-title="Música Online",MTV Classic | Pluto TV Suécia ~ link 3
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6329cf28ef924b00078a9dc1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="61923ac16d03190008138a67" tvg-logo="http://images.pluto.tv/channels/61923ac16d03190008138a67/colorLogoPNG.png" group-title="Música Online",MTV Love Music | Pluto TV Alemanha
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61923ac16d03190008138a67/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="600ae79fa46e17000794e84c" tvg-logo="http://images.pluto.tv/channels/600ae79fa46e17000794e84c/colorLogoPNG.png" group-title="Música Online",MTV Love Music | Pluto TV Espanha
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/600ae79fa46e17000794e84c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="638f2e6c7a07960007e52913" tvg-logo="https://images.pluto.tv/channels/638f2e6c7a07960007e52913/colorLogoPNG.png" group-title="Música Online",MTV Love Music | Pluto TV Suécia
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/638f2e6c7a07960007e52913/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="638f2e6c7a07960007e52913" tvg-logo="https://images.pluto.tv/channels/638f2e6c7a07960007e52913/colorLogoPNG.png" group-title="Música Online",MTV Love Music | Pluto TV Suécia ~ link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/638f2e6c7a07960007e52913/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="638f2e6c7a07960007e52913" tvg-logo="https://images.pluto.tv/channels/638f2e6c7a07960007e52913/colorLogoPNG.png" group-title="Música Online",MTV Love Music | Pluto TV Suécia ~ link 3
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/638f2e6c7a07960007e52913/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="6331a5f83eb57800074d4a0d" tvg-logo="https://images.pluto.tv/channels/6331a5f83eb57800074d4a0d/colorLogoPNG.png" group-title="Música Online",MTV Movie Hits | Pluto TV Suécia
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6331a5f83eb57800074d4a0d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="6331a5f83eb57800074d4a0d" tvg-logo="https://images.pluto.tv/channels/6331a5f83eb57800074d4a0d/colorLogoPNG.png" group-title="Música Online",MTV Movie Hits | Pluto TV Suécia ~ link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6492e8f04c014a0008394773/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="6331a5f83eb57800074d4a0d" tvg-logo="https://images.pluto.tv/channels/6331a5f83eb57800074d4a0d/colorLogoPNG.png" group-title="Música Online",MTV Movie Hits | Pluto TV Suécia ~ link 3
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6331a5f83eb57800074d4a0d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="60a26a056d55b30007918d5a" tvg-logo="http://images.pluto.tv/channels/60a26a056d55b30007918d5a/colorLogoPNG.png" group-title="Música Online",MTV Music Made in Spain | Pluto TV Espanha
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60a26a056d55b30007918d5a/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="645a6296ee6a2f00080b8c6d" tvg-logo="https://images.pluto.tv/channels/645a6296ee6a2f00080b8c6d/colorLogoPNG.png" group-title="Música Online",MTV Pride | Pluto TV Suécia
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/645a6296ee6a2f00080b8c6d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="645a6296ee6a2f00080b8c6d" tvg-logo="https://images.pluto.tv/channels/645a6296ee6a2f00080b8c6d/colorLogoPNG.png" group-title="Música Online",MTV Pride | Pluto TV Suécia ~ link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/645a6296ee6a2f00080b8c6d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="645a6296ee6a2f00080b8c6d" tvg-logo="https://images.pluto.tv/channels/645a6296ee6a2f00080b8c6d/colorLogoPNG.png" group-title="Música Online",MTV Pride | Pluto TV Suécia ~ link 3
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/645a6296ee6a2f00080b8c6d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="63da31c1c111bc0008d920d6" tvg-logo="https://images.pluto.tv/channels/63da31c1c111bc0008d920d6/colorLogoPNG.png" group-title="Música Online",MTV Queens of Pop | Pluto TV Suécia
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63da31c1c111bc0008d920d6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="63da31c1c111bc0008d920d6" tvg-logo="https://images.pluto.tv/channels/63da31c1c111bc0008d920d6/colorLogoPNG.png" group-title="Música Online",MTV Queens of Pop | Pluto TV Suécia ~ link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63da31c1c111bc0008d920d6/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="63da31c1c111bc0008d920d6" tvg-logo="https://images.pluto.tv/channels/63da31c1c111bc0008d920d6/colorLogoPNG.png" group-title="Música Online",MTV Queens of Pop | Pluto TV Suécia ~ link 3
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63da31c1c111bc0008d920d6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="638f2e8fedb23c000859345e" tvg-logo="https://images.pluto.tv/channels/638f2e8fedb23c000859345e/colorLogoPNG.png" group-title="Música Online",MTV Rockzone | Pluto TV Suécia
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/638f2e8fedb23c000859345e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="638f2e8fedb23c000859345e" tvg-logo="https://images.pluto.tv/channels/638f2e8fedb23c000859345e/colorLogoPNG.png" group-title="Música Online",MTV Rockzone | Pluto TV Suécia ~ link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/638f2e8fedb23c000859345e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="638f2e8fedb23c000859345e" tvg-logo="https://images.pluto.tv/channels/638f2e8fedb23c000859345e/colorLogoPNG.png" group-title="Música Online",MTV Rockzone | Pluto TV Suécia ~ link 3
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/638f2e8fedb23c000859345e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="6047fd723b5bd00007de7092" tvg-logo="http://images.pluto.tv/channels/6047fd723b5bd00007de7092/colorLogoPNG.png" group-title="Música Online",MTV Spankin' New | Pluto TV Argentina
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6047fd723b5bd00007de7092livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="6047ff2e5e61cf000784e4da" tvg-logo="http://images.pluto.tv/channels/6047ff2e5e61cf000784e4da/colorLogoPNG.png" group-title="Música Online",MTV Spankin' New | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6047ff2e5e61cf000784e4dalivestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="6047ff2e5e61cf000784e4da" tvg-logo="http://images.pluto.tv/channels/6047ff2e5e61cf000784e4da/colorLogoPNG.png" group-title="Música Online",MTV Spankin' New | Pluto TV Brasil ~ link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6047ff2e5e61cf000784e4dalivestitch/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="5d14fdb8ca91eedee1633117" tvg-logo="http://images.pluto.tv/channels/5d14fdb8ca91eedee1633117/colorLogoPNG.png" group-title="Música Online",MTV Spankin' New | Pluto TV EUA
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d14fdb8ca91eedee1633117/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="6492e8f04c014a0008394773" tvg-logo="https://images.pluto.tv/channels/6492e8f04c014a0008394773/colorLogoPNG.png" group-title="Música Online",MTV Summer Hits | Pluto TV Suécia
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6492e8f04c014a0008394773/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="6492e8f04c014a0008394773" tvg-logo="https://images.pluto.tv/channels/6492e8f04c014a0008394773/colorLogoPNG.png" group-title="Música Online",MTV Summer Hits | Pluto TV Suécia ~ link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6492e8f04c014a0008394773/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="6492e8f04c014a0008394773" tvg-logo="https://images.pluto.tv/channels/6492e8f04c014a0008394773/colorLogoPNG.png" group-title="Música Online",MTV Summer Hits | Pluto TV Suécia ~ link 3
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6492e8f04c014a0008394773/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="5f98471110cca20007d39f76" tvg-logo="https://images.pluto.tv/channels/5f98471110cca20007d39f76/colorLogoPNG.png" group-title="Música Online",MTV Unplugged | Pluto TV Alemanha
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f98471110cca20007d39f76/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="61c0aec95deef000075acd09" tvg-logo="https://images.pluto.tv/channels/61c0aec95deef000075acd09/colorLogoPNG.png" group-title="Música Online",MTV Unplugged | Pluto TV Suécia
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61c0aec95deef000075acd09/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="61c0aec95deef000075acd09" tvg-logo="https://images.pluto.tv/channels/61c0aec95deef000075acd09/colorLogoPNG.png" group-title="Música Online",MTV Unplugged | Pluto TV Suécia ~ link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61c0aec95deef000075acd09/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="61c0aec95deef000075acd09" tvg-logo="https://images.pluto.tv/channels/61c0aec95deef000075acd09/colorLogoPNG.png" group-title="Música Online",MTV Unplugged | Pluto TV Suécia ~ link 3
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61c0aec95deef000075acd09/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="61c09489197fe600073c0570" tvg-logo="https://images.pluto.tv/channels/61c09489197fe600073c0570/colorLogoPNG.png" group-title="Música Online",MTV Unplugged | Pluto TV Dinamarca
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61c09489197fe600073c0570/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="61c1e14e5df1da0007bee0e3" tvg-logo="https://images.pluto.tv/channels/61c1e14e5df1da0007bee0e3/colorLogoPNG.png" group-title="Música Online",MTV Unplugged | Pluto TV Noruega
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61c1e14e5df1da0007bee0e3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="61c0aec95deef000075acd09" tvg-logo="https://images.pluto.tv/channels/61c0aec95deef000075acd09/colorLogoPNG.png" group-title="Música Online",MTV Unplugged | Pluto TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61c0aec95deef000075acd09/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="6422d8c5a3ade70008f519de" tvg-logo="http://images.pluto.tv/channels/6422d8c5a3ade70008f519de/colorLogoPNG.png" group-title="Música Online",MTV Yo! | Pluto TV Suécia
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6422d8c5a3ade70008f519de/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="6422d8c5a3ade70008f519de" tvg-logo="http://images.pluto.tv/channels/6422d8c5a3ade70008f519de/colorLogoPNG.png" group-title="Música Online",MTV Yo! | Pluto TV Suécia ~ link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6422d8c5a3ade70008f519de/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="5d14fc31252d35decbc4080b" tvg-logo="http://images.pluto.tv/channels/5d14fc31252d35decbc4080b/colorLogoPNG.png" group-title="Música Online",MTV Yo! | Pluto TV EUA
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d14fc31252d35decbc4080b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="5d14fc31252d35decbc4080b" tvg-logo="http://images.pluto.tv/channels/5d14fc31252d35decbc4080b/colorLogoPNG.png" group-title="Música Online",MTV Yo! | Pluto TV EUA ~ link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d14fc31252d35decbc4080b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bl9rGPa.png" group-title="Música Online",Mubeat
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=711
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bl9rGPa.png" group-title="Música Online",Mubeat | música coreana 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=884
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bl9rGPa.png" group-title="Música Online",Mubeat | música coreana 3
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=887
+#EXTINF:-1 tvg-id="NRG.gr" tvg-logo="https://i.imgur.com/aAsAbYP.png" group-title="Música Online",Next Radio Generation 91 FM | Grécia
+http://tv.nrg91.gr:1935/onweb/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q50nFKz.png" group-title="Música Online",Nocturnal
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1142
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TBlVP1O.png" group-title="Música Online",POP Pegajoso | Canela TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1086
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TBlVP1O.png" group-title="Música Online",POP Pegajoso | Canela TV 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1750
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wJ4Nci9.png" group-title="Música Online",Puro Romance | Canela TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1082
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wJ4Nci9.png" group-title="Música Online",Puro Romance | Canela TV 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1749
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60b0f65c0c8ffb002c821a75" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/qwesttv-jazz&beyond_channel_logo_dark.png" group-title="Música Online",QwestTV | Plex
+https://epg-ipv4.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-60b0f65c0c8ffb002c821a75.m3u8?X-Plex-Product=Plex+Mediaverse&X-Plex-Token=-93bbPLExpGYv3yVqRtw&includeAllStreams=1&redirectedFromV6=1
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60b0f65c0c8ffb002c821a75" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/qwesttv-jazz&beyond_channel_logo_dark.png" group-title="Música Online",QwestTV Jazz & Beyond | LG
+https://qwest-jazz-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60b0f65c0c8ffb002c821a75" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/qwesttv-jazz&beyond_channel_logo_dark.png" group-title="Música Online",QwestTV Jazz & Beyond | Plex
+https://qwest-jazz-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Reload.cy" tvg-country="CY" tvg-logo="https://i.imgur.com/ZOKNxfc.png" group-title="Música Online",Reload | Chipre
+http://web.onair-radio.eu:1935/video/video/playlist.m3u8
+#EXTINF:-1 tvg-id="Reload.cy" tvg-country="CY" tvg-logo="https://i.imgur.com/ZOKNxfc.png" group-title="Música Online",Reload | Chipre | link 2
+https://web.onair-radio.eu/video/video/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bfhQSzB.png" group-title="Música Online",Retro Plus
+https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bfhQSzB.png" group-title="Música Online",Retro Plus Señal 2
+https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tdiBgzm.png" group-title="Música Online",Ritmos Inolvidables | Canela TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1081
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tdiBgzm.png" group-title="Música Online",Ritmos Inolvidables | Canela TV 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1752
+#EXTINF:-1 tvg-id="604b91e0692f770007d9f33f" tvg-logo="https://images.pluto.tv/channels/604b91e0692f770007d9f33f/colorLogoPNG.png" group-title="Música Online",Shows por Stingray | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/604b91e0692f770007d9f33flivestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="604b91e0692f770007d9f33f" tvg-logo="https://images.pluto.tv/channels/604b91e0692f770007d9f33f/colorLogoPNG.png" group-title="Música Online",Shows por Stingray | Pluto TV Brasil ~ link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/604b91e0692f770007d9f33f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="6317047f19d9930007fa8456" tvg-logo="https://images.pluto.tv/channels/6317047f19d9930007fa8456/colorLogoPNG.png" group-title="Música Online",Staccs | Pluto TV Suécia
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6317047f19d9930007fa8456/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="6317047f19d9930007fa8456" tvg-logo="https://images.pluto.tv/channels/6317047f19d9930007fa8456/colorLogoPNG.png" group-title="Música Online",Staccs | Pluto TV Suécia ~ link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6317047f19d9930007fa8456/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="6317047f19d9930007fa8456" tvg-logo="https://images.pluto.tv/channels/6317047f19d9930007fa8456/colorLogoPNG.png" group-title="Música Online",Staccs | Pluto TV Suécia ~ link 3
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6317047f19d9930007fa8456/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="StingrayClassicRock.ca" tvg-logo="https://i.imgur.com/8HCjnPt.png" group-title="Música Online",Stingray Classic Rock
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1389
+#EXTINF:-1 tvg-id="646546f35db8ada4c8edd7e5-62f15810a3ffe928ef806c75" tvg-logo="https://i.imgur.com/n5kb0nx.png" group-title="Música Online",Stingray 70s Flashback | Plex TV
+https://epg-ipv4.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-62f15810a3ffe928ef806c75.m3u8?X-Plex-Product=Plex+Mediaverse&X-Plex-Token=-93bbPLExpGYv3yVqRtw&includeAllStreams=1&redirectedFromV6=1
+#EXTINF:-1 tvg-id="StingrayEverything80s.ca" tvg-logo="https://i.imgur.com/evwnpzg.png" group-title="Música Online",Stingray 80s Everything
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1387
+#EXTINF:-1 tvg-id="646546f35db8ada4c8edd7e5-62f13eeded056a1db9ef3d54" tvg-logo="https://i.imgur.com/JE6OqoK.png" group-title="Música Online",Stingray 90s Nothin' But | Plex TV
+https://epg-ipv4.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-62f13eeded056a1db9ef3d54.m3u8?X-Plex-Product=Plex+Mediaverse&X-Plex-Token=-93bbPLExpGYv3yVqRtw&includeAllStreams=1&redirectedFromV6=1
+#EXTINF:-1 tvg-id="646546f35db8ada4c8edd7e5-62ee74af52f7d73061eec491" tvg-logo="https://i.imgur.com/gdYGWzM.png" group-title="Música Online",Stingray Euro Hits | Plex TV
+https://epg-ipv4.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-62ee74af52f7d73061eec491.m3u8?X-Plex-Product=Plex+Mediaverse&X-Plex-Token=-93bbPLExpGYv3yVqRtw&includeAllStreams=1&redirectedFromV6=1
+#EXTINF:-1 tvg-id="646546f35db8ada4c8edd7e5-62efba6588a16bb7d6b6fb58" tvg-logo="https://i.imgur.com/HXF60et.png" group-title="Música Online",Stingray Éxitos del Momento | Plex TV
+https://epg-ipv4.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-62efba6588a16bb7d6b6fb58.m3u8?X-Plex-Product=Plex+Mediaverse&X-Plex-Token=-93bbPLExpGYv3yVqRtw&includeAllStreams=1&redirectedFromV6=1
+#EXTINF:-1 tvg-id="StingrayGreatestHits.ca" tvg-logo="https://i.imgur.com/Qu65qzl.png" group-title="Música Online",Stingray Greatest Hits
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1385
+#EXTINF:-1 tvg-id="646546f35db8ada4c8edd7e5-62ee7ae2271f393d2d9f709e" tvg-logo="https://i.imgur.com/nREwyez.png" group-title="Música Online",Stingray Hip Hop RnB | Plex TV
+https://epg-ipv4.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-62ee7ae2271f393d2d9f709e.m3u8?X-Plex-Product=Plex+Mediaverse&X-Plex-Token=-93bbPLExpGYv3yVqRtw&includeAllStreams=1&redirectedFromV6=1
+#EXTINF:-1 tvg-id="StingrayHitList.ca" tvg-logo="https://i.imgur.com/2GXzMx8.png" group-title="Música Online",Stingray Hit List
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1388
+#EXTINF:-1 tvg-id="StingrayHotCountry.ca" tvg-logo="https://i.imgur.com/hgTlysA.png" group-title="Música Online",Stingray Hot Country | Canadá
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2704
+#EXTINF:-1 tvg-id="646546f35db8ada4c8edd7e5-62ee7992271f393d2d9f709c" tvg-logo="https://i.imgur.com/RhlKdT0.png" group-title="Música Online",Stingray Pop Adult | Plex TV
+https://epg-ipv4.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-62ee7992271f393d2d9f709c.m3u8?X-Plex-Product=Plex+Mediaverse&X-Plex-Token=-93bbPLExpGYv3yVqRtw&includeAllStreams=1&redirectedFromV6=1
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5fe27da28c198b002d179199" tvg-logo="https://i.imgur.com/z0mmnRk.png" group-title="Música Online",Stingray Qello Concerts
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=568
+#EXTINF:-1 tvg-id="60f16986acb81b0007c384ac" tvg-logo="https://images.pluto.tv/channels/60f16986acb81b0007c384ac/colorLogoPNG.png" group-title="Música Online",Stingray Qello Concerts | Pluto TV Espanha
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60f16986acb81b0007c384ac/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="646546f35db8ada4c8edd7e5-62efbb8652f7d73061eec498" tvg-logo="https://i.imgur.com/DFqfWuA.png" group-title="Música Online",Stingray Rock Alternative | Plex TV
+https://epg-ipv4.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-62efbb8652f7d73061eec498.m3u8?X-Plex-Product=Plex+Mediaverse&X-Plex-Token=-93bbPLExpGYv3yVqRtw&includeAllStreams=1&redirectedFromV6=1
+#EXTINF:-1 tvg-id="646546f35db8ada4c8edd7e5-62ee784852f7d73061eec493" tvg-logo="https://i.imgur.com/ukSrNGZ.png" group-title="Música Online",Stingray Smooth Jazz | Plex TV
+https://epg-ipv4.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-62ee784852f7d73061eec493.m3u8?X-Plex-Product=Plex+Mediaverse&X-Plex-Token=-93bbPLExpGYv3yVqRtw&includeAllStreams=1&redirectedFromV6=1
+#EXTINF:-1 tvg-id="StingraySoulStorm.ca" tvg-logo="https://i.imgur.com/h4NsDgP.png" group-title="Música Online",Stingray Soul Storm
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1390
+#EXTINF:-1 tvg-id="StingrayTodaysLatinPop.ca" tvg-logo="https://i.imgur.com/cefbNbl.png" group-title="Música Online",Stingray Today's Latin Pop
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2583
+#EXTINF:-1 tvg-id="646546f35db8ada4c8edd7e5-62ee6eae271f393d2d9f7096" tvg-logo="https://i.imgur.com/SMxu8bf.png" group-title="Música Online",Stingray Today's K-Pop | Plex TV
+https://epg-ipv4.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-62ee6eae271f393d2d9f7096.m3u8?X-Plex-Product=Plex+Mediaverse&X-Plex-Token=-93bbPLExpGYv3yVqRtw&includeAllStreams=1&redirectedFromV6=1
+#EXTINF:-1 tvg-id="646546f35db8ada4c8edd7e5-62ee72cc271f393d2d9f7098" tvg-logo="https://i.imgur.com/S2utLh4.png" group-title="Música Online",Stingray Y2K | Plex TV
+https://epg-ipv4.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-62ee72cc271f393d2d9f7098.m3u8?X-Plex-Product=Plex+Mediaverse&X-Plex-Token=-93bbPLExpGYv3yVqRtw&includeAllStreams=1&redirectedFromV6=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v1VsLHe.png" group-title="Música Online",The Rockstar Channel | Canela TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2548
+#EXTINF:-1 tvg-id="ESBA3300042Y6" tvg-logo="https://i.imgur.com/IJRDWGo.png" group-title="Música Online",Trace Latina
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatina-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-id="DEBA3300030O1" tvg-logo="https://i.imgur.com/zcpM1Ty.png" group-title="Música Online",Trace Urban
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="DEBA3300030O1" tvg-logo="https://i.imgur.com/zcpM1Ty.png" group-title="Música Online",Trace Urban | Xiaomi
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3XhfXoN.png" group-title="Música Online",Tu Pop Favorito | Canela TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1068
+#EXTINF:-1 tvg-id="CafeViola.br" tvg-logo="https://i.imgur.com/LXEJ3b2.png" group-title="Música Online",TV Café Viola | Goiânia
+https://srv5.zcast.com.br/tvcafe/tvcafe/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S5LI4ps.png" group-title="Música Online",V2Beat TV
+https://abr.de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1 tvg-id="5f32f26bcd8aea00071240e5" tvg-logo="http://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/colorLogoPNG.png" group-title="Música Online",Vevo 70s | Pluto TV EUA
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="5fd7b8bf927e090007685853" tvg-logo="http://images.pluto.tv/channels/5fd7b8bf927e090007685853/colorLogoPNG.png" group-title="Música Online",Vevo 80s | Pluto TV EUA
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf927e090007685853/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="5fd7bb1f86d94a000796e2c2" tvg-logo="http://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/colorLogoPNG.png" group-title="Música Online",Vevo 90s | Pluto TV EUA
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="5fd7bca3e0a4ee0007a38e8c" tvg-logo="http://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/colorLogoPNG.png" group-title="Música Online",Vevo 2K | Pluto TV EUA
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="5da0d75e84830900098a1ea0" tvg-logo="http://images.pluto.tv/channels/5da0d75e84830900098a1ea0/colorLogoPNG.png" group-title="Música Online",Vevo Country | Pluto TV EUA
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d75e84830900098a1ea0/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="5da0d64d0e8a62000964ebe4" tvg-logo="http://images.pluto.tv/channels/5da0d64d0e8a62000964ebe4/colorLogoPNG.png" group-title="Música Online",Vevo Latino | Pluto TV EUA
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d64d0e8a62000964ebe4/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="5d93b635b43dd1a399b39eee" tvg-logo="http://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/colorLogoPNG.png" group-title="Música Online",Vevo Pop | Pluto TV EUA
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="5da0d83f66c9700009b96d0e" tvg-logo="http://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/colorLogoPNG.png" group-title="Música Online",Vevo R&B | Pluto TV EUA
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="5f32f397795b750007706448" tvg-logo="http://images.pluto.tv/channels/5f32f397795b750007706448/colorLogoPNG.png" group-title="Música Online",Vevo Reggaetón & Trap | Pluto TV EUA
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f397795b750007706448/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="61d4b38226b8a50007fe03a6" tvg-logo="http://images.pluto.tv/channels/61d4b38226b8a50007fe03a6/colorLogoPNG.png" group-title="Música Online",Vevo Retro Rock | Pluto TV EUA
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61d4b38226b8a50007fe03a6/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="61d4c2817a823d00070ba53e" tvg-logo="http://images.pluto.tv/channels/61d4c2817a823d00070ba53e/colorLogoPNG.png" group-title="Música Online",Vevo True School Hip-Hop | Pluto TV EUA
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61d4c2817a823d00070ba53e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="6076cd1df8576d0007c82193" tvg-logo="http://images.pluto.tv/channels/6076cd1df8576d0007c82193/colorLogoPNG.png" group-title="Música Online",VH1 Classics | Pluto TV Espanha
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82193/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="DEBA2200007V6" tvg-logo="https://i.imgur.com/wvo2EYr.jpg" group-title="Música Online",Xite | Alemanha 
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/xiteaaaaa-xite-samsung-de/playlist.m3u8
+#EXTINF:-1 tvg-id="623b92a2ccefed0007b1db48" tvg-logo="https://images.pluto.tv/channels/623b92a2ccefed0007b1db48/colorLogoPNG.png" group-title="Música Online",Xite Classic Country | Pluto TV EUA
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/623b92a2ccefed0007b1db48/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="623b92a2ccefed0007b1db48" tvg-logo="https://images.pluto.tv/channels/623b92a2ccefed0007b1db48/colorLogoPNG.png" group-title="Música Online",Xite Classic Country | Pluto TV EUA | link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/623b92a2ccefed0007b1db48/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="623b93628e6ded0007337d4d" tvg-logo="https://images.pluto.tv/channels/623b93628e6ded0007337d4d/colorLogoPNG.png" group-title="Música Online",Xite Gospel | Pluto TV EUA
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/623b93628e6ded0007337d4d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="623b93628e6ded0007337d4d" tvg-logo="https://images.pluto.tv/channels/623b93628e6ded0007337d4d/colorLogoPNG.png" group-title="Música Online",Xite Gospel | Pluto TV EUA | link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/623b93628e6ded0007337d4d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+
+############################################################################ Canais | MTV
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61a528267e1b8b0007357920/colorLogoPNG.png" group-title="Canais MTV",MTV Com o Ex
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61a528267e1b8b0007357920/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/625463563b8ddc0007134aeb/colorLogoPNG.png" group-title="Canais MTV",MTV Shore
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/625463563b8ddc0007134aeb/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/MTV_2021_%28brand_version%29.svg" group-title="Canais MTV",MTV Pluto TV
+https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5f1212fb81e85c00077ae9ef/master.m3u8?advertisingId=&appName=web&appVersion=5.103.1-8fad9f5523fef57dce06179da605682c035afe99&app_name=web&clientDeviceType=0&clientID=3878c229-195a-4843-9847-d066d964e2de&clientModelNumber=1.0.0&country=BR&deviceDNT=false&deviceId=3878c229-195a-4843-9847-d066d964e2de&deviceLat=-10.4017&deviceLon=-39.0337&deviceMake=chromium-webview&deviceModel=web&deviceType=web&deviceVersion=93.0.4577&marketingRegion=BR&serverSideAds=true&sessionID=0452bc54-0c9a-11ec-abd1-0242ac110003&sid=0452bc54-0c9a-11ec-abd1-0242ac110003&userId=
+
+#EXTINF:-1 tvg-logo="https://imgur.com/oHVMcJ9.png" group-title="Canais MTV",MTV Are you the One?
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6108d8cc331900075e98e4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97821633-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d1b9e931-6816-41d0-878e-e83836fbe919&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/626c2a3502d84a0007cec817/colorLogoPNG.png" group-title="Canais MTV",MTV Catfish
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/626c2a3502d84a0007cec817/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/645111f1d8436e00081bb2bd/colorLogoPNG.png" group-title="Canais MTV",MTV Drag
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/645111f1d8436e00081bb2bd/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/620fdc7d8a36fc000710e3ba/colorLogoPNG.png" group-title="Canais MTV",MTV Jovens e Mães
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/620fdc7d8a36fc000710e3ba/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+############################################################################ Música instrumental e som ambiente
+
+#EXTINF:-1 tvg-id="Autumn Escape" tvg-logo="https://i.imgur.com/OMlghvE.png" group-title="Música instrumental e som ambiente",Autumn Escape | Distro TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/autumn-escape/master.m3u8
+#EXTINF:-1 tvg-id="5f779951372da90007fd45e8" tvg-logo="http://images.pluto.tv/channels/5f779951372da90007fd45e8/colorLogoPNG.png" group-title="Música instrumental e som ambiente",Clássica | Pluto TV EUA
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f779951372da90007fd45e8/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0B5kpS2.png" group-title="Música instrumental e som ambiente",Coffeehouse | Local Now
+http://linear-272.frequency.stream/272/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="Crema TV" tvg-logo="https://i.imgur.com/zmoDsHi.png" group-title="Música instrumental e som ambiente",Crema TV | Distro TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/crematv/crt.m3u8
+#EXTINF:-1 tvg-id="DEAH3904006A" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/37/DEAH3904006A_20210609T004634.png" group-title="Música instrumental e som ambiente",Deluxe Lounge HD | Alemanha
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/ec8e5c43-6fae-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="ATAJ0500413A" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/08/ATAJ0500413A_20210609T004625.png" group-title="Música instrumental e som ambiente",Deluxe Lounge HD | Áustria
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/a54049ad-66da-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=AT&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="ESBA1500001C4" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/03/32/ESBA1500001C4_20210609T004612.png" group-title="Música instrumental e som ambiente",Deluxe Lounge HD | Espanha
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/8317fbfb-80c1-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=ES&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="FRBA1500001G6" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/46/FRBA1500001G6_20210609T004616.png" group-title="Música instrumental e som ambiente",Deluxe Lounge HD | França
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/8ef13d2a-80c1-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=FR&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="ITBA1500001R6" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/22/ITBA1500001R6_20210609T004630.png" group-title="Música instrumental e som ambiente",Deluxe Lounge HD | Itália
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9f58b8c3-80c1-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=IT&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="GBBA15000034L" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/05/GBBA15000034L_20210609T004621.png" group-title="Música instrumental e som ambiente",Deluxe Lounge HD | Reino Unido 
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/abb4746a-80c1-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=GB&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="CHAJ0500413A" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/64/CHAJ0500413A_20210609T004603.png" group-title="Música instrumental e som ambiente",Deluxe Lounge HD | Suíça
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/ce7c5fb8-6fae-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=CH&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="dtv_EPGFireplace Lounge" tvg-logo="https://i.imgur.com/fDV10iU.png" group-title="Música instrumental e som ambiente",Drone TV
+https://airvuz-dronetv-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hqBag1J.png" group-title="Música instrumental e som ambiente",Fireplace Lounge | Distro TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/fireplace-lounge/master.m3u8
+#EXTINF:-1 tvg-id="dtv_EPGFireplace Lounge" tvg-logo="https://i.imgur.com/hqBag1J.png" group-title="Música instrumental e som ambiente",Fireplace Lounge | Distro TV | link 2
+https://dai.google.com/linear/hls/event/oyLDEcuuQES_mgQ7KPOR4w/master.m3u8
+#EXTINF:-1 tvg-id="dtv_EPGFish Tank" tvg-logo="https://i.imgur.com/XRG7nGW.png" group-title="Música instrumental e som ambiente",Fish Tank | Distro TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/fish-tank/master.m3u8
+#EXTINF:-1 tvg-id="dtv_EPGFish Tank" tvg-logo="https://i.imgur.com/XRG7nGW.png" group-title="Música instrumental e som ambiente",Fish Tank | Distro TV | link 2
+https://dai.google.com/linear/hls/event/SUiAUobmTi6nMfIemEKjTA/master.m3u8
+#EXTINF:-1 tvg-id="dtv_EPGIsland Escape" tvg-logo="https://i.imgur.com/aWwR7do.png" group-title="Música instrumental e som ambiente",Island Escape | Distro TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/island-escape/master.m3u8
+#EXTINF:-1 tvg-id="dtv_EPGIsland Escape" tvg-logo="https://i.imgur.com/aWwR7do.png" group-title="Música instrumental e som ambiente",Island Escape | Distro TV | link 2
+https://dai.google.com/linear/hls/event/IpUm6gZ6Tz-pEotpMRsZ4w/master.m3u8
+#EXTINF:-1 tvg-id="USBB1000002TK" tvg-logo="https://i.imgur.com/R4190of.png" group-title="Música instrumental e som ambiente",Loupe
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1250
+#EXTINF:-1 tvg-id="USBB1000002TK" tvg-logo="https://i.imgur.com/R4190of.png" group-title="Música instrumental e som ambiente",Loupe 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1441
+#EXTINF:-1 tvg-id="USBB1000002TK" tvg-logo="https://i.imgur.com/R4190of.png" group-title="Música instrumental e som ambiente",Loupe 3
+https://linear-144.frequency.stream/dist/localnow/144/hls/hd/playlist.m3u8
+#EXTINF:-1 tvg-id="5812bd9f249444e05d09cc4e" tvg-logo="https://i.imgur.com/zmZil0O.png" group-title="Música instrumental e som ambiente",Naturescape by Stingray
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=570
+#EXTINF:-1 tvg-id="5f4fed840a2764000720d966" tvg-logo="https://i.imgur.com/zmZil0O.png" group-title="Música instrumental e som ambiente",Naturescape by Stingray | link 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2547
+#EXTINF:-1 tvg-id="5812bd9f249444e05d09cc4e" tvg-logo="https://i.imgur.com/zmZil0O.png" group-title="Música instrumental e som ambiente",Naturescape by Stingray | Pluto TV EUA
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5812bd9f249444e05d09cc4e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="610a9ebe8c2ac2000734776e" tvg-logo="https://i.imgur.com/zmZil0O.png" group-title="Música instrumental e som ambiente",Naturescape by Stingray | Pluto TV Itália
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/610a9ebe8c2ac2000734776e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XJ6Q0mI.png" group-title="Música instrumental e som ambiente",NatureStream TV | Distro TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/naturestreamtv/master.m3u8
+#EXTINF:-1 tvg-id="localnow_OFIVE" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/62155b6bcde46f3cf279fed3" group-title="Música instrumental e som ambiente",OFIVE | Local Now
+https://ofive-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_621559a9d613fc3b6f28338b_ofive-live/m.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HhSQN5B.png" group-title="Música instrumental e som ambiente",Oportunidades TV | full HD
+http://maistop.net:80/live/meutedio/meutedio/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HhSQN5B.png" group-title="Música instrumental e som ambiente",Oportunidades TV | HD
+http://maistop.net:80/live/meutedio/meutedio/2.m3u8
+#EXTINF:-1 tvg-id="604a8dedbca75b0007b1c753" tvg-logo="https://i.imgur.com/BqNaQcQ.png" group-title="Música instrumental e som ambiente",Paisagens por Stingray | Pluto TV Brasil 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/604a8dedbca75b0007b1c753livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="604a8dedbca75b0007b1c753" tvg-logo="https://i.imgur.com/BqNaQcQ.png" group-title="Música instrumental e som ambiente",Paisagens por Stingray | Pluto TV Brasil | link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/604a8dedbca75b0007b1c753livestitch/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="5f4fed840a2764000720d966" tvg-logo="https://i.imgur.com/BqNaQcQ.png" group-title="Música instrumental e som ambiente",Paisajes por Stingray | Pluto TV Argentina
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4fed840a2764000720d966/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="dtv_EPGQuietude 4K" tvg-logo="https://i.imgur.com/13vyZaJ.png" group-title="Música instrumental e som ambiente",Quietude 4K | Distro TV
+https://dai.google.com/linear/hls/event/znOljgluSSeoYrXfiYc2VA/master.m3u8
+#EXTINF:-1 tvg-id="dtv_EPGQuietude 4K" tvg-logo="https://i.imgur.com/13vyZaJ.png" group-title="Música instrumental e som ambiente",Quietude 4K | Distro TV | link 2
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/quietude/playlist.m3u8
+#EXTINF:-1 tvg-id="dtv_EPGRelaxing Rain" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22801/relaxing-rain/logo_20200229_001723.png" group-title="Música instrumental e som ambiente",Relaxing Rain | Distro TV
+https://dai.google.com/linear/hls/event/N-tqcU4fRBGJsIWzsgMfmg/master.m3u8
+#EXTINF:-1 tvg-id="dtv_EPGRelaxing Rain" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22801/relaxing-rain/logo_20200229_001723.png" group-title="Música instrumental e som ambiente",Relaxing Rain | Distro TV | link 2
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/relaxing-rain/master.m3u8
+#EXTINF:-1 tvg-id="Relaxing WinterScapes" tvg-logo="https://i.imgur.com/NMYqM8o.png" group-title="Música instrumental e som ambiente",Relaxing WinterScapes | Distro TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/relaxing-winterscapes/master.m3u8
+#EXTINF:-1 tvg-id="3e4b9cada2b74cf18977298804134a36" tvg-logo="https://i.imgur.com/YITPJFX.png" group-title="Música instrumental e som ambiente",Screendreams by Invincible | Distro TV
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=5301
+#EXTINF:-1 tvg-id="3e4b9cada2b74cf18977298804134a36" tvg-logo="https://i.imgur.com/YITPJFX.png" group-title="Música instrumental e som ambiente",Screendreams by Invincible | Distro TV ~ link 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5301
+#EXTINF:-1 channel-id="stirr-soar-11-20-2019-200325249" tvg-id="soar-11-20-2019-200325249" tvg-logo="https://i.imgur.com/wQYHCEq.png" group-title="Música instrumental e som ambiente",SOAR | Sailing Over America | Stirr
+https://dai.google.com/linear/hls/event/_PDxBUttQYqkxPnmh3VOZA/master.m3u8
+#EXTINF:-1 tvg-id="SoniCentric" tvg-logo="https://i.imgur.com/34JHft0.png" group-title="Música instrumental e som ambiente",SoniCentric | Distro TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sonicentric/master.m3u8
+#EXTINF:-1 tvg-id="Spring Escape" tvg-logo="https://i.imgur.com/Gyc9Ndn.png" group-title="Música instrumental e som ambiente",Spring Escape | Distro TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/spring-escape/master.m3u8
+#EXTINF:-1 tvg-id="646546f35db8ada4c8edd7e5-62ee76b5271f393d2d9f709a" tvg-logo="https://i.imgur.com/uupfCNe.png" group-title="Música instrumental e som ambiente",Stingray Easy Listening | Plex TV
+https://epg-ipv4.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-62ee76b5271f393d2d9f709a.m3u8?X-Plex-Product=Plex+Mediaverse&X-Plex-Token=-93bbPLExpGYv3yVqRtw&includeAllStreams=1&redirectedFromV6=1
+#EXTINF:-1 tvg-id="646546f35db8ada4c8edd7e5-62f11395586633e88e3a3274" tvg-logo="https://i.imgur.com/j39MzXE.png" group-title="Música instrumental e som ambiente",Stingray SPA | Plex TV
+https://epg-ipv4.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-62f11395586633e88e3a3274.m3u8?X-Plex-Product=Plex+Mediaverse&X-Plex-Token=-93bbPLExpGYv3yVqRtw&includeAllStreams=1&redirectedFromV6=1
+#EXTINF:-1 tvg-id="Study Lounge" tvg-logo="https://i.imgur.com/EP2CsnG.png" group-title="Música instrumental e som ambiente",Study Lounge | Distro TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/study-lounge/master.m3u8
+#EXTINF:-1 tvg-id="dtv_EPGTranquil Thunderstorms" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22801/tranquil-thunderstorms/logo_20200305_210647.png" group-title="Música instrumental e som ambiente",Tranquil Thunderstorms | Distro TV
+https://dai.google.com/linear/hls/event/474qwragRU6-z1YGWo1NMA/master.m3u8
+#EXTINF:-1 tvg-id="dtv_EPGTranquil Thunderstorms" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22801/tranquil-thunderstorms/logo_20200305_210647.png" group-title="Música instrumental e som ambiente",Tranquil Thunderstorms | Distro TV ~ link 2
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tranquil-thunderstorms/master.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-61bb9a63e0b39cfe304c9a8a" tvg-logo="https://provider-static.plex.tv/epg/cms/production/74efde69-4b42-43c4-a8f0-a4068fdd4862/vivaldi_logo.png" group-title="Música instrumental e som ambiente",Vivaldi
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01297-themahqfranceme-vivalditv-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=y_HMAMzw1oNcdLetH1FS&channelId=61bb9a63e0b39cfe304c9a8a
+#EXTINF:-1 tvg-logo="https://i.imgur.com/puXud48.png" group-title="Música instrumental e som ambiente",Zen | Local Now
+http://linear-125.frequency.stream/125/hls/master/playlist.m3u8
+
+############################################################################ Música: karaokê
+
+#EXTINF:-1 tvg-id="5f85cf621d6d2200079f1de0" tvg-logo="http://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/colorLogoPNG.png" group-title="Música: karaokê",Karaokê por Stingray | Pluto TV Argentina
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f85cf621d6d2200079f1de0livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="604b99d633a72b00078e05" tvg-logo="http://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/colorLogoPNG.png" group-title="Música: karaokê",Karaokê por Stingray | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/604b99d633a72b00078e05adlivestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="604b99d633a72b00078e05" tvg-logo="http://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/colorLogoPNG.png" group-title="Música: karaokê",Karaokê por Stingray | link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/604b99d633a72b00078e05adlivestitch/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="604b99d633a72b00078e05ad" tvg-logo="http://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/colorLogoPNG.png" group-title="Música: karaokê",Karaokê por Stingray | Pluto TV Brasil 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/604b99d633a72b00078e05adlivestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DZIzcKA.png" group-title="Música: karaokê",Party Tyme 
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=147
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DZIzcKA.png" group-title="Música: karaokê",Party Tyme 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1342
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-602d56bef867c4002c897e22" tvg-logo="https://i.imgur.com/DZIzcKA.png" group-title="Música: karaokê",Party Tyme Karaoke | Brasil
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=469
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-602d56bef867c4002c897e22" tvg-logo="https://i.imgur.com/DZIzcKA.png" group-title="Música: karaokê",Party Tyme Karaoke | Brasil 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=480
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-602d56bef867c4002c897e22" tvg-logo="https://i.imgur.com/DZIzcKA.png" group-title="Música: karaokê",Party Tyme Karaoke | Brasil 3
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=574
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-602d56bef867c4002c897e22" tvg-logo="https://i.imgur.com/DZIzcKA.png" group-title="Música: karaokê",Party Tyme Karaoke | Brasil 4
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=575
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-602d56bef867c4002c897e22" tvg-logo="https://i.imgur.com/DZIzcKA.png" group-title="Música: karaokê",Party Tyme Karaoke | Brasil 5
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2181
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-602d56bef867c4002c897e22" tvg-logo="https://i.imgur.com/DZIzcKA.png" group-title="Música: karaokê",Party Tyme Karaoke | espanhol
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=489
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-602d56bef867c4002c897e22" tvg-logo="https://i.imgur.com/DZIzcKA.png" group-title="Música: karaokê",Party Tyme Karaoke | espanhol 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1301
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-602d56bef867c4002c897e22" tvg-logo="https://i.imgur.com/DZIzcKA.png" group-title="Música: karaokê",Party Tyme Karaoke | espanhol 3
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=621
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-602d56bef867c4002c897e22" tvg-logo="https://i.imgur.com/DZIzcKA.png" group-title="Música: karaokê",Party Tyme Karaoke | espanhol 4
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=850
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DZIzcKA.png" group-title="Música: karaokê",Party Tyme Karaoke | inglês
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=63
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DZIzcKA.png" group-title="Música: karaokê",Party Tyme Karaoke | inglês 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=214
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DZIzcKA.png" group-title="Música: karaokê",Party Tyme Karaoke | inglês 3
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=48
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DZIzcKA.png" group-title="Música: karaokê",Party Tyme Karaoke | inglês 4
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=64
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DZIzcKA.png" group-title="Música: karaokê",Party Tyme Karaoke | inglês 5
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=146
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DZIzcKA.png" group-title="Música: karaokê",Party Tyme Karaoke | inglês 7
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=161
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DZIzcKA.png" group-title="Música: karaokê",Party Tyme Karaoke | inglês 8
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=162
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DZIzcKA.png" group-title="Música: karaokê",Party Tyme Karaoke | inglês 9
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=176
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DZIzcKA.png" group-title="Música: karaokê",Party Tyme Karaoke | inglês 10
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=177
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DZIzcKA.png" group-title="Música: karaokê",Party Tyme Karaoke | inglês 11
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=203
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DZIzcKA.png" group-title="Música: karaokê",Party Tyme Karaoke | inglês 12
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=204
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DZIzcKA.png" group-title="Música: karaokê",Party Tyme Karaoke | inglês 13
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=229
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DZIzcKA.png" group-title="Música: karaokê",Party Tyme Karaoke | inglês 14
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=230
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DZIzcKA.png" group-title="Música: karaokê",Party Tyme Karaoke | inglês 15
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1302
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DZIzcKA.png" group-title="Música: karaokê",Party Tyme Karaoke | inglês 16
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=710
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DZIzcKA.png" group-title="Música: karaokê",Party Tyme Karaoke | inglês 17
+https://ov.ottera.tv/live/master.m3u8?channel=ssnd_pt_us
+#EXTINF:-1 tvg-id="646546f35db8ada4c8edd7e5-62f156b1ed056a1db9ef3d67" tvg-logo="https://i.imgur.com/yjVV2vG.png" group-title="Música: karaokê",Stingray Karaoke | Plex TV
+https://epg-ipv4.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-62f156b1ed056a1db9ef3d67.m3u8?X-Plex-Product=Plex+Mediaverse&X-Plex-Token=-93bbPLExpGYv3yVqRtw&includeAllStreams=1&redirectedFromV6=1

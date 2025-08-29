@@ -1,0 +1,1279 @@
+#EXTM3U
+
+############################################################################ Canais | Animes
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AQKPD9l.png" group-title="Canais de Animes",Anime Tv
+https://stmv1.srvif.com/animetv/animetv/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kaQanow.png" group-title="Canais de Animes",ANIME ZONE TV
+http://animezonetv.net/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uHwtIXa.png" group-title="Canais de Animes",LOCOMOTION AR
+http://51.222.85.85:81/hls/loco/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HpgzT5E.png" group-title="Canais de Animes",Adult Swim
+http://tv.com.vc:80/nalva/123456/1026299
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f1VdQ08.png" group-title="Canais de Animes",ANIME STATION TV
+https://stmv1.srvif.com/otaku/otaku/chunklist_w948376476.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Tm5H89C.png" group-title="Canais de Animes",GOGOPLAY TV
+https://tgn.bozztv.com/ssh101/ssh101/gogoplay/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O4MX0s2.png" group-title="Canais de Animes",OTAKU SIGN TV
+https://stmv1.srvif.com/otaku/otaku/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C5nMqAf.png" group-title="Canais de Animes",WORDING TV
+https://tv02.zas.media:1936/wordingtv/wordingtv/chunklist_w1264551258.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/jKBb65w.png" group-title="Canais de Animes",GEEKDOT
+https://stream.ichibantv.com:3764/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sTeYutZ.png" group-title="Canais de Animes",LOADING TV
+https://stmv1.srvif.com/loadingtv/loadingtv/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3eabf05ad0127a53af71227f1fe132a1.webp" group-title="Canais de Animes",AniTV
+https://stream.ichibantv.com:3764/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/KQU5DvXf2ZmZStMzo2wk7PD5L7sVjWr6c-x6MCSAm9iHJ438fYik16paS7xd-cVKu6U" group-title="Canais de Animes",EnerGeek
+https://wifiexpert-1.energeek.cl/energeek/radio/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/624b1c8d4321e200073ee421/colorLogoPNG.png" group-title="Canais de Animes",One Piece
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/624b1c8d4321e200073ee421/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f6df5a173d7340007c559f7/colorLogoPNG.png" group-title="Canais de Animes",Naruto
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64c92f965580090008084968/colorLogoPNG.png" group-title="Canais de Animes",Naruto Shippuden
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64c92f965580090008084968/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/646663b01593940008990a57/colorLogoPNG.png" group-title="Canais de Animes",Captain Tsubasa
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/646663b01593940008990a57/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t5IpE5H.png" group-title="Canais de Animes",SUPER ONZE
+https://i.mjh.nz/PlutoTV/63988c2750108d00072e2686-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/633dc392e0282400071b0d39/colorLogoPNG.png" group-title="Canais de Animes",Beyblade
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/633dc392e0282400071b0d39/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/605cc4de7ff3c50007be0f65/colorLogoPNG.png" group-title="Canais de Animes",Pluto TV Geek e Tech
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/605cc4de7ff3c50007be0f65/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/cavaleiros-do-zodiaco-logo-7BEBD54081-seeklogo.com.png" group-title="Canais de Animes",CAVALEIROS DO ZODÍADO
+http://24hrs.homelinux.com:80/24H-cavaleiros/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xaQuE26.png" group-title="Canais de Animes",BORUTO NARUTO NEXT GENERATION
+https://r.mjh.nz/PlutoTV/656f389c3944b60008e5bdab-alt.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Z75nfUG.png" group-title="Canais de Animes",DRAGON BALL
+http://24hrs.homelinux.com:80/24H-dragon.ball/video.m3u8?token=a4A2wbotS3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zH0WOJk.png" group-title="Canais de Animes",DRAGON BALL Z
+http://24hrs.homelinux.com:80/24H-dragon.ball.z/video.m3u8?token=a4A2wbotS3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/in3Pxrk.png" group-title="Canais de Animes",DRAGON BALL SUPER
+http://24hrs.homelinux.com:80/24H-dragon.ball.super/video.m3u8?token=a4A2wbotS3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Vj0MC9L.png" group-title="Canais de Animes",POKEMON
+http://24hrs.homelinux.com:80/24H-pokemon/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/EJ5XaTd.png" group-title="Canais de Animes",DIGIMON
+http://24hrs.homelinux.com:80/24H-digimon/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Pm60ysy.png" group-title="Canais de Animes",Death Note
+https://i.mjh.nz/PlutoTV/625464a945b6a200079257d1-alt.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Ebgm8Zy.png" group-title="Canais de Animes",HANTARO
+http://24hrs.homelinux.com:80/24H-hantaro/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HrW6NLk.png" group-title="Canais de Animes",YU-GI-OH!
+https://i.mjh.nz/PlutoTV/63988a50be012600070f5db3-alt.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/yOXRm1j.png" group-title="Canais de Animes",SHURATO
+http://xciptv.aplicativos.top:80/gabi4834/Bfh92928beb/272884
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bI8VpUN.png" group-title="Canais de Animes",STREET FIGHTER
+http://xciptv.aplicativos.top:80/gabi4834/Bfh92928beb/272865
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/kO5n1EH.png" group-title="Canais de Animes",SAMURAI X
+http://xciptv.aplicativos.top:80/gabi4834/Bfh92928beb/272877
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VELpDFE.png" group-title="Canais de Animes",MEGAMAN
+http://xciptv.aplicativos.top:80/gabi4834/Bfh92928beb/272916
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bNl8bli.png" group-title="Canais de Animes",MEDABOTS
+http://xciptv.aplicativos.top:80/gabi4834/Bfh92928beb/272915
+
+############################################################################ Canais | Animes & Geek
+
+#EXTINF:-1 tvg-id="Pluto TV Anime ação" tvg-logo="https://images.pluto.tv/channels/604b79c558393100078faeef/solidLogoPNG.png" group-title="Canais Animes & Geek",Pluto TV Anime Ação
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12136385bccc00070142ed/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=eabb34b1-5995-4c43-8147-d3f8d09696f2&clientModelNumber=na&deviceDNT=false&deviceId=eabb34b1-5995-4c43-8147-d3f8d09696f2&deviceLat=-10.0000&deviceLon=-55.0000&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=87.0.4280.88&marketingRegion=BR&serverSideAds=true&sessionID=30971196-4529-11eb-b866-0242ac110002&sid=30971196-4529-11eb-b866-0242ac110002&userId=
+
+#EXTINF:-1 tvg-id="Pluto TV Anime" tvg-logo="https://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG-1599153408949.png" group-title="Canais Animes & Geek",Pluto TV Anime
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b79c558393100078faeef/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/624b1c8d4321e200073ee421/colorLogoPNG.png" group-title="Canais Animes & Geek",One Piece
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/624b1c8d4321e200073ee421/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f6df5a173d7340007c559f7/colorLogoPNG.png" group-title="Canais Animes & Geek",Naruto
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64c92f965580090008084968/colorLogoPNG.png" group-title="Canais Animes & Geek",Naruto Shippuden
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64c92f965580090008084968/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/656f389c3944b60008e5bdab/colorLogoPNG.png" group-title="Canais Animes & Geek",Boruto: Naruto Next Generations
+https://r.mjh.nz/PlutoTV/656f389c3944b60008e5bdab-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65d9167818036500080e8780/colorLogoPNG.png" group-title="Canais Animes & Geek",Hunter x Hunter
+https://r.mjh.nz/PlutoTV/65d9167818036500080e8780-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/646663b01593940008990a57/colorLogoPNG.png" group-title="Canais Animes & Geek",Captain Tsubasa
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/646663b01593940008990a57/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/633dc392e0282400071b0d39/colorLogoPNG.png" group-title="Canais Animes & Geek",Beyblade
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/633dc392e0282400071b0d39/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Athwean.png" group-title="Canais Animes & Geek",Tokusato
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff609de50ab210008025c1b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=967d46f0-96bd-11eb-b493-ab25b5b88dc0&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e8619d5a-ac5a-4804-8d5e-84812ad7686b&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/625464a945b6a200079257d1/solidLogoPNG.png" group-title="Canais Animes & Geek",Death Note
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/625464a945b6a200079257d1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/605cc4de7ff3c50007be0f65/colorLogoPNG.png" group-title="Canais Animes & Geek",Pluto TV Geek e Tech
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/605cc4de7ff3c50007be0f65/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/62e01661a3e6270007f4ec9e/colorLogoPNG.png" group-title="Canais Animes & Geek",Pluto TV Gaming por Ubisoft
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64c815e8a1c6130008fef928livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/otakudvd.com/wp-content/uploads/2021/02/otakulogo-e1625667755127.png" group-title="Canais Animes & Geek",Otaku Sign TV
+https://stmv1.srvif.com/otaku/otaku/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/loadingamarelo.png" group-title="Canais Animes & Geek",Loading...TV HD
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/loadingamarelo.png" group-title="Canais Animes & Geek",Loading...TV HD*
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6438
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C5nMqAf.png" group-title="Canais Animes & Geek",WORDING TV
+https://tv02.zas.media:1936/wordingtv/wordingtv/chunklist_w1264551258.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NMMtJ8F.png" group-title="Canais Animes & Geek",Geekdot​
+https://stream.ichibantv.com:3764/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/K4IrU99.png" group-title="Canais Animes & Geek",Animes TV
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8?ManoTV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3pOHk57.png" group-title="Canais Animes & Geek",AniTV
+https://stream.ichibantv.com:3764/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2HaiovZ.png" group-title="Canais Animes & Geek",Hallo Anime HD
+https://cdn-1.nxplay.com.br/HALLOANIME/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais Animes & Geek",Dragon Ball
+http://24hrs.homelinux.com:8080/24H-dragon.ball/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais Animes & Geek",Dragon Ball Z
+http://24hrs.homelinux.com:8080/24H-dragon.ball.z/video.m3u8?token=a4A2wbotS3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais Animes & Geek",Dragon Ball Super
+http://24hrs.homelinux.com:8080/24H-dragon.ball.super/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais Animes & Geek",Dragon Ball GT
+http://24hrs.homelinux.com:8080/24H-dragon.ball.gt/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais Animes & Geek",Boruto 24h
+http://24hrs.homelinux.com:8080/24H-boruto/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais Animes & Geek",Avatar A Lenda de korra
+http://24hrs.homelinux.com:8080/24H-avataralendadekorra/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais Animes & Geek",avatar A Lenda de Aang
+http://24hrs.homelinux.com:8080/24H-avataralendadeaang/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais Animes & Geek",Futurama
+http://24hrs.homelinux.com:8080/24H-futurama/index.m3u8
+
+############################################################################ Canais |  Infantís Lista 01
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pDAPjsI.png" group-title="Canais Infantís Lista 01",MI TV
+https://stmv4.voxtvhd.com.br/1990/1990/chunklist_w306880476.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/LPSRILd.png" group-title="Canais Infantís Lista 01",KID MAIS
+https://video03.logicahost.com.br/novafamilia01/novafamilia01/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e9toiUN.jpeg" group-title="Canais Infantís Lista 01",F. Kids Network
+https://stmv1.srvif.com/emlsilva/emlsilva/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sydBue3.png" group-title="Canais Infantís Lista 01",RETRO CARTOON
+https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BqVNUCU.png" group-title="Canais Infantís Lista 01",NICK JR CLUB
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h247TWe.png" group-title="Canais Infantís Lista 01",Nick Teen
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60f5fabf0721880007cd50e3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c1c56030-1b34-11ec-b13b-f726df667295&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f7b86a23-4b64-4f9c-9c4c-bedb3edcc1b1&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5nUItrd.png" group-title="Canais Infantís Lista 01",De Crianca para Crianaca
+https://cdn-1.nxplay.com.br/dcpc/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mSng9h7.png" group-title="Canais Infantís Lista 01",KURIAKOS KIDS
+https://w2.manasat.com/kkids/smil:kkids.smil/chunklist_w1570960268_b1548000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CbXCADr.png" group-title="Canais Infantís Lista 01",TV KIDMAIS
+https://video03.logicahost.com.br/novafamilia01/novafamilia01/chunklist_w560660843.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/okBN6Xo.png" group-title="Canais Infantís Lista 01",PORTAL HD
+https://stmv1.srvif.com/grupohentretenimento/grupohentretenimento/chunklist_w446277104.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eMmKpvY.png" group-title="Canais Infantís Lista 01",TRÊS PASSOS TV
+https://stmv1.samcast.com.br/pedrohenrique6191/pedrohenrique6191/chunklist_w1771289579.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SHUiVHv.png" group-title="Canais Infantís Lista 01",TV JUNDIAÍ HOJE
+https://stmv2.samcast.com.br/rosanaa9913/rosanaa9913/chunklist_w736151396.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xf2VM5n.png" group-title="Canais Infantís Lista 01",GOSPEL CARTOON
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SyJoM4N.png" group-title="Canais Infantís Lista 01",WEB TV CAICO
+https://stmv1.paineltv.net/wladimyr7277/wladimyr7277/chunklist_w967872467.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XQsXqfI.png" group-title="Canais Infantís Lista 01",TOP TV ON BRASIL
+https://video05.logicahost.com.br/toptvonbrasil/toptvonbrasil/chunklist_w1524461515.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XQsXqfI.png" group-title="Canais Infantís Lista 01",TOP TV ON BRASIL HD
+https://video05.logicahost.com.br/toptvonbrasil/toptvonbrasil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CLMaRHA.png" group-title="Canais Infantís Lista 01",JETSONS TV
+https://stmv1.srvif.com/jetsontv/jetsontv/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oGTOXak.png" group-title="Canais Infantís Lista 01",REDE NEWS TV
+https://stmv.jnbhost.com.br/redenewstv/redenewstv/chunklist_w1894004897.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oGTOXak.png" group-title="Canais Infantís Lista 01",REDE NEWS TV HD
+https://stmv.jnbhost.com.br/redenewstv/redenewstv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AMDnoni.png" group-title="Canais Infantís Lista 01",WEB TV MATO GROSSO NEWS
+https://video02.logicahost.com.br/matogrossonews/matogrossonews/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N9Bmjex.png" group-title="Canais Infantís Lista 01",Desenhos Clássicos TV
+https://stmv1.srvif.com/retrotv/retrotv/chunklist_w2046715321.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p8zvfpu.png" group-title="Canais Infantís Lista 01",Rede Manchete
+https://stmv1.srvif.com/tvserie/tvserie/chunklist_w200396624.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dlTmblr.png" group-title="Canais Infantís Lista 01",Cartoon Network
+http://187.95.95.243:80/Cartoon-Network/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dlTmblr.png" group-title="Canais Infantís Lista 01",Cartoon Network HD
+https://cdn2.connectbr.com.br/Cartoon-Network/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TRu90uI.png" group-title="Canais Infantís Lista 01",Tooncast
+https://cdn-1.nxplay.com.br/TOONCAST_TK/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cEE3Bv1.png" group-title="Canais Infantís Lista 01",Cartoonito
+http://s.apkwuv.xyz:80/demopadexchange/demopad/176172
+
+#EXTINF:-1 tvg-logo="https://imgur.com/WxKCkhL.png" group-title="Canais Infantís Lista 01",Discovery Kids
+https://cdn-1.nxplay.com.br/DISCOVERY_KIDS_NX/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BmmsPO8.png" group-title="Canais Infantís Lista 01",TVZYN
+https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5w3mfvzg9saoi/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/nT8atAU.png" group-title="Canais Infantís Lista 01",Rakuten Família
+https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8?ManoTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/nT8atAU.png" group-title="Canais Infantís Lista 01",Rakuten Família HD
+https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/dO4krB3.png" group-title="Canais Infantís Lista 01",TV RA TIM BUM
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83272
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/trwd2sT.png" group-title="Canais Infantís Lista 01",Peppa Pig
+https://livestream.zazerconer.workers.dev/channel/UCvD9GB-E4q_TuMpwUtFBhLA.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tOCYcye.png" group-title="Canais Infantís Lista 01",A Casa Mágica da Gabby
+https://livestream.zazerconer.workers.dev/channel/UC4bG4HsFDLpm1qTPDqZFRgA.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O9iF63a.png" group-title="Canais Infantís Lista 01",Talking Tom & Amigos
+https://livestream.zazerconer.workers.dev/channel/UCY9xIaF8CIdS23e0W6nHAmg.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dXxaTwR.png" group-title="Canais Infantís Lista 01",Clubinho 
+http://cdn.connectbr.com.br:80/Clubinho/tracks-v1a1/mono.m3u8?ManoTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/WHmHmUH.png" group-title="Canais Infantís Lista 01",Zoomoo HD
+https://cdn-1.nxplay.com.br/ZOOMOO_HD_NX_TK/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1jXXHVr.png" group-title="Canais Infantís Lista 01",Rugrats
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61f2c6969fcc3800076ef8af/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://images.pluto.tv/channels/6202a7fcfb1b100008811f54/colorLogoPNG.png" group-title="Canais Infantís Lista 01",Nickelodeon Rocket Power
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6202a7fcfb1b100008811f54/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mMbcENg.png" group-title="Canais Infantís Lista 01",As Pistas de Blue
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f99aad4e82db50007fac4b2/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/63da6bcd60bc8f0008a5d364/colorLogoPNG.png" group-title="Canais Infantís Lista 01",Baby Shark
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63da6bcd60bc8f0008a5d364/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/63dd5c904e83e700088fb68a/colorLogoPNG.png" group-title="Canais Infantís Lista 01",AS Tartarugas Ninja
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63dd5c904e83e700088fb68a/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/63eba189c111bc0008ff59c5/colorLogoPNG.png" group-title="Canais Infantís Lista 01",Moranguinho
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eba189c111bc0008ff59c5/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-logo="https://imgur.com/t5RZzN7.png" group-title="Canais Infantís Lista 01",TELETUBBIES
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64e50055286f6b000838c067/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://imgur.com/q7Jadd8.png" group-title="Canais Infantís Lista 01",PAW Patrol Patrulha Canina
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6495c7ad115d060008bf6df0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="Nick Teen" tvg-logo="https://images.pluto.tv/channels/60f5fabf0721880007cd50e3/colorLogoPNG.png" group-title="Canais Infantís Lista 01",Nick Teen
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60f5fabf0721880007cd50e3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c1c56030-1b34-11ec-b13b-f726df667295&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f7b86a23-4b64-4f9c-9c4c-bedb3edcc1b1&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L1plAZW.png" group-title="Canais Infantís Lista 01",Pluto TV Junior
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12141b146d760007934ea7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=978179f0-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bc2b3e9d-2c6a-4239-b56d-b64e1afa1902&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="O Reino Infantil" tvg-logo="https://imgur.com/ElG7z3z.png" group-title="Canais Infantís Lista 01",O Reino Infantil
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5c216df68f920007888315/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a5765170-77db-11eb-bfcd-e755c619a901&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b976462f-c9ea-4e8b-bbf6-df21635438ff&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t1r9IIq.jpeg" group-title="Canais Infantís Lista 01",Pluto TV Kids
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781a101-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=46e9fe4e-4908-4a98-8fa8-41e5460e3ce5&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Btx06F4.png" group-title="Canais Infantís Lista 01",Nick Jr. Club
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781a100-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c002e3af-c4af-4a44-867e-55e324587507&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tcU3fgP.png" group-title="Canais Infantís Lista 01",Turma da Mônica
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f997e44949bc70007a6941e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97846021-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0dd3fbda-a8d5-4964-8b9e-6f6e95a3db5e&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q9BebaI.png" group-title="Canais Infantís Lista 01",NICK CLÁSSICO
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12141b146d760007934ea7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rkrxjQW.png" group-title="Canais Infantís Lista 01",Babyfirst
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4fb4cf605ddf000748e16f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a575dc40-77db-11eb-bfcd-e755c619a901&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6708234f-7c33-4ea1-b3ea-e27dab0bf1f1&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/62d969fd8451a30007f0fd94/colorLogoPNG.png" group-title="Canais Infantís Lista 01",Cocoricó
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d969fd8451a30007f0fd94/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/62545c0b002f4b0007688b61/colorLogoPNG.png" group-title="Canais Infantís Lista 01",Bob Esponja Calça Quadrada
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62545c0b002f4b0007688b61/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vg9sf1e.png" group-title="Canais Infantís Lista 01",Scoobdoo
+http://24hrs.homelinux.com:80/24H-scoobdoo/video.m3u8?token=a4A2wbotS3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4pVlm17.png" group-title="Canais Infantís Lista 01",Popeye
+http://24hrs.homelinux.com:80/24H-Popeye.S01/video.m3u8?token=a4A2wbotS3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DljZYPw.png" group-title="Canais Infantís Lista 01",Os Simpsons
+http://24hrs.homelinux.com:80/24H-ossimpsons/video.m3u8?token=a4A2wbotS3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WF9xZ0t.png" group-title="Canais Infantís Lista 01",PicaPau
+http://24hrs.homelinux.com:80/24H-picapau/video.m3u8?token=a4A2wbotS3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HEmOhto.png" group-title="Canais Infantís Lista 01",Os Flistony 
+http://24hrs.homelinux.com:80/24H-osflistony/video.m3u8?token=a4A2wbotS3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7wGLWgp.jpeg" group-title="Canais Infantís Lista 01",THUNDERCATS
+http://24hrs.homelinux.com:80/24H-thundercats/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YcQsus7.jpeg" group-title="Canais Infantís Lista 01",Masha e o Urso
+http://24hrs.homelinux.com:80/24H-Masha.e.o.Urso.S01eS02eS03/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bhUU6SS.jpeg" group-title="Canais Infantís Lista 01",Tom & Jerry
+http://24hrs.homelinux.com:80/24H-tom-e-jerry/video.m3u8?token=a4A2wbotS3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SdtcIR7.png" group-title="Canais Infantís Lista 01",O FANTASTICO MUNDO DE BOBY
+http://24hrs.homelinux.com:80/24H-ofantasticomundodeboby/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6EAJzPM.png" group-title="Canais Infantís Lista 01",LULUZINHA
+http://24hrs.homelinux.com:80/24H-luluzinha/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KO4RhkU.png" group-title="Canais Infantís Lista 01",Mickey & Donald
+http://24hrs.homelinux.com:80/24H-Mickey.e.Donald.S01/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LGF2jEE.png" group-title="Canais Infantís Lista 01",Ben 10
+http://24hrs.homelinux.com:80/24H-Ben.10.2005.S01.S02.S03.S04/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rplqWG1.png" group-title="Canais Infantís Lista 01",Caverna do Dragão
+http://24hrs.homelinux.com:80/24H-Caverna.do.dragao.S01E01/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M3P9vZW.png" group-title="Canais Infantís Lista 01",DREAM WORKS
+https://cdn-3.nxplay.com.br/DREAMWORKS/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZeGbhYK.png" group-title="Canais Infantís Lista 01",Poderoso Chefinho
+http://24hrs.homelinux.com:80/24H-O.Poderoso.Chefinho.S01-S02/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PuQuFHp.png" group-title="Canais Infantís Lista 01",HE MAN
+http://24hrs.homelinux.com:80/24H-Heman.S01/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LM3aUxx.png" group-title="Canais Infantís Lista 01",X-MEN EVOLUTION
+http://24hrs.homelinux.com:80/24H-X-Men.Evolution.S01-S02-S03-S04/video.m3u8?token=a4A2wbotS3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZTlAlkT.png" group-title="Canais Infantís Lista 01",LIGA DA JUSTICA
+http://xciptv.aplicativos.top:80/gabi4834/Bfh92928beb/272910
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/iepfanon/images/5/59/Oggy_and_the_Cockroaches_logo%28Brazil%29.webp/revision/latest?cb=20230907102439" group-title="Canais Infantís Lista 01",Oggy e as Baratas Tontas
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63221bafdc6e110007b50270/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vMn2eOh.png" group-title="Canais Infantís Lista 01",SUPER CHOQUE
+http://xciptv.aplicativos.top:80/gabi4834/Bfh92928beb/272866
+
+############################################################################ Canais | Infantís Lista 02
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/62d969fd8451a30007f0fd94/colorLogoPNG.png" group-title="Canais Infantís Lista 02",Cocoricó
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d969fd8451a30007f0fd94/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/62545c0b002f4b0007688b61/colorLogoPNG.png" group-title="Canais Infantís Lista 02",Bob Esponja Calça Quadrada
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62545c0b002f4b0007688b61/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="Nick Teen" tvg-logo="https://images.pluto.tv/channels/60f5fabf0721880007cd50e3/colorLogoPNG.png" group-title="Canais Infantís Lista 02",Nick Teen
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60f5fabf0721880007cd50e3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c1c56030-1b34-11ec-b13b-f726df667295&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f7b86a23-4b64-4f9c-9c4c-bedb3edcc1b1&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f12141b146d760007934ea7/colorLogoPNG.png" group-title="Canais Infantís Lista 02",Pluto TV Junior
+https://r.mjh.nz/PlutoTV/5f12141b146d760007934ea7-alt.m3u8
+
+#EXTINF:-1 tvg-id="O Reino Infantil" tvg-logo="https://imgur.com/ElG7z3z.png" group-title="Canais Infantís Lista 02",O Reino Infantil
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5c216df68f920007888315/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a5765170-77db-11eb-bfcd-e755c619a901&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b976462f-c9ea-4e8b-bbf6-df21635438ff&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="As Aventuras de Jackie Chan" tvg-logo="https://imgur.com/VNrPzdh.png" group-title="Canais Infantís Lista 02",As Aventuras de Jackie Chan
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6079c1539b05aa0007a57495/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c1c38b71-1b34-11ec-b13b-f726df667295&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a519ea2b-1a16-4441-9e07-a7ef103cd260&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1214a637c6fd00079c652f/colorLogoPNG.png" group-title="Canais Infantís Lista 02",Pluto TV Kids
+https://r.mjh.nz/PlutoTV/5f1214a637c6fd00079c652f-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/vYFZ98f.png" group-title="Canais Infantís Lista 02",Nickelodeon FHD
+https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/284/284.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f121460b73ac6000719fbaf/colorLogoPNG.png" group-title="Canais Infantís Lista 02",Nick Jr. Club
+https://r.mjh.nz/PlutoTV/5f121460b73ac6000719fbaf-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f997e44949bc70007a6941e/colorLogoPNG.png" group-title="Canais Infantís Lista 02",Turma da Mônica
+https://r.mjh.nz/PlutoTV/5f997e44949bc70007a6941e-alt.m3u8
+
+#EXTINF:-1 tvg-id="Nick Clássico" tvg-name="NICK JR" tvg-logo="https://images.pluto.tv/channels/5f12151794c1800007a8ae63/colorLogoPNG.png" group-title="Canais Infantís Lista 02",NICK CLÁSSICO
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12141b146d760007934ea7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
+
+#EXTINF:-1 tvg-id="A Vida moderna de Rocko" tvg-name="A Vida moderna de Rocko" tvg-logo="https://images.pluto.tv/channels/5f6df6293a12e10007017396/colorLogoPNG.png" group-title="Canais Infantís Lista 02",A Vida moderna de Rocko
+https://r.mjh.nz/PlutoTV/5f6df6293a12e10007017396-alt.m3u8
+
+#EXTINF:-1 tvg-id="Babyfirst" tvg-name="Babyfirst" tvg-logo="http://images.pluto.tv/channels/5f4fb4cf605ddf000748e16f/colorLogoPNG.png" group-title="Canais Infantís Lista 02",Babyfirst
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4fb4cf605ddf000748e16f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a575dc40-77db-11eb-bfcd-e755c619a901&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6708234f-7c33-4ea1-b3ea-e27dab0bf1f1&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://images.pluto.tv/channels/63988c2750108d00072e2686/colorLogoPNG.png" group-title="Canais Infantís Lista 02",Super Onze
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63988c2750108d00072e2686/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1jXXHVr.png" group-title="Canais Infantís Lista 02",Rugrats
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61f2c6969fcc3800076ef8af/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://images.pluto.tv/channels/63221e41af69b500076f84e7/colorLogoPNG.png" group-title="Canais Infantís Lista 02",Os Padrinhos Mágicos
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63221e41af69b500076f84e7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://images.pluto.tv/channels/6202a7fcfb1b100008811f54/colorLogoPNG.png" group-title="Canais Infantís Lista 02",Nickelodeon Rocket Power
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6202a7fcfb1b100008811f54/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f99aad4e82db50007fac4b2/colorLogoPNG.png" group-title="Canais Infantís Lista 02",As Pistas de Blue
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f99aad4e82db50007fac4b2/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/63da6bcd60bc8f0008a5d364/colorLogoPNG.png" group-title="Canais Infantís Lista 02",Baby Shark
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63da6bcd60bc8f0008a5d364/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/63dd5c904e83e700088fb68a/colorLogoPNG.png" group-title="Canais Infantís Lista 02",AS Tartarugas Ninja
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63dd5c904e83e700088fb68a/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/63eba189c111bc0008ff59c5/colorLogoPNG.png" group-title="Canais Infantís Lista 02",Moranguinho
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eba189c111bc0008ff59c5/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-logo="https://imgur.com/t5RZzN7.png" group-title="Canais Infantís Lista 02",TELETUBBIES
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64e50055286f6b000838c067/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://imgur.com/q7Jadd8.png" group-title="Canais Infantís Lista 02",PAW Patrol Patrulha Canina
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6495c7ad115d060008bf6df0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/63221bafdc6e110007b50270/colorLogoPNG.png" group-title="Canais Infantís Lista 02",Oggy e as Baratas Tontas
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63221bafdc6e110007b50270/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/y9bZ4rD.png" group-title="Canais Infantís Lista 02",Clubinho 
+http://cdn.connectbr.com.br:80/Clubinho/tracks-v1a1/mono.m3u8?ManoTV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IbCiig8.png" group-title="Canais Infantís Lista 02",Kid Mais
+https://video03.logicahost.com.br/novafamilia01/novafamilia01/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qSC5fSZ.png" group-title="Canais Infantís Lista 02", Kuriakos Kids
+https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QyAPwBx.png" group-title="Canais Infantís Lista 02",Toon Googles | Brasil
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=274
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/sqUlcaY.png" group-title="Canais Infantís Lista 02",Os Jetsons | Brasil
+https://stmv1.srvif.com/jetsontv/jetsontv/chunklist.m3u8?ManoTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/uBjpsWE.png" group-title="Canais Infantís Lista 02",Rakuten Família
+https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8?ManoTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/sRw3v0a.png" group-title="Canais Infantís Lista 02",GLOOBINHO HD
+http://xcui.vitvabc.xyz:8880/laok300/8pEZjdeMPad7/33739
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/qgyrEps.png" group-title="Canais Infantís Lista 02",GLOOB HD
+http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/16732
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/dO4krB3.png" group-title="Canais Infantís Lista 02",TV RA TIM BUM HD
+http://t2tp.xyz:80/343963665/370954400/71397
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://app.tvdigital.link:2095/logoscanais/NICKJR.png" group-title="Canais Infantís Lista 02",Nick jr. HD
+http://t2tp.xyz:80/343963665/370954400/71368
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://app.tvdigital.link:2095/logoscanais/NICKJR.png" group-title="Canais Infantís Lista 02",Nick jr. HD [Alter]
+https://cdn2.connectbr.com.br/Nickjr/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/dlTmblr.png" group-title="Canais Infantís Lista 02",Cartoon Network HD
+https://cdn-3.nxplay.com.br/CARTOON_NETWORK_TK/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/dlTmblr.png" group-title="Canais Infantís Lista 02",Cartoon Network HD [Alter]
+https://brflu.walk-tv.com/5801/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/dlTmblr.png" group-title="Canais Infantís Lista 02",Cartoon Network HD [Alter] 2
+https://cdn2.connectbr.com.br/Cartoon-Network/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/cEE3Bv1.png" group-title="Canais Infantís Lista 02",CARTOONITO HD
+http://xciptv.aplicativos.top:80/gabi4834/Bfh92928beb/110683
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/TRu90uI.png" group-title="Canais Infantís Lista 02",Tooncast HD
+https://cdn-3.nxplay.com.br/TOONCAST_TK/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/TRu90uI.png" group-title="Canais Infantís Lista 02",Tooncast HD [Alter]
+https://brflu.walk-tv.com/5838/index.m3u8
+
+#EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-logo="https://imgur.com/WxKCkhL.png" group-title="Canais Infantís Lista 02",DISCOVERY KIDS HD
+https://cdn-3.nxplay.com.br/DISCOVERY_KIDS_NX/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/WHmHmUH.png" group-title="Canais Infantís Lista 02",Zoomoo HD
+https://cdn-3.nxplay.com.br/ZOOMOO_HD_NX_TK/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/x33MwPN.png" group-title="Canais Infantís Lista 02",RETRO CARTOON
+https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?ManoTV
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BmmsPO8.png" group-title="Canais Infantís Lista 02",TVZYN
+https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5w3mfvzg9saoi/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/oBo-NVXMmfaCLcjiWM2G8mIxFw-LIEck0w_RAZ5Ciawsi-7duneoEQ3qcmR4R6jAkVPaxOrqig" group-title="Canais Infantís Lista 02",A Casa Mágica da Gabby YT
+https://ythls.armelin.one/channel/UC4bG4HsFDLpm1qTPDqZFRgA.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/MdTw4GF.png" group-title="Canais Infantís Lista 02",Talking Tom & Amigos YT
+https://ythls.armelin.one/channel/UCY9xIaF8CIdS23e0W6nHAmg.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/hrBA4dU.png" group-title="Canais Infantís Lista 02",Universo Kids
+https://srv3.zcast.com.br/universo3/universo3/playlist_w554522056.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zDbdnwu.png" group-title="Canais Infantís Lista 02", DREAM WORKS
+https://cdn-3.nxplay.com.br/DREAMWORKS/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NQG19uf.png" group-title="Canais Infantís Lista 02",DCPC Infantil 
+https://cdn-3.nxplay.com.br/dcpc/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgurUAguc.jpg" group-title="Canais Infantís Lista 02",ADULT SWIM
+http://45.235.0.78/ADULTSWIM-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1JVrZFk.png" group-title="Canais Infantís Lista 02",Ministério Infantil TV
+https://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/trwd2sT.png" group-title="Canais Infantís Lista 02",Peppa Pig YT
+https://ythls.armelin.one/channel/UCvD9GB-E4q_TuMpwUtFBhLA.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais Infantís Lista 02",Peppa Pig 24h
+http://24hrs.homelinux.com:80/24H-Peppa.Pig.S01.S02.S03.S04/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/0rAnW4w.png" group-title="Canais Infantís Lista 02",Chespirito
+http://168.205.87.198:8555/live/1492/123456/159.m3u8?ManoTV
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais Infantís Lista 02",Chaves 24h
+http://24hrs.homelinux.com:8080/24H-chaves-a-serie/video.m3u8?token=a4A2wbotS3
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais Infantís Lista 02",Chapolin Colorado 24h
+http://24hrs.homelinux.com:8080/24H-chapolin1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais Infantís Lista 02",Masha e o Urso 24h
+http://24hrs.homelinux.com:8080/24H-Masha.e.o.Urso.S01eS02eS03/video.m3u8?token=a4A2wbotS3
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais Infantís Lista 02",Ben 10 2005 24h
+http://24hrs.homelinux.com:8080/24H-Ben.10.2005.S01.S02.S03.S04/video.m3u8?token=a4A2wbotS3
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais Infantís Lista 02",Poderoso Chefinho 24h
+http://24hrs.homelinux.com:8080/24H-O.Poderoso.Chefinho.S01-S02/video.m3u8?token=a4A2wbotS3
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais Infantís Lista 02",Mickey e Donald 24h
+http://24hrs.homelinux.com:8080/24H-Mickey.e.Donald.S01/video.m3u8?token=a4A2wbotS3
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais Infantís Lista 02",Hantaro 24h
+http://24hrs.homelinux.com:8080/24H-hantaro/tracks-v1a1/mono.m3u8
+,
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais Infantís Lista 02",Luluzinha 24h
+http://24hrs.homelinux.com:8080/24H-luluzinha/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais Infantís Lista 02",Jaspion 24h
+http://24hrs.homelinux.com:8080/24H-jaspion/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais Infantís Lista 02",Thundercats 24h
+http://24hrs.homelinux.com:8080/24H-thundercats/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais Infantís Lista 02",Mundo De Boby 24h
+http://24hrs.homelinux.com:8080/24H-ofantasticomundodeboby/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais Infantís Lista 02", Power Rangers YT 24h
+https://ythls.armelin.one/channel/UCE3_4WG166NcyQPcRtgGWkQ.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais Infantís Lista 02",Tom & Jerry 24h
+http://24hrs.homelinux.com:8080/24H-tom-e-jerry/video.m3u8?token=a4A2wbotS3
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais Infantís Lista 02",Scoobdoo 24h
+http://24hrs.homelinux.com:8080/24H-scoobdoo/video.m3u8?token=a4A2wbotS3
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais Infantís Lista 02",Popeye 24h
+http://24hrs.homelinux.com:8080/24H-Popeye.S01/video.m3u8?token=a4A2wbotS3
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais Infantís Lista 02",Os Simpsons 24h
+http://24hrs.homelinux.com:8080/24H-ossimpsons/video.m3u8?token=a4A2wbotS3
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais Infantís Lista 02",X-Men Evolution 24h
+http://24hrs.homelinux.com:8080/24H-X-Men.Evolution.S01-S02-S03-S04/video.m3u8?token=a4A2wbotS3
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais Infantís Lista 02",PicaPau 24h
+http://24hrs.homelinux.com:8080/24H-picapau/video.m3u8?token=a4A2wbotS3
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais Infantís Lista 02",Cavaleiros Zodiaco 24h
+http://24hrs.homelinux.com:8080/24H-cavaleiros/video.m3u8?token=a4A2wbotS3
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais Infantís Lista 02",Os Flistony 24h
+http://24hrs.homelinux.com:8080/24H-osflistony/video.m3u8?token=a4A2wbotS3
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais Infantís Lista 02", Pequeno Urso
+http://24hrs.homelinux.com:8080/24H-pequenourso/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais Infantís Lista 02",LadyBug
+http://24hrs.homelinux.com:8080/24H-ladybug/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais Infantís Lista 02",Patolino
+http://24hrs.homelinux.com:8080/24H-patolino/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais Infantís Lista 02",Digimon
+http://24hrs.homelinux.com:8080/24H-digimon/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais Infantís Lista 02",Pokémon 24h
+http://24hrs.homelinux.com:8080/24H-pokemon/video.m3u8
+
+############################################################################ Canais | Educativos
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rWzoWGX.png" group-title="Canais Educativos",TV EDUCADORA
+https://5a2b083e9f360.streamlock.net/rog/rog.sdp/chunklist_w1693871637.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/1200px-Science_Channel_logo.svg.png" group-title="Canais Educativos",DISCOVERY SCIENCE
+https://cdn-1.nxplay.com.br/DISCOVERY_SCIENCE_NX/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jNDMDSC.png" group-title="Canais Educativos",WILDEARTH
+https://wildearth-ono.amagi.tv/playlist/amg01290-wildearth-oando/cb543d187c6c678b9ad43e6ecef042a9f9581fde1d6988693eb5518975d1073edce2a59caa08ff16388f19c062017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258ad7f4cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7abe65911d86da8e50141c72b11fa83439c8101b287875c8315807fa3459ac3a682d3198be4255293768abeb4eb4307fba24bd1af7fa4db806035ee0942242d74966d17632c46eb744c49ecf78b9e68fa01c78a24fb0f5f2bed372ef658ba6aa604a6f34bb3efceb7aea796c5b6395102da8f908fe93b32b064eea1e6971416fca3412d13993f9c4a5f49e23816b5f3e55436cfebb21e3bb989e1310ff5bcbf86fdb98e4bd317cfc4fd9e387882026e0cab52b89361d728922de69e53696b444aa99542d7c6f76a703401d5db1ee31a15ef8fd0c3c7586f83203a4af86cdc6c006ee73d7833b07eaed46f3ac96e21ad0110d714758c4bf7bd6cd2a2d8ee0972f5fdcf50f062eafa5b82af4cf9236c1752f3c12d59445e749fbb355a7e2a953791b9a1d67e0704e3e0debe981d69755f39664cddacb40ad8e4a60e1219c65f231a04331f840bdb6c9f4d093727c71adcbb1a36e222243eedb3304d500ec799a9e0fe54e29c1207d7bfc8a2c5ca2d8b3f16/11/1920x1080_4716800/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/An55Rsk.png" group-title="Canais Educativos",Tv Educadora Batatais
+https://5a57bda70564a.streamlock.net/tveducadora/tveducadora.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/ZqOn5uN.png" group-title="Canais Educativos",Tv Educadora de Limeira
+https://5a2b083e9f360.streamlock.net/rog/rog.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f28Cj2T.png" group-title="Canais Educativos",TV UNISANTOS
+https://live.cdn.upx.com/7550/myStream.sdp/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uPQhgLW.png" group-title="Canais Educativos",TV UNISC
+https://tv.unisc.br/hls/test.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QpmqLgc.png" group-title="Canais Educativos",REDE MINAS
+https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/chunklist_b2738304.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IVUjkii.png" group-title="Canais Educativos",TV PARANÁ TURISMO
+https://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x3LcNUU.png" group-title="Canais Educativos",TV UFSC
+https://tvaovivo.sites.ufsc.br/hls/1_hi.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vyhvR3j.png" group-title="Canais Educativos",TV PREVE
+https://video01.kshost.com.br:4443/paulispar7372/paulispar7372/chunklist_w1362703593.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mOcCv9k.png" group-title="Canais Educativos",CANAL SAÚDE
+https://edge-al-01.eduplay.rnp.br/media/ocp(r(wTmyiA)t(F8kQXpR1vM8)p(d(NUU)k(gi8)m(r700v9DrB1EZ7ETPZi8l8A)n(a(leRwwbD7xaOtYy1PnIFRu48TLvs)s(--8)'a(rxDIrEu4R1DYvODnYBxWSY_m)s(s2g)))s(t(_SA)b(zKx5vT97HNIzKgLcS4T0gGuEMkzgMb38fot_DMOBTf4QnsCse5Gyg7TKhSIPt_1oWR04mnhmATPcny4ASUf8aFBBx3eJzlHoqhmiDgwUq06XtQSBS72mdCbX_XYc-nheU_crJY_yeiHC7VmwDWTvIluSrjKkSH5yzcTZUJw)'t(q6g)b(sKNijGlgAwN_Kvm6Lw03rUde2-KmpeQ3sNg)))/720_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z7eAbVz.png" group-title="Canais Educativos",CANAL LIBRAS
+https://canallibras-stream.ebc.com.br/mux_video_ts/index-1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LMeLMRn.png" group-title="Canais Educativos",CANAL EDUCAÇÃO
+https://canaleducacao-stream.ebc.com.br/mux_video_ts/index-1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8Dc3DVo.png" group-title="Canais Educativos",RT DOCUMENTARY
+https://rt-rtd.rttv.com/dvr/rtdoc/playlist_2500Kb.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g9AtH3s.png" group-title="Canais Educativos",CANAL CURTA!
+https://video01.logicahost.com.br/canalcurta/canalcurta/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sEU9F2h.png" group-title="Canais Educativos",LOVE NATURE HD PT
+https://amg00090-blueantllc-lovenature-xumo-7ap4k.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sEU9F2h.png" group-title="Canais Educativos",LOVE NATURE 4K
+https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sEU9F2h.png" group-title="Canais Educativos",LOVE NATURE 1
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977f3000-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5bf5881e-ff8d-45df-a6a2-db61d0e625a0&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sEU9F2h.png" group-title="Canais Educativos",LOVE NATURE 2
+https://amg00090-blueantllc-lovenature-xumo-7ap4k.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Czz2exp.png" group-title="Canais Educativos",NATURE TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3041
+
+#EXTINF:-1 tvg-logo="https://imgur.com/reqHFUJ.png" group-title="Canais Educativos",NATURESCAPE
+https://66a27e77ea6b452f9eac362430206903.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-ca_StingrayNaturescape/playlist.m3u8?ads.wurl_channel=480&ads.wurl_name=StingrayNaturescape&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BvOxt14.png" group-title="Canais Educativos",RAKUTEN DOCUMENTARIOS
+https://rakuten-documentaries-14-pt.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/ksaF2A8.png" group-title="Canais Educativos",UNIVERSIDADE DA PESSOA
+http://video01.soultv.com.br/universidadedapessoa/universidadedapessoa/playlist.m3u8
+
+############################################################################ Canais | Desenhos 24 Horas
+
+#EXTINF:-1 tvg-id="" tvg-name="[24H] 3 Palavrinhas" tvg-logo="https://i.imgur.com/gPhxEm9.png" group-title="Desenhos 24 Horas",[24H] 3 Palavrinhas
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219842
+#EXTINF:-1 tvg-id="" tvg-name="[24H] A Casa do Mickey Mouse" tvg-logo="https://i.imgur.com/SVfmpdY.png" group-title="Desenhos 24 Horas",[24H] A Casa do Mickey Mouse
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219843
+#EXTINF:-1 tvg-id="" tvg-name="[24H] A Guarda do Leão" tvg-logo="https://i.imgur.com/f9HyjfJ.png" group-title="Desenhos 24 Horas",[24H] A Guarda do Leão
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219844
+#EXTINF:-1 tvg-id="" tvg-name="[24H] A Mansão Foster" tvg-logo="https://i.imgur.com/Sa5rAwp.png" group-title="Desenhos 24 Horas",[24H] A Mansão Foster
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219845
+#EXTINF:-1 tvg-id="" tvg-name="[24H] A Roda do Ônibus" tvg-logo="https://i.imgur.com/GneRQPV.jpg" group-title="Desenhos 24 Horas",[24H] A Roda do Ônibus
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219846
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Aladdin" tvg-logo="https://i.imgur.com/7mzedR9.jpeg" group-title="Desenhos 24 Horas",[24H] Aladdin
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219847
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Angry Birds" tvg-logo="https://i.imgur.com/3anMkyr.png" group-title="Desenhos 24 Horas",[24H] Angry Birds
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219848
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Apenas um Show" tvg-logo="https://i.imgur.com/wlDLbCK.png" group-title="Desenhos 24 Horas",[24H] Apenas um Show
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219849
+#EXTINF:-1 tvg-id="" tvg-name="[24H] As Aventuras do Batman 01" tvg-logo="https://i.imgur.com/QVRRdbr.jpg" group-title="Desenhos 24 Horas",[24H] As Aventuras do Batman 01
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219850
+#EXTINF:-1 tvg-id="" tvg-name="[24H] As Aventuras do Batman 02" tvg-logo="https://i.imgur.com/QVRRdbr.jpg" group-title="Desenhos 24 Horas",[24H] As Aventuras do Batman 02
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219851
+#EXTINF:-1 tvg-id="" tvg-name="[24H] As Meninas Superpoderosas" tvg-logo="https://i.imgur.com/o8VZkjv.jpg" group-title="Desenhos 24 Horas",[24H] As Meninas Superpoderosas
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219852
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Baby Looney Tunes" tvg-logo="https://i.imgur.com/64rTYua.png" group-title="Desenhos 24 Horas",[24H] Baby Looney Tunes
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219853
+#EXTINF:-1 tvg-id="" tvg-name="[24H] BEN 10 - 01" tvg-logo="https://i.imgur.com/xAiENyp.png" group-title="Desenhos 24 Horas",[24H] BEN 10 - 01
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219854
+#EXTINF:-1 tvg-id="" tvg-name="[24H] BEN 10 2" tvg-logo="https://i.imgur.com/xAiENyp.png" group-title="Desenhos 24 Horas",[24H] BEN 10 2
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219855
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Bita e os Animais" tvg-logo="https://i.imgur.com/mrdLM42.jpg" group-title="Desenhos 24 Horas",[24H] Bita e os Animais
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219856
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Bob Esponja 01" tvg-logo="https://i.imgur.com/5LiIYws.jpg" group-title="Desenhos 24 Horas",[24H] Bob Esponja 01
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219857
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Bob o Trem 1" tvg-logo="https://i.imgur.com/9nFUxYZ.png" group-title="Desenhos 24 Horas",[24H] Bob o Trem 1
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219858
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Bob o Trem 2" tvg-logo="https://i.imgur.com/9nFUxYZ.png" group-title="Desenhos 24 Horas",[24H] Bob o Trem 2
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219859
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Bob Zoom 1" tvg-logo="https://i.imgur.com/umAjgau.jpg" group-title="Desenhos 24 Horas",[24H] Bob Zoom 1
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219860
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Bob Zoom 2" tvg-logo="https://i.imgur.com/umAjgau.jpg" group-title="Desenhos 24 Horas",[24H] Bob Zoom 2
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219861
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Booba 1" tvg-logo="https://i.imgur.com/h9KTXQF.png" group-title="Desenhos 24 Horas",[24H] Booba 1
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219862
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Booba 2" tvg-logo="https://i.imgur.com/h9KTXQF.png" group-title="Desenhos 24 Horas",[24H] Booba 2
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219863
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Caillou" tvg-logo="https://i.imgur.com/sA1jMNy.jpg" group-title="Desenhos 24 Horas",[24H] Caillou
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219864
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Carmen Sandiego" tvg-logo="" group-title="Desenhos 24 Horas",[24H] Carmen Sandiego
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219865
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Cascão A Turma da Monica" tvg-logo="https://i.imgur.com/hOk9met.png" group-title="Desenhos 24 Horas",[24H] Cascão A Turma da Monica
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219866
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Cavaleiros do Zodiaco 1" tvg-logo="https://i.imgur.com/p4HrM2w.png" group-title="Desenhos 24 Horas",[24H] Cavaleiros do Zodiaco 1
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219867
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Cavaleiros do Zodiaco 2" tvg-logo="https://i.imgur.com/p4HrM2w.png" group-title="Desenhos 24 Horas",[24H] Cavaleiros do Zodiaco 2
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219868
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Cavaleiros do Zodiaco 3" tvg-logo="https://i.imgur.com/p4HrM2w.png" group-title="Desenhos 24 Horas",[24H] Cavaleiros do Zodiaco 3
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219869
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Cavaleiros do Zodiaco 4" tvg-logo="https://i.imgur.com/p4HrM2w.png" group-title="Desenhos 24 Horas",[24H] Cavaleiros do Zodiaco 4
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219870
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Cavaleiros do Zodiaco 5" tvg-logo="https://i.imgur.com/p4HrM2w.png" group-title="Desenhos 24 Horas",[24H] Cavaleiros do Zodiaco 5
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219871
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Cavaleiros do Zodiaco 6" tvg-logo="https://i.imgur.com/p4HrM2w.png" group-title="Desenhos 24 Horas",[24H] Cavaleiros do Zodiaco 6
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219872
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Caverna do Dragão 1" tvg-logo="https://i.imgur.com/Zfq2vFX.png" group-title="Desenhos 24 Horas",[24H] Caverna do Dragão 1
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219873
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Chaves Desenho" tvg-logo="https://i.imgur.com/kT1G0Oe.png" group-title="Desenhos 24 Horas",[24H] Chaves Desenho
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219874
+#EXTINF:-1 tvg-id="" tvg-name="O Otimista" tvg-logo="https://i.imgur.com/LG8krTe.png" group-title="Desenhos 24 Horas",O Otimista
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219875
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Coragem o Cão Covarde 1" tvg-logo="https://i.imgur.com/SZu2qbM.png" group-title="Desenhos 24 Horas",[24H] Coragem o Cão Covarde 1
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219876
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Coragem o Cão Covarde 2" tvg-logo="https://i.imgur.com/SZu2qbM.png" group-title="Desenhos 24 Horas",[24H] Coragem o Cão Covarde 2
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219877
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Corrida Maluca 1" tvg-logo="https://i.imgur.com/a0yT96h.png" group-title="Desenhos 24 Horas",[24H] Corrida Maluca 1
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219878
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Corrida Maluca 1968" tvg-logo="https://i.imgur.com/a0yT96h.png" group-title="Desenhos 24 Horas",[24H] Corrida Maluca 1968
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219879
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Corrida Maluca 2" tvg-logo="https://i.imgur.com/a0yT96h.png" group-title="Desenhos 24 Horas",[24H] Corrida Maluca 2
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219880
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Corrida Maluca 3" tvg-logo="https://i.imgur.com/a0yT96h.png" group-title="Desenhos 24 Horas",[24H] Corrida Maluca 3
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219881
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Digimon 1" tvg-logo="https://i.imgur.com/BCjydua.png" group-title="Desenhos 24 Horas",[24H] Digimon 1
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219882
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Digimon 15º Aniversário" tvg-logo="https://i.imgur.com/BCjydua.png" group-title="Desenhos 24 Horas",[24H] Digimon 15º Aniversário
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219883
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Digimon 2" tvg-logo="https://i.imgur.com/BCjydua.png" group-title="Desenhos 24 Horas",[24H] Digimon 2
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219884
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Digimon Adventure Zero Two" tvg-logo="https://i.imgur.com/BCjydua.png" group-title="Desenhos 24 Horas",[24H] Digimon Adventure Zero Two
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219885
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Digimon Frontier" tvg-logo="https://i.imgur.com/BCjydua.png" group-title="Desenhos 24 Horas",[24H] Digimon Frontier
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219886
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Digimon Savers" tvg-logo="https://i.imgur.com/BCjydua.png" group-title="Desenhos 24 Horas",[24H] Digimon Savers
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219887
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Digimon Tamers" tvg-logo="https://i.imgur.com/BCjydua.png" group-title="Desenhos 24 Horas",[24H] Digimon Tamers
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219888
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Dora Aventureira 01" tvg-logo="https://i.imgur.com/yPCAmNl.png" group-title="Desenhos 24 Horas",[24H] Dora Aventureira 01
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219889
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Dora Aventureira 2" tvg-logo="https://i.imgur.com/yPCAmNl.png" group-title="Desenhos 24 Horas",[24H] Dora Aventureira 2
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219890
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Doug 1" tvg-logo="https://i.imgur.com/yNFOAC8.png" group-title="Desenhos 24 Horas",[24H] Doug 1
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219891
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Doug 2" tvg-logo="https://i.imgur.com/yNFOAC8.png" group-title="Desenhos 24 Horas",[24H] Doug 2
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219892
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Dragon Ball 1" tvg-logo="https://i.imgur.com/25zF25C.png" group-title="Desenhos 24 Horas",[24H] Dragon Ball 1
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219893
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Dragon Ball 2" tvg-logo="https://i.imgur.com/25zF25C.png" group-title="Desenhos 24 Horas",[24H] Dragon Ball 2
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219894
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Dragon Ball Heroes" tvg-logo="https://i.imgur.com/xd4GpvA.jpg" group-title="Desenhos 24 Horas",[24H] Dragon Ball Heroes
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219895
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Dragon Ball Super 1" tvg-logo="https://i.imgur.com/rsuUye7.png" group-title="Desenhos 24 Horas",[24H] Dragon Ball Super 1
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219896
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Dragon Ball Super 2" tvg-logo="https://i.imgur.com/rsuUye7.png" group-title="Desenhos 24 Horas",[24H] Dragon Ball Super 2
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219897
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Dragon Ball Super 3" tvg-logo="https://i.imgur.com/rsuUye7.png" group-title="Desenhos 24 Horas",[24H] Dragon Ball Super 3
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219898
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Dragon Ball Z 1" tvg-logo="https://i.imgur.com/LyGOv12.png" group-title="Desenhos 24 Horas",[24H] Dragon Ball Z 1
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219899
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Dragon Ball Z 2" tvg-logo="https://i.imgur.com/LyGOv12.png" group-title="Desenhos 24 Horas",[24H] Dragon Ball Z 2
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219900
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Dragon Ball [Filmes 1]" tvg-logo="https://i.imgur.com/LyGOv12.png" group-title="Desenhos 24 Horas",[24H] Dragon Ball [Filmes 1]
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219901
+#EXTINF:-1 tvg-id="" tvg-name="Dudu e Edu" tvg-logo="https://i.imgur.com/bwmG2Oz.png" group-title="Desenhos 24 Horas",Dudu e Edu
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219902
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Em Busca do Vale Encantado" tvg-logo="https://i.imgur.com/xQBr9hE.png" group-title="Desenhos 24 Horas",[24H] Em Busca do Vale Encantado
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219903
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Formiga Atômica" tvg-logo="https://i.imgur.com/m8RMFpU.jpg" group-title="Desenhos 24 Horas",[24H] Formiga Atômica
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219904
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Freakazoid" tvg-logo="https://i.imgur.com/WmGmzQs.png" group-title="Desenhos 24 Horas",[24H] Freakazoid
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219905
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Futurama" tvg-logo="https://i.imgur.com/ysPcVsC.png" group-title="Desenhos 24 Horas",[24H] Futurama
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219906
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Galinha Pintadinha" tvg-logo="https://i.imgur.com/uGVl1sW.png" group-title="Desenhos 24 Horas",[24H] Galinha Pintadinha
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219907
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Galo e a Pata" tvg-logo="https://i.imgur.com/Gtah0o8.png" group-title="Desenhos 24 Horas",[24H] Galo e a Pata
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219908
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Garfield 01" tvg-logo="https://i.imgur.com/A5fejZC.png" group-title="Desenhos 24 Horas",[24H] Garfield 01
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219909
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Garfield 02" tvg-logo="https://i.imgur.com/A5fejZC.png" group-title="Desenhos 24 Horas",[24H] Garfield 02
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219910
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Garfield 03" tvg-logo="https://i.imgur.com/A5fejZC.png" group-title="Desenhos 24 Horas",[24H] Garfield 03
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219911
+#EXTINF:-1 tvg-id="" tvg-name="[24H] He-Man 1" tvg-logo="https://i.imgur.com/DeVv7lg.png" group-title="Desenhos 24 Horas",[24H] He-Man 1
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219912
+#EXTINF:-1 tvg-id="" tvg-name="[24H] He-Man 2" tvg-logo="https://i.imgur.com/DeVv7lg.png" group-title="Desenhos 24 Horas",[24H] He-Man 2
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219913
+#EXTINF:-1 tvg-id="" tvg-name="[24H] He-Man 2002" tvg-logo="https://i.imgur.com/DeVv7lg.png" group-title="Desenhos 24 Horas",[24H] He-Man 2002
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219914
+#EXTINF:-1 tvg-id="" tvg-name="[24H] He-Man 3" tvg-logo="https://i.imgur.com/DeVv7lg.png" group-title="Desenhos 24 Horas",[24H] He-Man 3
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219915
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Homem Aranha Animado 1" tvg-logo="https://i.imgur.com/XzHEuy4.jpg" group-title="Desenhos 24 Horas",[24H] Homem Aranha Animado 1
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219916
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Homem Aranha Animado 2" tvg-logo="https://i.imgur.com/XzHEuy4.jpg" group-title="Desenhos 24 Horas",[24H] Homem Aranha Animado 2
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219917
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Homem de Ferro 01" tvg-logo="https://i.ibb.co/GpTJ4zz/71b4cd16bf93110b2278be164ef903b8.jpg" group-title="Desenhos 24 Horas",[24H] Homem de Ferro 01
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219918
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Homem de Ferro 02" tvg-logo="https://i.ibb.co/GpTJ4zz/71b4cd16bf93110b2278be164ef903b8.jpg" group-title="Desenhos 24 Horas",[24H] Homem de Ferro 02
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219919
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Homem de Ferro 1994" tvg-logo="https://i.ibb.co/GpTJ4zz/71b4cd16bf93110b2278be164ef903b8.jpg" group-title="Desenhos 24 Horas",[24H] Homem de Ferro 1994
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219920
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Irmão do Jorel 1" tvg-logo="https://i.imgur.com/ZC2zSTK.png" group-title="Desenhos 24 Horas",[24H] Irmão do Jorel 1
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219921
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Irmão do Jorel 2" tvg-logo="https://i.imgur.com/ZC2zSTK.png" group-title="Desenhos 24 Horas",[24H] Irmão do Jorel 2
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219922
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Jacarelvis" tvg-logo="https://i.imgur.com/VPTO5JH.png" group-title="Desenhos 24 Horas",[24H] Jacarelvis
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219923
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Jiraya" tvg-logo="https://i.imgur.com/ui3ypUK.png" group-title="Desenhos 24 Horas",[24H] Jiraya
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219924
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Johnny Bravo" tvg-logo="https://i.imgur.com/vJlINsZ.png" group-title="Desenhos 24 Horas",[24H] Johnny Bravo
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219925
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Johnny Test" tvg-logo="https://i.imgur.com/hlolZdh.png" group-title="Desenhos 24 Horas",[24H] Johnny Test
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219926
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Kenan e Kel" tvg-logo="https://i.imgur.com/OTQMEmK.png" group-title="Desenhos 24 Horas",[24H] Kenan e Kel
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219927
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Larva Chiclete" tvg-logo="https://i.imgur.com/GT79fnX.png" group-title="Desenhos 24 Horas",[24H] Larva Chiclete
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219928
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Leo O-Caminhão" tvg-logo="https://image.winudf.com/v2/image/Y29tLmxlby5jYW1pbmhhby5hZHZlbnR1cmVfc2NyZWVuXzFfMTUwNDkwODI1OV8wNzY/screen-1.jpg?fakeurl=1&type=.jpg" group-title="Desenhos 24 Horas",[24H] Leo O-Caminhão
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219929
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Liga da Justica" tvg-logo="https://i.imgur.com/8C1hkQr.png" group-title="Desenhos 24 Horas",[24H] Liga da Justica
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219930
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Looney Tunes" tvg-logo="https://http2.mlstatic.com/pacote-vetores-looney-tunes-para-corel-draw-D_NQ_NP_726158-MLB31610362629_072019-F.jpg" group-title="Desenhos 24 Horas",[24H] Looney Tunes
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219931
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Luluzinha 1" tvg-logo="https://i.imgur.com/tVULkuM.png" group-title="Desenhos 24 Horas",[24H] Luluzinha 1
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219932
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Luluzinha 2" tvg-logo="https://i.imgur.com/tVULkuM.png" group-title="Desenhos 24 Horas",[24H] Luluzinha 2
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219933
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Masha e o Urso" tvg-logo="https://i.imgur.com/QbjuwXD.png" group-title="Desenhos 24 Horas",[24H] Masha e o Urso
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219934
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Medabots" tvg-logo="https://i.imgur.com/cBCf4na.png" group-title="Desenhos 24 Horas",[24H] Medabots
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219935
+#EXTINF:-1 tvg-id="" tvg-name="[24H] MegaMan" tvg-logo="https://i.imgur.com/YxasqfX.jpg" group-title="Desenhos 24 Horas",[24H] MegaMan
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219936
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Moranguinho 1" tvg-logo="https://i.imgur.com/TD06XiF.png" group-title="Desenhos 24 Horas",[24H] Moranguinho 1
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219937
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Moranguinho 2" tvg-logo="https://i.imgur.com/TD06XiF.png" group-title="Desenhos 24 Horas",[24H] Moranguinho 2
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219938
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Naruto" tvg-logo="https://i.imgur.com/bN1SX2Z.png" group-title="Desenhos 24 Horas",[24H] Naruto
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219939
+#EXTINF:-1 tvg-id="" tvg-name="[24H] O Clube das Winx" tvg-logo="https://i.imgur.com/LKCd5a3.jpg" group-title="Desenhos 24 Horas",[24H] O Clube das Winx
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219940
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Oggy e as Baratas" tvg-logo="https://i.imgur.com/BJNzeBK.png" group-title="Desenhos 24 Horas",[24H] Oggy e as Baratas
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219941
+#EXTINF:-1 tvg-id="" tvg-name="[24H] One Piece East Blue" tvg-logo="https://i.imgur.com/S33PChc.png" group-title="Desenhos 24 Horas",[24H] One Piece East Blue
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219942
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Flinstones" tvg-logo="https://i.imgur.com/RGNAPZt.png" group-title="Desenhos 24 Horas",[24H] Os Flinstones
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219943
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Jetson" tvg-logo="https://i.imgur.com/1PXyGFx.png" group-title="Desenhos 24 Horas",[24H] Os Jetson
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219944
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Padrinhos Mágicos 01" tvg-logo="https://i.imgur.com/L2eQw9R.jpg" group-title="Desenhos 24 Horas",[24H] Os Padrinhos Mágicos 01
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219945
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Padrinhos Mágicos 02" tvg-logo="https://i.imgur.com/L2eQw9R.jpg" group-title="Desenhos 24 Horas",[24H] Os Padrinhos Mágicos 02
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219946
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Padrinhos Mágicos 03" tvg-logo="https://i.imgur.com/L2eQw9R.jpg" group-title="Desenhos 24 Horas",[24H] Os Padrinhos Mágicos 03
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219947
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Padrinhos Mágicos 04" tvg-logo="https://i.imgur.com/L2eQw9R.jpg" group-title="Desenhos 24 Horas",[24H] Os Padrinhos Mágicos 04
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219948
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Padrinhos Mágicos 05" tvg-logo="https://i.imgur.com/L2eQw9R.jpg" group-title="Desenhos 24 Horas",[24H] Os Padrinhos Mágicos 05
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219949
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Patos" tvg-logo="https://i.imgur.com/fekua66.png" group-title="Desenhos 24 Horas",[24H] Os Patos
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219950
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Simpsons 01" tvg-logo="https://i.imgur.com/SSlYbRJ.png" group-title="Desenhos 24 Horas",[24H] Os Simpsons 01
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219951
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Simpsons 02" tvg-logo="https://i.imgur.com/SSlYbRJ.png" group-title="Desenhos 24 Horas",[24H] Os Simpsons 02
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219952
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Simpsons 03" tvg-logo="https://i.imgur.com/SSlYbRJ.png" group-title="Desenhos 24 Horas",[24H] Os Simpsons 03
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219953
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Simpsons 04" tvg-logo="https://i.imgur.com/SSlYbRJ.png" group-title="Desenhos 24 Horas",[24H] Os Simpsons 04
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219954
+#EXTINF:-1 tvg-id="CONMEBOL TV 1" tvg-name="[24H] Os Simpsons 05" tvg-logo="https://i.imgur.com/SSlYbRJ.png" group-title="Desenhos 24 Horas",[24H] Os Simpsons 05
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219955
+#EXTINF:-1 tvg-id="CONMEBOL TV 1" tvg-name="[24H] Os Simpsons 06" tvg-logo="https://i.imgur.com/SSlYbRJ.png" group-title="Desenhos 24 Horas",[24H] Os Simpsons 06
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219956
+#EXTINF:-1 tvg-id="CONMEBOL TV 1" tvg-name="[24H] Os Simpsons 07" tvg-logo="https://i.imgur.com/SSlYbRJ.png" group-title="Desenhos 24 Horas",[24H] Os Simpsons 07
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219957
+#EXTINF:-1 tvg-id="CONMEBOL TV 2" tvg-name="[24H] Os Simpsons 08" tvg-logo="https://i.imgur.com/SSlYbRJ.png" group-title="Desenhos 24 Horas",[24H] Os Simpsons 08
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219958
+#EXTINF:-1 tvg-id="CONMEBOL TV 2" tvg-name="[24H] Os Simpsons 09" tvg-logo="https://i.imgur.com/SSlYbRJ.png" group-title="Desenhos 24 Horas",[24H] Os Simpsons 09
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219959
+#EXTINF:-1 tvg-id="CONMEBOL TV 2" tvg-name="[24H] Os Simpsons 10" tvg-logo="https://i.imgur.com/SSlYbRJ.png" group-title="Desenhos 24 Horas",[24H] Os Simpsons 10
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219960
+#EXTINF:-1 tvg-id="CONMEBOL TV 3" tvg-name="[24H] Os Simpsons 11" tvg-logo="https://i.imgur.com/SSlYbRJ.png" group-title="Desenhos 24 Horas",[24H] Os Simpsons 11
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219961
+#EXTINF:-1 tvg-id="CONMEBOL TV 3" tvg-name="[24H] Os Simpsons 12" tvg-logo="https://i.imgur.com/SSlYbRJ.png" group-title="Desenhos 24 Horas",[24H] Os Simpsons 12
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219962
+#EXTINF:-1 tvg-id="CONMEBOL TV 3" tvg-name="[24H] Os Simpsons 13" tvg-logo="https://i.imgur.com/SSlYbRJ.png" group-title="Desenhos 24 Horas",[24H] Os Simpsons 13
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219963
+#EXTINF:-1 tvg-id="CONMEBOL TV 3" tvg-name="[24H] Os Simpsons 14" tvg-logo="https://i.imgur.com/SSlYbRJ.png" group-title="Desenhos 24 Horas",[24H] Os Simpsons 14
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219964
+#EXTINF:-1 tvg-id="CONMEBOL TV 4" tvg-name="[24H] Os Simpsons 15" tvg-logo="https://i.imgur.com/SSlYbRJ.png" group-title="Desenhos 24 Horas",[24H] Os Simpsons 15
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219965
+#EXTINF:-1 tvg-id="CONMEBOL TV 4" tvg-name="[24H] Os Simpsons 16" tvg-logo="https://i.imgur.com/SSlYbRJ.png" group-title="Desenhos 24 Horas",[24H] Os Simpsons 16
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219966
+#EXTINF:-1 tvg-id="CONMEBOL TV 4" tvg-name="[24H] Os Simpsons 17" tvg-logo="https://i.imgur.com/SSlYbRJ.png" group-title="Desenhos 24 Horas",[24H] Os Simpsons 17
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219967
+#EXTINF:-1 tvg-id="CONMEBOL TV 4" tvg-name="[24H] Os Simpsons 18" tvg-logo="https://i.imgur.com/SSlYbRJ.png" group-title="Desenhos 24 Horas",[24H] Os Simpsons 18
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219968
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Simpsons 19" tvg-logo="https://i.imgur.com/SSlYbRJ.png" group-title="Desenhos 24 Horas",[24H] Os Simpsons 19
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219969
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Simpsons 20" tvg-logo="https://i.imgur.com/SSlYbRJ.png" group-title="Desenhos 24 Horas",[24H] Os Simpsons 20
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219970
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Simpsons 21" tvg-logo="https://i.imgur.com/SSlYbRJ.png" group-title="Desenhos 24 Horas",[24H] Os Simpsons 21
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219971
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Simpsons 22" tvg-logo="https://i.imgur.com/SSlYbRJ.png" group-title="Desenhos 24 Horas",[24H] Os Simpsons 22
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219972
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Simpsons 23" tvg-logo="https://i.imgur.com/SSlYbRJ.png" group-title="Desenhos 24 Horas",[24H] Os Simpsons 23
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219973
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Simpsons 24" tvg-logo="https://i.imgur.com/SSlYbRJ.png" group-title="Desenhos 24 Horas",[24H] Os Simpsons 24
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219974
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Simpsons 25" tvg-logo="https://i.imgur.com/SSlYbRJ.png" group-title="Desenhos 24 Horas",[24H] Os Simpsons 25
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219975
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Simpsons 26" tvg-logo="https://i.imgur.com/SSlYbRJ.png" group-title="Desenhos 24 Horas",[24H] Os Simpsons 26
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219976
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Simpsons 27" tvg-logo="https://i.imgur.com/SSlYbRJ.png" group-title="Desenhos 24 Horas",[24H] Os Simpsons 27
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219977
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Simpsons 28" tvg-logo="https://i.imgur.com/SSlYbRJ.png" group-title="Desenhos 24 Horas",[24H] Os Simpsons 28
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219978
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Simpsons 29" tvg-logo="https://i.imgur.com/SSlYbRJ.png" group-title="Desenhos 24 Horas",[24H] Os Simpsons 29
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219979
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Simpsons 30" tvg-logo="https://i.imgur.com/SSlYbRJ.png" group-title="Desenhos 24 Horas",[24H] Os Simpsons 30
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219980
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Simpsons 31" tvg-logo="https://i.imgur.com/SSlYbRJ.png" group-title="Desenhos 24 Horas",[24H] Os Simpsons 31
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219981
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Simpsons 32" tvg-logo="https://i.imgur.com/SSlYbRJ.png" group-title="Desenhos 24 Horas",[24H] Os Simpsons 32
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219982
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Simpsons 33" tvg-logo="https://i.imgur.com/SSlYbRJ.png" group-title="Desenhos 24 Horas",[24H] Os Simpsons 33
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219983
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Simpsons 34" tvg-logo="https://i.imgur.com/SSlYbRJ.png" group-title="Desenhos 24 Horas",[24H] Os Simpsons 34
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219984
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Pantera Cor de Rosa 1" tvg-logo="https://i.imgur.com/JyfiU8H.jpg" group-title="Desenhos 24 Horas",[24H] Pantera Cor de Rosa 1
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219985
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Pantera Cor de Rosa 2" tvg-logo="https://i.imgur.com/JyfiU8H.jpg" group-title="Desenhos 24 Horas",[24H] Pantera Cor de Rosa 2
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219986
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Patati e Patata 01" tvg-logo="https://i.imgur.com/cM2o7Tw.png" group-title="Desenhos 24 Horas",[24H] Patati e Patata 01
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219987
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Patati e Patata 02" tvg-logo="https://i.imgur.com/cM2o7Tw.png" group-title="Desenhos 24 Horas",[24H] Patati e Patata 02
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219988
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Patati e Patata 03" tvg-logo="https://i.imgur.com/cM2o7Tw.png" group-title="Desenhos 24 Horas",[24H] Patati e Patata 03
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219989
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Pato Donald" tvg-logo="https://i.imgur.com/AN1JJIE.png" group-title="Desenhos 24 Horas",[24H] Pato Donald
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219990
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Patrulha Canina 2" tvg-logo="https://i.imgur.com/4WTqBCZ.png" group-title="Desenhos 24 Horas",[24H] Patrulha Canina 2
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219991
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Patrulha Canina 3" tvg-logo="https://i.imgur.com/4WTqBCZ.png" group-title="Desenhos 24 Horas",[24H] Patrulha Canina 3
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219992
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Patrulha Canina 4" tvg-logo="https://i.imgur.com/4WTqBCZ.png" group-title="Desenhos 24 Horas",[24H] Patrulha Canina 4
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219993
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Patrulha Canina 5" tvg-logo="https://i.imgur.com/4WTqBCZ.png" group-title="Desenhos 24 Horas",[24H] Patrulha Canina 5
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219994
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Patrulha Canina 6" tvg-logo="https://i.imgur.com/4WTqBCZ.png" group-title="Desenhos 24 Horas",[24H] Patrulha Canina 6
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219995
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Peppa Pig" tvg-logo="https://i.imgur.com/FNYiVSK.png" group-title="Desenhos 24 Horas",[24H] Peppa Pig
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219996
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Pequena Sereia" tvg-logo="https://i.imgur.com/NrXr7QS.png" group-title="Desenhos 24 Horas",[24H] Pequena Sereia
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219997
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Pernalonga 01" tvg-logo="https://i.imgur.com/FznIeVB.jpg" group-title="Desenhos 24 Horas",[24H] Pernalonga 01
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219998
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Pernalonga 02" tvg-logo="https://i.imgur.com/FznIeVB.jpg" group-title="Desenhos 24 Horas",[24H] Pernalonga 02
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2219999
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Pica Pau 01" tvg-logo="https://i.imgur.com/vDijtrd.png" group-title="Desenhos 24 Horas",[24H] Pica Pau 01
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2220000
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Pica Pau 02" tvg-logo="https://i.imgur.com/vDijtrd.png" group-title="Desenhos 24 Horas",[24H] Pica Pau 02
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2220001
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Pica Pau 03" tvg-logo="https://i.imgur.com/vDijtrd.png" group-title="Desenhos 24 Horas",[24H] Pica Pau 03
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2220002
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Pink-e-Cerebro" tvg-logo="https://i.imgur.com/b3SSmrG.png" group-title="Desenhos 24 Horas",[24H] Pink-e-Cerebro
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2220003
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Pintinho Amarelinho 1" tvg-logo="https://i.imgur.com/5heRGtO.png" group-title="Desenhos 24 Horas",[24H] Pintinho Amarelinho 1
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2220004
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Pintinho Amarelinho 2" tvg-logo="https://i.imgur.com/5heRGtO.png" group-title="Desenhos 24 Horas",[24H] Pintinho Amarelinho 2
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2220005
+#EXTINF:-1 tvg-id="" tvg-name="[24H] PJ Masks" tvg-logo="https://i.imgur.com/CNpsqgv.png" group-title="Desenhos 24 Horas",[24H] PJ Masks
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2220006
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Pocoyo" tvg-logo="https://i.imgur.com/RaBjq2T.png" group-title="Desenhos 24 Horas",[24H] Pocoyo
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2220007
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Pokemon 1" tvg-logo="https://i.imgur.com/8Mztu28.png" group-title="Desenhos 24 Horas",[24H] Pokemon 1
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2220008
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Pokemon 2" tvg-logo="https://i.imgur.com/8Mztu28.png" group-title="Desenhos 24 Horas",[24H] Pokemon 2
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2220009
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Popeye" tvg-logo="https://i.imgur.com/byvYH2T.png" group-title="Desenhos 24 Horas",[24H] Popeye
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2220010
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Popeye 75th" tvg-logo="https://i.imgur.com/byvYH2T.png" group-title="Desenhos 24 Horas",[24H] Popeye 75th
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2220011
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Princesa e o Dragão" tvg-logo="https://i.imgur.com/L3Up02X.png" group-title="Desenhos 24 Horas",[24H] Princesa e o Dragão
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2220012
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Rambo" tvg-logo="https://i.imgur.com/aTbGjwz.png" group-title="Desenhos 24 Horas",[24H] Rambo
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2220013
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Reino Gelado" tvg-logo="https://i.imgur.com/vtkRGJv.png" group-title="Desenhos 24 Horas",[24H] Reino Gelado
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2220014
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Rimas de Berçário" tvg-logo="https://i.imgur.com/JjFnb4g.jpg" group-title="Desenhos 24 Horas",[24H] Rimas de Berçário
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2220015
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Sakura Card" tvg-logo="https://i.imgur.com/vS0YXXU.png" group-title="Desenhos 24 Horas",[24H] Sakura Card
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2220016
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Samurai Warriors" tvg-logo="https://i.imgur.com/FdkPiIn.png" group-title="Desenhos 24 Horas",[24H] Samurai Warriors
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2220017
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Samurai-X 1" tvg-logo="https://i.imgur.com/1JlU4Em.jpg" group-title="Desenhos 24 Horas",[24H] Samurai-X 1
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2220018
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Samurai-X 2" tvg-logo="https://i.imgur.com/1JlU4Em.jpg" group-title="Desenhos 24 Horas",[24H] Samurai-X 2
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2220019
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Sapo Não Lava o Pé 01" tvg-logo="https://i.imgur.com/bSyQiNf.jpg" group-title="Desenhos 24 Horas",[24H] Sapo Não Lava o Pé 01
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2220020
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Sapo Não Lava o Pé 02" tvg-logo="https://i.imgur.com/bSyQiNf.jpg" group-title="Desenhos 24 Horas",[24H] Sapo Não Lava o Pé 02
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2220021
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Scooby-Doo" tvg-logo="https://i.imgur.com/27XUjwh.png" group-title="Desenhos 24 Horas",[24H] Scooby-Doo
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2220022
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Scooby-Doo - 13 Fantasmas 1985" tvg-logo="https://i.imgur.com/27XUjwh.png" group-title="Desenhos 24 Horas",[24H] Scooby-Doo - 13 Fantasmas 1985
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2220023
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Shaman King" tvg-logo="https://i.imgur.com/qvsjN2t.png" group-title="Desenhos 24 Horas",[24H] Shaman King
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2220024
+#EXTINF:-1 tvg-id="" tvg-name="[24H] She-ra" tvg-logo="https://i.imgur.com/HzBI3gi.png" group-title="Desenhos 24 Horas",[24H] She-ra
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2220025
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Shinzo" tvg-logo="https://i.imgur.com/taKfZeM.png" group-title="Desenhos 24 Horas",[24H] Shinzo
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2220026
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Show da Luna" tvg-logo="https://i.imgur.com/YCGbUDc.png" group-title="Desenhos 24 Horas",[24H] Show da Luna
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2220027
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Shurato" tvg-logo="https://i.imgur.com/OEiRoW3.png" group-title="Desenhos 24 Horas",[24H] Shurato
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2220028
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Simon" tvg-logo="https://i.imgur.com/ZLDdJmH.png" group-title="Desenhos 24 Horas",[24H] Simon
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2220029
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Sitio do Pica-Pau Amarelo" tvg-logo="https://i.imgur.com/QoGJNVu.jpg" group-title="Desenhos 24 Horas",[24H] Sitio do Pica-Pau Amarelo
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2220030
+#EXTINF:-1 tvg-id="" tvg-name="[24H] South Park 01" tvg-logo="https://i.imgur.com/1VPX6jI.png" group-title="Desenhos 24 Horas",[24H] South Park 01
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2220031
+#EXTINF:-1 tvg-id="" tvg-name="[24H] South Park 02" tvg-logo="https://i.imgur.com/1VPX6jI.png" group-title="Desenhos 24 Horas",[24H] South Park 02
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2220032
+#EXTINF:-1 tvg-id="" tvg-name="[24H] South Park 03" tvg-logo="https://i.imgur.com/1VPX6jI.png" group-title="Desenhos 24 Horas",[24H] South Park 03
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2220033
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Speed-Racer" tvg-logo="https://i.imgur.com/3OBagtI.png" group-title="Desenhos 24 Horas",[24H] Speed-Racer
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2220034
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Steven Universe" tvg-logo="https://i.imgur.com/kPUxFAb.png" group-title="Desenhos 24 Horas",[24H] Steven Universe
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2220035
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Street Fighter 2" tvg-logo="https://i.imgur.com/Sn5VfwV.png" group-title="Desenhos 24 Horas",[24H] Street Fighter 2
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2220036
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Super Choque 1" tvg-logo="https://i.imgur.com/Qc4nrkK.png" group-title="Desenhos 24 Horas",[24H] Super Choque 1
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2220037
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Super Choque 2" tvg-logo="https://i.imgur.com/Qc4nrkK.png" group-title="Desenhos 24 Horas",[24H] Super Choque 2
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2220038
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Super Mario Bros 1" tvg-logo="https://i.imgur.com/d4B83KW.png" group-title="Desenhos 24 Horas",[24H] Super Mario Bros 1
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2220039
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Super Mario Bros 2" tvg-logo="https://i.imgur.com/d4B83KW.png" group-title="Desenhos 24 Horas",[24H] Super Mario Bros 2
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2220040
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Super Wings 01" tvg-logo="https://i.imgur.com/OI5Qyja.png" group-title="Desenhos 24 Horas",[24H] Super Wings 01
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2220041
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Super Wings 02" tvg-logo="https://i.imgur.com/OI5Qyja.png" group-title="Desenhos 24 Horas",[24H] Super Wings 02
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2220042
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Superman - Homem do Amanhã" tvg-logo="https://i.imgur.com/n9VCJ6M.jpg" group-title="Desenhos 24 Horas",[24H] Superman - Homem do Amanhã
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2220043
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Superman Animado 01" tvg-logo="https://i.imgur.com/eZNUeQw.png" group-title="Desenhos 24 Horas",[24H] Superman Animado 01
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2220044
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Superman Animado 02" tvg-logo="https://i.imgur.com/eZNUeQw.png" group-title="Desenhos 24 Horas",[24H] Superman Animado 02
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2220045
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Tartarugas Ninjas" tvg-logo="https://i.imgur.com/JZNQZ1V.png" group-title="Desenhos 24 Horas",[24H] Tartarugas Ninjas
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2220046
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Team-Galaxy" tvg-logo="https://i.imgur.com/KxMZ1hk.png" group-title="Desenhos 24 Horas",[24H] Team-Galaxy
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2220047
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Thundercats" tvg-logo="https://i.imgur.com/asCG4BL.png" group-title="Desenhos 24 Horas",[24H] Thundercats
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2220048
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Timão e Pumba 01" tvg-logo="https://i.imgur.com/SpbVovY.png" group-title="Desenhos 24 Horas",[24H] Timão e Pumba 01
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2220049
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Timão e Pumba 02" tvg-logo="https://i.imgur.com/SpbVovY.png" group-title="Desenhos 24 Horas",[24H] Timão e Pumba 02
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2220050
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Tom & Jerry" tvg-logo="https://i.imgur.com/SHkf4YJ.jpg" group-title="Desenhos 24 Horas",[24H] Tom & Jerry
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2220051
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Três Espiãs Demais" tvg-logo="https://i.imgur.com/r8pkVTF.png" group-title="Desenhos 24 Horas",[24H] Três Espiãs Demais
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2220052
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Turma da Mônica" tvg-logo="https://i.imgur.com/nVZpxON.jpg" group-title="Desenhos 24 Horas",[24H] Turma da Mônica
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2220053
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Turma do Pateta" tvg-logo="https://i.imgur.com/WJF1XMl.png" group-title="Desenhos 24 Horas",[24H] Turma do Pateta
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2220054
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Ursinhos Carinhosos 1" tvg-logo="https://i.imgur.com/cc6o3nh.png" group-title="Desenhos 24 Horas",[24H] Ursinhos Carinhosos 1
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2220055
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Ursinhos Carinhosos 2" tvg-logo="https://i.imgur.com/cc6o3nh.png" group-title="Desenhos 24 Horas",[24H] Ursinhos Carinhosos 2
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2220056
+#EXTINF:-1 tvg-id="" tvg-name="Cachorro. Vai!" tvg-logo="" group-title="Desenhos 24 Horas",Cachorro. Vai!
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2220057
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Wally Gator" tvg-logo="https://i.imgur.com/Qgs56fB.png" group-title="Desenhos 24 Horas",[24H] Wally Gator
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2220058
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Wolverine e os X-Men" tvg-logo="https://i.imgur.com/E1sAsc6.png" group-title="Desenhos 24 Horas",[24H] Wolverine e os X-Men
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2220059
+#EXTINF:-1 tvg-id="" tvg-name="[24H] X-Men 1" tvg-logo="https://i.imgur.com/bqGIXuh.png" group-title="Desenhos 24 Horas",[24H] X-Men 1
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2220060
+#EXTINF:-1 tvg-id="" tvg-name="[24H] X-Men 2" tvg-logo="https://i.imgur.com/bqGIXuh.png" group-title="Desenhos 24 Horas",[24H] X-Men 2
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2220061
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Xuxa só para Baixinhos 1" tvg-logo="https://i.imgur.com/1QcbLNW.jpg" group-title="Desenhos 24 Horas",[24H] Xuxa só para Baixinhos 1
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2220062
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Xuxa só para Baixinhos 2" tvg-logo="https://i.imgur.com/1QcbLNW.jpg" group-title="Desenhos 24 Horas",[24H] Xuxa só para Baixinhos 2
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2220063
+#EXTINF:-1 tvg-id="" tvg-name="[24H] YU-YU-Hakusho" tvg-logo="https://i.imgur.com/31FLn06.png" group-title="Desenhos 24 Horas",[24H] YU-YU-Hakusho
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2220064
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Zatch Bell" tvg-logo="https://i.imgur.com/2mdIzFg.png" group-title="Desenhos 24 Horas",[24H] Zatch Bell
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2220065
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Zé Buscapé" tvg-logo="https://i.imgur.com/VNvZEhg.png" group-title="Desenhos 24 Horas",[24H] Zé Buscapé
+http://cdn.lvbxtv.com:80/8473997886/9939873590/2220066
+
+############################################################################ Canais | Animes e Seriados 24 Horas
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GhI4cG5.png" group-title="Canais Animes e Seriados 24 Horas",Eu a Patroa e as Crianças
+http://cdn.topk.live:80/tarcisio/123456/1590782
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-S-X7OIXwPhQ/UoOh-3IiF_I/AAAAAAAAFSg/e3imfYguE_w/s1600/xx.jpg" group-title="Canais Animes e Seriados 24 Horas",CINE MARVEL
+http://tv.com.vc:80/nalva/123456/1026298
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JW5nNkJ.png" group-title="Canais Animes e Seriados 24 Horas",Um Maluco no Pedaço
+http://cdn.topk.live:80/tarcisio/123456/1590787
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ay6isCx.jpeg" group-title="Canais Animes e Seriados 24 Horas",Truques da Mente
+http://cdn.topk.live:80/tarcisio/123456/1590791
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zbjoBYM.png" group-title="Canais Animes e Seriados 24 Horas",Todo Mundo Odeia o Chris
+http://cdn.topk.live:80/tarcisio/123456/1590793
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/94wydRS.png" group-title="Canais Animes e Seriados 24 Horas",Steven Universo
+http://cdn.topk.live:80/tarcisio/123456/1590790
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3BfUocu.png" group-title="Canais Animes e Seriados 24 Horas",South Park
+http://cdn.topk.live:80/tarcisio/123456/1590789
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rQIkPMZ.png" group-title="Canais Animes e Seriados 24 Horas",Snoopy
+http://cdn.topk.live:80/tarcisio/123456/1590796
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uSZyob5.png" group-title="Canais Animes e Seriados 24 Horas",Os Simpsons
+http://cdn.topk.live:80/tarcisio/123456/1590779
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JuwAWRh.png" group-title="Canais Animes e Seriados 24 Horas",Naruto
+http://cdn.topk.live:80/tarcisio/123456/1590785
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MrVY6Np.png" group-title="Canais Animes e Seriados 24 Horas",Naruto Shippuden
+http://cdn.topk.live:80/tarcisio/123456/1590786
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zycFZ72.png" group-title="Canais Animes e Seriados 24 Horas",Largados e Pelados
+http://cdn.topk.live:80/tarcisio/123456/1590792
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e0otKDZ.png" group-title="Canais Animes e Seriados 24 Horas",iCarly Revival
+http://cdn.topk.live:80/tarcisio/123456/1590788
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JmQAxwF.png" group-title="Canais Animes e Seriados 24 Horas",Futurama
+http://cdn.topk.live:80/tarcisio/123456/1590802
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lvZZ2Ru.jpeg" group-title="Canais Animes e Seriados 24 Horas",Familia Dinoussauros
+http://cdn.topk.live:80/tarcisio/123456/1590804
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PWcHsmB.png" group-title="Canais Animes e Seriados 24 Horas",Dragon Ball Z
+http://cdn.topk.live:80/tarcisio/123456/1590794
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/19hnBxX.png" group-title="Canais Animes e Seriados 24 Horas",DPA - Detetives do Predio Azul
+http://cdn.topk.live:80/tarcisio/123456/1590803
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8dQx42i.png" group-title="Canais Animes e Seriados 24 Horas",Dois Homens e Meio
+http://cdn.topk.live:80/tarcisio/123456/1590783
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5ysBzbO.gif" group-title="Canais Animes e Seriados 24 Horas",Digimon Adventure
+http://cdn.topk.live:80/tarcisio/123456/1590795
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eufMEBC.png" group-title="Canais Animes e Seriados 24 Horas",Chaves
+http://cdn.topk.live:80/tarcisio/123456/1590780
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XJh86hs.png" group-title="Canais Animes e Seriados 24 Horas",Chapolin Colorado
+http://cdn.topk.live:80/tarcisio/123456/1590781
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R1kGWuI.png" group-title="Canais Animes e Seriados 24 Horas",Boku no Hero Academia
+http://cdn.topk.live:80/tarcisio/123456/1590798
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WqYHEIc.png" group-title="Canais Animes e Seriados 24 Horas",BoJack Horseman
+http://cdn.topk.live:80/tarcisio/123456/1590800
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/loxBsza.png" group-title="Canais Animes e Seriados 24 Horas",Bob Esponja Calça Quadrada
+http://cdn.topk.live:80/tarcisio/123456/1590784
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zSrTBBT.png" group-title="Canais Animes e Seriados 24 Horas",Big Bang: A Teoria
+http://cdn.topk.live:80/tarcisio/123456/1590797
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bZv0mXo.png" group-title="Canais Animes e Seriados 24 Horas",As Visões da Raven
+http://cdn.topk.live:80/tarcisio/123456/1590806
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BnSsVRK.png" group-title="Canais Animes e Seriados 24 Horas",Apenas um Show
+http://cdn.topk.live:80/tarcisio/123456/1590799
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QvfOTEW.png" group-title="Canais Animes e Seriados 24 Horas",Aeroporto Area Restrita
+http://cdn.topk.live:80/tarcisio/123456/1590805
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3zHQTlE.png" group-title="Canais Animes e Seriados 24 Horas",Masha e o Urso
+http://cdn.topk.live:80/tarcisio/123456/1590726
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JrtzNAE.jpeg" group-title="Canais Animes e Seriados 24 Horas",Larva
+http://cdn.topk.live:80/tarcisio/123456/1590723

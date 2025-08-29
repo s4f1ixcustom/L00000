@@ -1,0 +1,864 @@
+#EXTM3U
+
+############################################################################ Canais | Adultos
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZhtoIRL.png" group-title="Canais Adultos",Babestation
+http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uN10hOS.png" group-title="Canais Adultos",Erox
+http://178.219.128.68:64888/EROXHD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RJ9wbNF.jpg" group-title="Canais Adultos",Visit-X TV
+http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tdqn23R.png" group-title="Canais Adultos",OLALA EU
+http://streaming.tv-teleport.ru/O-la-la/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7i4uBNT.png" group-title="Canais Adultos",PLAYBOY
+http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jyc5xMz.jpeg" group-title="Canais Adultos",Miami TV
+https://59ec5453559f0.streamlock.net/Latino/smil:WEB4141/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jyc5xMz.jpeg" group-title="Canais Adultos",Miami TV (Mexico)
+http://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/chunklist_b1896000.m3u8?fluxuslust.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/amcLI8v.png" group-title="Canais Adultos",Russian 18+
+https://autopilot.catcast.tv/content/40381/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oW89tuc.png" group-title="Canais Adultos",Babes TV
+http://22def5f4.rossteleccom.net/iptv/8ZA35K4R3BWEFP/6172/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PPjr9UC.png" group-title="Canais Adultos",Europulse
+http://api.alpaca.t62a.com/hls/9108/stream0.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pixhXBh.png" group-title="Canais Adultos",PENTHOUSE GOLD
+http://45.166.92.22:58001/play/a04c/index.m3u8
+
+############################################################################ Canais | TV Fechada
+
+#EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="Canais de Filmes: TV Fechada",SPACE HD
+https://cr7v.short.gy/manotv/SPCHD/Index.m3u8
+ 
+#EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="Canais de Filmes: TV Fechada",SPACE HD [Alter]
+http://45.235.0.78/SPACE-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais de Filmes: TV Fechada",TNT SD
+https://cr7v.short.gy/manotv/TNT/Index.m3u8
+
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais de Filmes: TV Fechada",TNT HD
+https://cdn-3.nxplay.com.br/TNT_TK/index.m3u8
+
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais de Filmes: TV Fechada",TNT HD [Alter]
+http://45.235.0.78/TNT-HD/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://imgur.com/vH2tkQt.png" group-title="Canais de Filmes: TV Fechada",TNT Séries HD
+http://45.235.0.78/TNTSERIES-HD/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://imgur.com/vH2tkQt.png" group-title="Canais de Filmes: TV Fechada",TNT Séries HD [Alter]
+https://brflu.walk-tv.com/5904/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1  tvg-logo="https://imgur.com/vH2tkQt.png" group-title="Canais de Filmes: TV Fechada",TNT Séries FHD
+https://cdn-3.nxplay.com.br/TNT_SERIES_TK/index.m3u8
+
+#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Canais de Filmes: TV Fechada",Warner Channel HD
+http://45.235.0.78/WARNERCHANNEL-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Canais de Filmes: TV Fechada",Warner Channel HD [Alter]
+http://148.113.160.49:14761/
+
+#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Canais de Filmes: TV Fechada",Warner Channel FHD
+https://brflu.walk-tv.com/5882/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://imgur.com/EYAmbe4.png" group-title="Canais de Filmes: TV Fechada",A&E SD
+https://cdn-3.nxplay.com.br/AeE_BRASIL_TK/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://imgur.com/EYAmbe4.png" group-title="Canais de Filmes: TV Fechada",A&E HD
+http://45.235.0.78/A&E-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://imgur.com/EYAmbe4.png" group-title="Canais de Filmes: TV Fechada",A&E AUT
+https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/267/267.m3u8
+
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://imgur.com/IaxysZJ.png" group-title="Canais de Filmes: TV Fechada",AXN SD
+https://cdn-3.nxplay.com.br/AXN_TK/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://imgur.com/IaxysZJ.png" group-title="Canais de Filmes: TV Fechada",AXN HD 
+https://cdn-3.nxplay.com.br/AXN_TK/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://imgur.com/IaxysZJ.png" group-title="Canais de Filmes: TV Fechada",AXN HD [Alter]
+https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/278/278.m3u8
+
+#EXTINF:-1 tvg-id="PARAMOUNT" tvg-name="PARAMOUNT" tvg-logo="https://imgur.com/GPcKZ2i.png" group-title="Canais de Filmes: TV Fechada",Paramount Network HD
+http://45.235.0.78/PARAMOUNT-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="PARAMOUNT" tvg-name="PARAMOUNT" tvg-logo="https://imgur.com/GPcKZ2i.png" group-title="Canais de Filmes: TV Fechada",Paramount Network HD [Alter]
+https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/289/289.m3u8
+
+#EXTINF:-1 tvg-id="Lifetime HD" tvg-name="Lifetime HD" tvg-logo="https://i.imgur.com/lAPINbh.png" group-title="Canais de Filmes: TV Fechada",Lifetime SD
+https://cdn-3.nxplay.com.br/LIFE_TIME_TK/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/faV3eZx.png" group-title="Canais de Filmes: TV Fechada",Telecine Action HD
+http://45.235.0.78/TCACTION-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/faV3eZx.png" group-title="Canais de Filmes: TV Fechada",Telecine Action HD [Alter]
+https://brflu.walk-tv.com/5875/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/cPTZMTo.png" group-title="Canais de Filmes: TV Fechada",Telecine Pipoca HD
+http://45.235.0.78/TCPIPOCA-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/cPTZMTo.png" group-title="Canais de Filmes: TV Fechada",Telecine Pipoca HD [Alter]
+https://brflu.walk-tv.com/5877/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-name="TELECINE PREMIUM" tvg-logo="https://imgur.com/SGr7sdL.png" group-title="Canais de Filmes: TV Fechada",Telecine Premium HD
+http://45.235.0.78/TCPREMIUM-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-name="TELECINE PREMIUM" tvg-logo="https://imgur.com/SGr7sdL.png" group-title="Canais de Filmes: TV Fechada",Telecine Premium HD [Alter]
+https://brflu.walk-tv.com/5879/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/viw732w.png" group-title="Canais de Filmes: TV Fechada",Telecine Touch HD
+http://45.235.0.78/TCTOUCH-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/viw732w.png" group-title="Canais de Filmes: TV Fechada",Telecine Touch HD [Alter]
+https://brflu.walk-tv.com/5880/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Tavo4Zl.png" group-title="Canais de Filmes: TV Fechada",Telecine Cult HD
+http://45.235.0.78/TCCULT-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eo6Js8D.png" group-title="Canais de Filmes: TV Fechada",Telecine Fun HD
+http://45.235.0.78/TCFUN-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eo6Js8D.png" group-title="Canais de Filmes: TV Fechada",Telecine Fun HD [Alter]
+https://brflu.walk-tv.com/5901/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="AMC BRASIL" tvg-name="AMC BRASIL" tvg-logo="https://imgur.com/2lr4rvX.png" group-title="Canais de Filmes: TV Fechada",AMC HD
+https://cdn-3.nxplay.com.br/AMC_BRASIL_TK/index.m3u8
+
+#EXTINF:-1 tvg-id="STAR CHANNEL" tvg-name="STAR CHANNEL" tvg-logo="https://imgur.com/TCrKgcu.png" group-title="Canais de Filmes: TV Fechada",STAR CHANNEL HD 
+https://brflu.walk-tv.com/5889/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="STAR CHANNEL" tvg-name="STAR CHANNEL" tvg-logo="https://imgur.com/TCrKgcu.png" group-title="Canais de Filmes: TV Fechada",STAR CHANNEL FHD
+http://xcui.vitvabc.xyz:8880/laok300/8pEZjdeMPad7/31285
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b4Z8dd0HD.png" group-title="Canais de Filmes: TV Fechada",Canal Sony HD 
+https://cdn-3.nxplay.com.br/SONY_CHANNEL/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b4Z8dd0HD.png" group-title="Canais de Filmes: TV Fechada",Canal Sony HD [Alter]
+https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/279/279.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bv0MLFU.png" group-title="Canais de Filmes: TV Fechada",Sony Movies HD
+https://cdn-3.nxplay.com.br/SONY_MOVIES/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bv0MLFU.png" group-title="Canais de Filmes: TV Fechada",Sony Movies HD [Alter]
+https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/1475/1475.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/szGH75G.png" group-title="Canais de Filmes: TV Fechada",FX HD
+http://45.235.0.78/FX-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="FX HD" tvg-logo="https://imgur.com/szGH75G.png" group-title="Canais de Filmes: TV Fechada",FX HD [Alter]
+https://brflu.walk-tv.com/5855/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://imgur.com/v3a4Afr.png" group-title="Canais de Filmes: TV Fechada",CINEMAX HD
+http://xcui.vitvabc.xyz:8880/laok300/8pEZjdeMPad7/16702
+
+#EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://imgur.com/v3a4Afr.png" group-title="Canais de Filmes: TV Fechada",CINEMAX HD [Alter]
+http://45.235.0.78/CINEMAX-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="MEGAPIX" tvg-name="MEGAPIX" tvg-logo="https://imgur.com/H03jUu1.png" group-title="Canais de Filmes: TV Fechada",MEGAPIX HD
+http://xcui.vitvabc.xyz:8880/laok300/8pEZjdeMPad7/31279
+
+#EXTINF:-1 tvg-id="MEGAPIX" tvg-name="MEGAPIX" tvg-logo="https://imgur.com/H03jUu1.png" group-title="Canais de Filmes: TV Fechada",MEGAPIX HD [Alter]
+http://sp001tuncdn.ddns.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/098ad391d1e3d63d4312e1431dc3364c/43.m3u8
+
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://imgur.com/IKjcTJH.png" group-title="Canais de Filmes: TV Fechada",HBO HD
+https://brflu.walk-tv.com/5891/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://imgur.com/IKjcTJH.png" group-title="Canais de Filmes: TV Fechada",HBO HD [Alter]
+http://45.235.0.78/HBO-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO2" tvg-name="HBO2" tvg-logo="https://imgur.com/smM7mYc.png" group-title="Canais de Filmes: TV Fechada",HBO 2 HD
+https://brflu.walk-tv.com/5857/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO2" tvg-name="HBO2" tvg-logo="https://imgur.com/smM7mYc.png" group-title="Canais de Filmes: TV Fechada",HBO 2 HD [Alter]
+http://45.235.0.78/HBO2-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="https://imgur.com/OzINH3M.png" group-title="Canais de Filmes: TV Fechada",HBO SIGNATURE HD
+http://45.235.0.78/HBOSIGNATURE-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="https://imgur.com/OzINH3M.png" group-title="Canais de Filmes: TV Fechada",HBO SIGNATURE HD [Alter]
+https://brflu.walk-tv.com/5861/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://imgur.com/2dINPFY.png" group-title="Canais de Filmes: TV Fechada",HBO Family HD
+https://brflu.walk-tv.com/5859/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://imgur.com/2dINPFY.png" group-title="Canais de Filmes: TV Fechada",HBO Family HD [Alter]
+http://45.235.0.78/HBOFAMILY-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Mkxd6PK.png" group-title="Canais de Filmes: TV Fechada",HBO Xtreme HD
+http://45.235.0.78/HBOXTREME-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal" tvg-logo="https://imgur.com/mMLZhgP.png" group-title="Canais de Filmes: TV Fechada",Studio Universal HD
+http://45.235.0.78/STUDIOUNIVERSAL-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal" tvg-logo="https://imgur.com/mMLZhgP.png" group-title="Canais de Filmes: TV Fechada",Studio Universal HD [Alter]
+http://t2tp.xyz:80/343963665/370954400/71383
+
+#EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal" tvg-logo="https://imgur.com/mMLZhgP.png" group-title="Canais de Filmes: TV Fechada",Studio Universal FHD
+https://brflu.walk-tv.com/5847/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VwFjFMO.png" group-title="Canais de Filmes: TV Fechada",Universal Channel HD
+http://45.235.0.78/UNIVERSALTV-HD/index.m3u8
+
+#EXTINF:-1 tvg-name="Disney Channel" tvg-logo="https://imgur.com/20h0JkN.png" group-title="Canais de Filmes: TV Fechada",Disney Channel HD
+http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/3
+
+#EXTINF:-1 tvg-name="Disney Channel" tvg-logo="https://imgur.com/20h0JkN.png" group-title="Canais de Filmes: TV Fechada",Disney Channel HD [Alter]
+https://brflu.walk-tv.com/5785/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Disney Channel" tvg-logo="https://imgur.com/20h0JkN.png" group-title="Canais de Filmes: TV Fechada",Disney Channel FHD
+http://45.235.0.78/DISNEY-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yrzQyEu.png" group-title="Canais de Filmes: TV Fechada",Cine Brasil HD
+https://cdn-3.nxplay.com.br/Cinebrasil/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://imgur.com/9lqxeLR.png" group-title="Canais de Filmes: TV Fechada",Dark Matter
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_darkmatter_002.m3u8
+
+#EXTINF:-1  tvg-logo="https://imgur.com/f35UF5q.png" group-title="Canais de Filmes: TV Fechada",MyTime Movies
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8?ManoTV
+
+#EXTINF:-1 tvg-logo="https://imgur.com/92rUCKL.png" group-title="Canais de Filmes: TV Fechada",MOVIE SPHERE
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8?ManoTV
+
+#EXTINF:-1 tvg-logo="https://imgur.com/CsC9aG5.png" group-title="Canais de Filmes: TV Fechada",SONY ONE EMOCOES
+https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SonyOneEmocoes/playlist.m3u8?ManoTV
+
+#EXTINF:-1 tvg-logo="https://imgur.com/9xo2bJt.png" group-title="Canais de Filmes: TV Fechada",Sony One Classics
+https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Rrc1oee.png" group-title="Canais de Filmes: TV Fechada",Bora Filmes
+http://cdn.connectbr.com.br/Bora_Filmes/tracks-v1a1/mono.m3u8?ManoTV
+
+#EXTINF:-1 tvg-logo="https://imgur.com/DxiQK7v.png" group-title="Canais de Filmes: TV Fechada",Entretendo
+http://cdn.connectbr.com.br/Entretendo/index.m3u8?ManoTV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N4W3VoB.png" group-title="Canais de Filmes: TV Fechada",EuropaPlay Nacional 
+https://cdn-3.nxplay.com.br/europaplay/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/x13Zoz1.png" group-title="Canais de Filmes: TV Fechada",Dark Flix
+https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8?ManoTV
+
+#EXTINF:-1 tvg-logo="https://imgur.com/IFcA4UO.png" group-title="Canais de Filmes: TV Fechada",TV NOVA PLAY
+https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8?ManoTV
+
+#EXTINF:-1  tvg-logo="https://imgur.com/u8XN65I.png" group-title="Canais de Filmes: TV Fechada",CHANNEL ONE 
+https://video02.logicahost.com.br/tvone/tvone/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/MoonTV_logo.png" group-title="Canais de Filmes: TV Fechada",Moon Plus TV
+https://stmv1.srvsite.com/moonplustv/moonplustv/chunklist.m3u8
+
+#EXTINF:-1  tvg-logo="https://imgur.com/vhQi658.png" group-title="Canais de Filmes: TV Fechada", Filmes e Séries 
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_filmrisefreeseries_001.m3u8
+
+#EXTINF:-1  tvg-logo="https://hdtvone.tv/wp-content/uploads/2018/09/cropped-HTO.tv-LOGO-HEADER-e1535917877621-1.png" group-title="Canais de Filmes: TV Fechada",HTO FILMES
+https://cdn-2.nxplay.com.br/HTO_Filmes/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/ab/AmorAmorsic.png" group-title="Canais de Filmes: TV Fechada",TV Amor 
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5573
+
+############################################################################ Canais de Filmes: Online
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rGJNeou.png" group-title="Canais de Filmes: Online",VIVAX TV
+https://stmv2.samcast.com.br/marcus8647/marcus8647/chunklist_w763666195.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rGJNeou.png" group-title="Canais de Filmes: Online",VIVAX TV HD
+https://stmv2.samcast.com.br/marcus8647/marcus8647/chunklist_w1253559912.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YSIvnhC.png" group-title="Canais de Filmes: Online",ISTV
+https://stmv1.srvstm.com/sistema7933/sistema7933/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YSIvnhC.png" group-title="Canais de Filmes: Online",ISTV HD
+https://stmv1.srvstm.com/sistema7933/sistema7933/chunklist_w2532494.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vJ6vsuB.png" group-title="Canais de Filmes: Online",TV CNB ORLANDO
+https://5cf4a2c2512a2.streamlock.net/tvcnb/tvcnb/chunklist_w130040152.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/qUiPZiw.png" group-title="Canais de Filmes: Online",Caravana Play
+https://srv4.zcast.com.br/keynni2406/keynni2406/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/qUiPZiw.png" group-title="Canais de Filmes: Online",Caravana Play HD
+https://srv4.zcast.com.br/keynni2406/keynni2406/chunklist_w1852027683.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xrbBNPa.png" group-title="Canais de Filmes: Online",TV ARACATI
+https://video04.logicahost.com.br/tvaracati/tvaracati/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xrbBNPa.png" group-title="Canais de Filmes: Online",TV ARACATI HD
+https://video04.logicahost.com.br/tvaracati/tvaracati/chunklist_w1829410932.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/TRhivEt.png" group-title="Canais de Filmes: Online",ADRENALINA FREE ZONE
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61b790b985706b00072cb797/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://imgur.com/TRhivEt.png" group-title="Canais de Filmes: Online",ADRENALINA FREE ZONE 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3459
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1799lT0.png" group-title="Canais de Filmes: Online",TV JAPI
+https://stmv1.paineltv.net/tvjapi/tvjapi/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1799lT0.png" group-title="Canais de Filmes: Online",TV JAPI HD
+https://stmv1.paineltv.net/tvjapi/tvjapi/chunklist_w1582800587.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yGBFPRH.png" group-title="Canais de Filmes: Online",REDE NGT
+https://isaocorp.cloudecast.com/ngt/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yGBFPRH.png" group-title="Canais de Filmes: Online",REDE NGT HD
+https://isaocorp.cloudecast.com/ngt/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O7Uv6KO.png" group-title="Canais de Filmes: Online",REDE CLOUDING TV
+https://stmv1.paineltv.net/redeclonetv/redeclonetv/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O7Uv6KO.png" group-title="Canais de Filmes: Online",REDE CLOUDING TV HD
+https://stmv1.paineltv.net/redeclonetv/redeclonetv/chunklist_w1552685294.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LBjesvH.png" group-title="Canais de Filmes: Online",EMOTION TV
+https://stmv1.srvif.com/emotion/emotion/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.playpoca.com.br/wp-content/uploads/2022/12/playpoca-preto.svg" group-title="Canais de Filmes: Online",PLAYPOCA FILMES
+http://168.205.87.198:8555/live/1427/123456/238.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.playpoca.com.br/wp-content/uploads/2022/12/playpoca-preto.svg" group-title="Canais de Filmes: Online",PLAYPOCA SERIES
+http://168.205.87.198:8555/live/1427/123456/239.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vxhZ51G.png" group-title="Canais de Filmes: Online",Tv Nostalgia
+https://stmv3.webtvninjas.com.br/lucas5554/lucas5554/chunklist_w1274172165.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Sony_One_HD.svg/revision/latest/scale-to-width-down/250?cb=20191222100603" group-title="Canais de Filmes: Online",SONY ONE CLASSICS
+https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RsEurCc.png" group-title="Canais de Filmes: Online",1980 CHANNEL
+https://stmv1.srvif.com/channel80s/channel80s/chunklist_w1721669609.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/RnXnExw.png" group-title="Canais de Filmes: Online",GRJNGO TV
+https://amogonetworx-grjngo-1-eu.plex.wurl.tv/2000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TxLOLtM.png" group-title="Canais de Filmes: Online",TV 100
+https://alanza.iptv2022.com/TV_100/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F8pj137.png" group-title="Canais de Filmes: Online",TV CHANNEL NETWORK
+https://serv2.videovox.pw/video28392/video28392/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0sg3ltF.png" group-title="Canais de Filmes: Online",MULTICANAIS TV
+https://stmv1.srvif.com/multicanais/multicanais/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HJPdCnR.png" group-title="Canais de Filmes: Online",MULTISERIES
+https://stmv1.srvif.com/tvseriem/tvseriem/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/YvJ3OPd.png" group-title="Canais de Filmes: Online",TV SERIES
+https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://scalebranding.com/wp-content/uploads/2022/02/H-Plus-Logo.jpg" group-title="Canais de Filmes: Online",H! Plus
+https://cdn-1.nxplay.com.br/PLAYOUT_02_HMAIS/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/x13Zoz1.png" group-title="Canais de Filmes: Online",Dark Flix
+https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8?ManoTV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wvFt1Nm.png" group-title="Canais de Filmes: Online",GRU WEB TV
+https://stmv7.samcast.com.br/rogerio1505/rogerio1505/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dgUt3bY.jpeg" group-title="Canais de Filmes: Online",NOVA TV BARREIROS
+https://srv5.zcast.com.br/rbr/rbr/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eMMOWOy.png" group-title="Canais de Filmes: Online",TV CIDADE
+https://video04.logicahost.com.br/tvcidade/tvcidade/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/AyBmKh5.png" group-title="Canais de Filmes: Online",NOVA RIO TV
+https://video04.logicahost.com.br/novariotv/novariotv/chunklist_w1321346524.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/AyBmKh5.png" group-title="Canais de Filmes: Online",NOVA RIO TV HD
+https://video04.logicahost.com.br/novariotv/novariotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OLK6HHB.png" group-title="Canais de Filmes: Online",TV QUE DEMAIS
+https://59f1cbe63db89.streamlock.net:1443/tvkidmais/_definst_/tvkidmais/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Gv9NXdM.png" group-title="Canais de Filmes: Online",Europa TV
+https://cdn-1.nxplay.com.br/europaplay/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sd1A7BE.png" group-title="Canais de Filmes: Online",HTO Filmes
+https://cdn-1.nxplay.com.br/HTO_Filmes/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/02WNS3i.png" group-title="Canais de Filmes: Online",Moviesphere
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ldW2qek.png" group-title="Canais de Filmes: Online",Spark TV
+https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sr15nxkp06uk9/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DF4HKuK.png" group-title="Canais de Filmes: Online",TV DIFUSÃO
+https://59f1cbe63db89.streamlock.net:1443/canalvirtual09/_definst_/canalvirtual09/chunklist_w989725338.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/REOvRlU.png" group-title="Canais de Filmes: Online",LIVRE TV
+https://video02.logicahost.com.br/livretv/livretv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/IFcA4UO.png" group-title="Canais de Filmes: Online",TV NOVA PLAY
+https://srv2.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w281723516.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qMe2Lao.png" group-title="Canais de Filmes: Online",GLN TV
+https://stmv1.paineltv.net/glnfilmes/glnfilmes/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qMe2Lao.png" group-title="Canais de Filmes: Online",GLN TV HD
+https://stmv1.paineltv.net/glnfilmes/glnfilmes/chunklist_w1132047774.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/jAxYS14.png" group-title="Canais de Filmes: Online",XTREME TV
+https://stmv1.srvif.com/xtremetv/xtremetv/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/jAxYS14.png" group-title="Canais de Filmes: Online",XTREME TV HD
+https://stmv1.srvif.com/xtremetv/xtremetv/chunklist_w979381450.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/jAxYS14.png" group-title="Canais de Filmes: Online",XTREME TV 2
+https://stmv1.srvif.com/xtremetv/xtremetv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XFp4O1Q.png" group-title="Canais de Filmes: Online",IMPERIAL TV
+https://acesso.ecast.site:3630/live/imperiallive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gMdXVMk.png" group-title="Canais de Filmes: Online",TV SONATA
+https://video01.kshost.com.br:4443/tiago2001/tiago2001/chunklist_w1826479523.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gMdXVMk.png" group-title="Canais de Filmes: Online",TV SONATA 2
+https://video01.kshost.com.br:4443/tiago2001/tiago2001/chunklist_w1005607971.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gMdXVMk.png" group-title="Canais de Filmes: Online",TV SONATA HD
+https://video01.kshost.com.br/tiago2001/tiago2001/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dP7up5r.png" group-title="Canais de Filmes: Online",TV MAIS BRASIL
+https://stmv1.paineltv.net/tvmaisbrasil/tvmaisbrasil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dP7up5r.png" group-title="Canais de Filmes: Online",TV MAIS BRASIL HD
+https://stmv1.paineltv.net/tvmaisbrasil/tvmaisbrasil/chunklist_w4340274.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/6MtSWg4.png" group-title="Canais de Filmes: Online",ULB TV
+https://stmv1.paineltv.net/ulbtv/ulbtv/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/6MtSWg4.png" group-title="Canais de Filmes: Online",ULB TV HD
+https://stmv1.paineltv.net/ulbtv/ulbtv/chunklist_w1213708231.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/FTXUY6K.png" group-title="Canais de Filmes: Online",LITORAL RN
+https://video01.logicahost.com.br/tvlitoralrn/tvlitoralrn/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/We2BRul.png" group-title="Canais de Filmes: Online",VILA TV
+https://streamserver.streamingdevideo.com.br/8072/8072/chunklist_w667005072.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/We2BRul.png" group-title="Canais de Filmes: Online",VILA TV HD
+https://streamserver.streamingdevideo.com.br/8072/8072/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/8Q4XPZD.png" group-title="Canais de Filmes: Online",NBT TV
+https://isaocorp.cloudecast.com/nbt/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/mvuZGvt.png" group-title="Canais de Filmes: Online",CLASSIQUE TV
+https://stmv1.srvif.com/classique/classique/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/mvuZGvt.png" group-title="Canais de Filmes: Online",CLASSIQUE TV 2
+https://stmv1.srvif.com/classique/classique/chunklist_w529168788.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e4fnRCi.png" group-title="Canais de Filmes: Online",TV CLUBE WEB
+https://5c483b9d1019c.streamlock.net/8186/8186/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e4fnRCi.png" group-title="Canais de Filmes: Online",TV CLUBE WEB HD
+https://5c483b9d1019c.streamlock.net/8186/8186/chunklist_w815335148.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/5Z8aHIc.png" group-title="Canais de Filmes: Online",TELA VIVA TV
+https://srv4.zcast.com.br/telavivatv/telavivatv/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/5Z8aHIc.png" group-title="Canais de Filmes: Online",TELA VIVA TV HD
+https://srv4.zcast.com.br/telavivatv/telavivatv/chunklist_w1306426689.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0QYXJwv.png" group-title="Canais de Filmes: Online",TV NBT
+https://isaocorp.cloudecast.com/nbt/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0QYXJwv.png" group-title="Canais de Filmes: Online",TV NBT HD
+https://isaocorp.cloudecast.com/nbt/tracks-v1/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3iFiLu4.png" group-title="Canais de Filmes: Online",KE TV
+https://stmv1.srvif.com/ketv/ketv/chunklist_w2115205312.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I07fYXK.png" group-title="Canais de Filmes: Online",CINE TV HITS
+https://stmv1.conectastreaming.com/hitstv/hitstv/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I07fYXK.png" group-title="Canais de Filmes: Online",CINE TV HITS HD
+https://stmv1.conectastreaming.com/hitstv/hitstv/chunklist_w1886103435.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GCTplnu.png" group-title="Canais de Filmes: Online",CHANNEL 1
+https://stmv1.srvif.com/movies1/movies1/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GCTplnu.png" group-title="Canais de Filmes: Online",CHANNEL 1 HD
+https://stmv1.srvif.com/movies1/movies1/chunklist_w494333408.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/8ZhoCGT.png" group-title="Canais de Filmes: Online",TV CEI
+https://stmv7.samcast.com.br/eduardo6272/eduardo6272/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/8ZhoCGT.png" group-title="Canais de Filmes: Online",TV CEI HD
+https://stmv7.samcast.com.br/eduardo6272/eduardo6272/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aDSWuz4.png" group-title="Canais de Filmes: Online",REDE UTV
+https://utvsite.acessaradios.com.br/utvsite/utvsite.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/azt2n1S.png" group-title="Canais de Filmes: Online",TV POTENGI
+https://stmv1.samcast.com.br/jeova3318/jeova3318/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/azt2n1S.png" group-title="Canais de Filmes: Online",TV POTENGI 2
+https://stmv1.samcast.com.br/jeova3318/jeova3318/chunklist_w1516808140.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/azt2n1S.png" group-title="Canais de Filmes: Online",TV POTENGI HD
+https://stmv1.samcast.com.br/jeova3318/jeova3318/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f85M5v9.png" group-title="Canais de Filmes: Online",TV WTJ MINAS
+https://video02.logicahost.com.br/wtjtvminas/wtjtvminas/chunklist_w1256109034.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f85M5v9.png" group-title="Canais de Filmes: Online",TV WTJ MINAS HD
+https://video02.logicahost.com.br/wtjtvminas/wtjtvminas/chunklist_w1795874724.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AhLcPu4.png" group-title="Canais de Filmes: Online",GRJNGO
+https://amogonetworx-grjngo-1-eu.plex.wurl.tv/2000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AhLcPu4.png" group-title="Canais de Filmes: Online",GRJNGO HD
+https://amogonetworx-grjngo-1-eu.plex.wurl.tv/4300.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AhLcPu4.png" group-title="Canais de Filmes: Online",GRJNGO Español
+https://amogonetworx-grjngo-2-eu.plex.wurl.tv/4300.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZaczTGq.png" group-title="Canais de Filmes: Online",REDE TV SUL
+https://5a0c3936c25c8.streamlock.net/8032/8032/chunklist_w220374178.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZaczTGq.png" group-title="Canais de Filmes: Online",REDE TV SUL HD
+https://5a0c3936c25c8.streamlock.net/8032/8032/chunklist_w318918876.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZaczTGq.png" group-title="Canais de Filmes: Online",REDE TV SUL FHD
+https://5a0c3936c25c8.streamlock.net/8032/8032/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cV2CgYK.png" group-title="Canais de Filmes: Online",WEB TV ÁGUA BOA
+https://5a2b083e9f360.streamlock.net/tvaguaboa2/tvaguaboa2.sdp/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cV2CgYK.png" group-title="Canais de Filmes: Online",WEB TV ÁGUA BOA HD
+https://5a2b083e9f360.streamlock.net/tvaguaboa2/tvaguaboa2.sdp/chunklist_w1358071770.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cV2CgYK.png" group-title="Canais de Filmes: Online",WEB TV ÁGUA BOA 2
+http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.ontvcampos.com/uploads/logo.png?24082023111225" group-title="Canais de Filmes: Online",ON TV CAMPOS
+https://tv.rbstream.com.br/josealberto9351/josealberto9351/chunklist_w402262550.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IBle31J.png" group-title="Canais de Filmes: Online",TV OSÓRIO NEWS
+https://stmv1.srvstm.com/demo2573/demo2573/chunklist_w820641838.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TOPQsMO.png" group-title="Canais de Filmes: Online",TV GRU WEB
+https://stmv7.samcast.com.br/rogerio1505/rogerio1505/chunklist_w1894910661.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TOPQsMO.png" group-title="Canais de Filmes: Online",TV GRU WEB HD
+https://stmv7.samcast.com.br/rogerio1505/rogerio1505/chunklist_w1392908283.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GB93GKB.png" group-title="Canais de Filmes: Online",TV TREMEMBE
+https://video05.logicahost.com.br/tvtremembe/tvtremembe/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VC6BYcz.png" group-title="Canais de Filmes: Online",TV TRIBUNA REGIONAL
+https://stmv7.samcast.com.br/fabiorogerio2745/fabiorogerio2745/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QqdFSOV.png" group-title="Canais de Filmes: Online",TV VIANEY
+https://5e837408ea907.streamlock.net:1936/paroquiavianney/paroquiavianney/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qvUcAhv.png" group-title="Canais de Filmes: Online",TELEWEB TV
+https://video01.kshost.com.br:4443/acessweb7837/acessweb7837/chunklist_w1015001392.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qvUcAhv.png" group-title="Canais de Filmes: Online",TELEWEB TV 2
+https://video01.kshost.com.br:4443/acessweb7837/acessweb7837/chunklist_w43901274.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GwgDwQm.png" group-title="Canais de Filmes: Online",TV DIVERSIDADE
+https://cdn.live.br1.jmvstream.com/w/AVJ-12928/playlist/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GwgDwQm.png" group-title="Canais de Filmes: Online",TV DIVERSIDADE HD
+https://stmv1.samcast.com.br/tvdiversidade/tvdiversidade/chunklist_w1038458315.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GwgDwQm.png" group-title="Canais de Filmes: Online",TV DIVERSIDADE FHD
+https://stmv1.samcast.com.br/tvdiversidade/tvdiversidade/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tQWmLlt.png" group-title="Canais de Filmes: Online",WEB TV PROGRESSO
+https://5a0c3936c25c8.streamlock.net/oprogressotvstation/oprogressotvstation/chunklist_w479490963.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tQWmLlt.png" group-title="Canais de Filmes: Online",WEB TV PROGRESSO HD
+https://5a0c3936c25c8.streamlock.net/oprogressotvstation/oprogressotvstation/chunklist_w1552757062.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tQWmLlt.png" group-title="Canais de Filmes: Online",WEB TV PROGRESSO 3
+https://5a0c3936c25c8.streamlock.net/oprogressotvstation/oprogressotvstation/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/nVFiftB.png" group-title="Canais de Filmes: Online",ABC BRASIL
+https://stmv2.srvsh.com.br/abcbrasil634/abcbrasil634/chunklist_w625841796.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E7gARdT.png" group-title="Canais de Filmes: Online",VIA MORENA
+https://video02.logicahost.com.br/viamorena/viamorena/chunklist_w1173747392.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E7gARdT.png" group-title="Canais de Filmes: Online",VIA MORENA HD
+https://5ad482a77183d.streamlock.net/cleuzaviamorena.com/cleuzaviamorena.com/chunklist_w1880100884.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/nA0cWeE.png" group-title="Canais de Filmes: Online",TV RBC
+https://60d88f8ce1206.streamlock.net/id2515/id2515/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/ipKpPCe.png" group-title="Canais de Filmes: Online",BLITS TV
+https://video03.logicahost.com.br/blitstv01/blitstv01/chunklist_w359950577.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/ipKpPCe.png" group-title="Canais de Filmes: Online",BLITS TV 2
+https://video03.logicahost.com.br/blitstv01/blitstv01/chunklist_w1739888619.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tnv08Si.png" group-title="Canais de Filmes: Online",TOP MIX TV FILMES
+https://video03.logicahost.com.br/filmestopmixtv/filmestopmixtv/chunklist_w404473488.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tnv08Si.png" group-title="Canais de Filmes: Online",TOP MIX TV FILMES HD
+https://video03.logicahost.com.br/filmestopmixtv/filmestopmixtv/chunklist_w164075002.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ppzFM4R.png" group-title="Canais de Filmes: Online",TV MEU XODO
+https://5d82644094cc0.streamlock.net/8192/8192/chunklist_w1419743383.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ppzFM4R.png" group-title="Canais de Filmes: Online",TV MEU XODO HD
+https://5d82644094cc0.streamlock.net/8192/8192/chunklist_w200245197.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ppzFM4R.png" group-title="Canais de Filmes: Online",TV MEU XODO HD 2
+https://5d82644094cc0.streamlock.net/8192/8192/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VJrDYC9.png" group-title="Canais de Filmes: Online",QTAL CHANNEL
+https://video03.logicahost.com.br/qtalchannel01/qtalchannel01/chunklist_w415470775.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VJrDYC9.png" group-title="Canais de Filmes: Online",QTAL CHANNEL HD
+https://video03.logicahost.com.br/qtalchannel01/qtalchannel01/chunklist_w2141346469.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zGFke7O.png" group-title="Canais de Filmes: Online",X PLUS TV
+https://srv4.zcast.com.br/telavivatv/telavivatv/chunklist_w595774469.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zGFke7O.png" group-title="Canais de Filmes: Online",X PLUS TV 2
+https://srv4.zcast.com.br/telavivatv/telavivatv/chunklist_w1236734345.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/kjL8Dvg.png" group-title="Canais de Filmes: Online",SEVEN TV
+https://video01.kshost.com.br:4443/aubrey3291/aubrey3291/chunklist_w1477462808.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/kjL8Dvg.png" group-title="Canais de Filmes: Online",SEVEN TV 2
+https://video01.kshost.com.br:4443/aubrey3291/aubrey3291/chunklist_w1875698986.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/kjL8Dvg.png" group-title="Canais de Filmes: Online",SEVEN TV HD
+https://video01.kshost.com.br/aubrey3291/aubrey3291/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eSgMk8b.png" group-title="Canais de Filmes: Online",TV J.SID
+https://video05.logicahost.com.br/tvjsid/tvjsid/chunklist_w1305331144.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eSgMk8b.png" group-title="Canais de Filmes: Online",TV J.SID 2
+https://video05.logicahost.com.br/tvjsid/tvjsid/chunklist_w1691463187.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QRPLA9v.png" group-title="Canais de Filmes: Online",REDE QDM
+https://video03.logicahost.com.br/tvkidmais01/tvkidmais01/chunklist_w1192453697.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QRPLA9v.png" group-title="Canais de Filmes: Online",REDE QDM HD
+https://video03.logicahost.com.br/tvkidmais01/tvkidmais01/chunklist_w1893098127.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lnwUa10.png" group-title="Canais de Filmes: Online",TV GALLO
+https://5c483b9d1019c.streamlock.net/8202/8202/chunklist_w870388233.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zszOmYu.png" group-title="Canais de Filmes: Online",Tv Vargem
+https://video01.kshost.com.br:4443/marilia2344/marilia2344/chunklist_w362411647.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5ND9rvD.png" group-title="Canais de Filmes: Online",REDE METRÓPOLE LITORAL
+https://acesso.ecast.site:3711/live/oscarlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/qSJBvct.png" group-title="Canais de Filmes: Online",MYTIME
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/qSJBvct.png" group-title="Canais de Filmes: Online",MY TIME HD
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0FELp8s.png" group-title="Canais de Filmes: Online",TV GOSPEL EXODUS DE SALVADOR
+https://stmv7.samcast.com.br/tvexodus/tvexodus/chunklist_w122439057.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/8AGnSGR.png" group-title="Canais de Filmes: Online",ENTRETENDO
+http://cdn.connectbr.com.br/Entretendo/index.m3u8?ManoTV
+
+#EXTINF:-1 tvg-logo="https://imgur.com/8AGnSGR.png" group-title="Canais de Filmes: Online",ENTRETENDO HD
+http://cdn.connectbr.com.br/Entretendo/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/x13Zoz1.png" group-title="Canais de Filmes: Online",Dark Flix
+https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8?ManoTV
+
+#EXTINF:-1 tvg-logo="https://imgur.com/xN3mhOC.png" group-title="Canais de Filmes: Online",BORA FILMES
+http://cdn.connectbr.com.br/Bora_Filmes/tracks-v1a1/mono.m3u8?ManoTV
+
+#EXTINF:-1 tvg-logo="https://imgur.com/xN3mhOC.png" group-title="Canais de Filmes: Online",BORA FILMES HD
+http://cdn.connectbr.com.br:80/Bora_Filmes/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x91U5TY.png" group-title="Canais de Filmes: Online",CinePIX
+https://stmv1.conectastreaming.com/hitstv/hitstv/chunklist_w1799143894.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4H7VPuN.png" group-title="Canais de Filmes: Online",LIFE SCTV
+https://video05.logicahost.com.br/lifesctv/lifesctv/chunklist_w1386838516.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4H7VPuN.png" group-title="Canais de Filmes: Online",LIFE SCTV HD
+https://video05.logicahost.com.br/lifesctv/lifesctv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jf3ezF0.png" group-title="Canais de Filmes: Online",TV A7
+https://srv3.zcast.com.br/wellington7720/wellington7720/chunklist_w1269001024.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LrTGoQn.png" group-title="Canais de Filmes: Online",TV CLASSICOS
+https://stmv1.srvif.com/canal29/canal29/chunklist_w1069820980.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FR8FJN6.png" group-title="Canais de Filmes: Online",TV SANTA
+https://br5093.streamingdevideo.com.br/tvtabela/tvtabela/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rEgnDaT.png" group-title="Canais de Filmes: Online",SAO RAIMUNDO TV
+https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1RDLvmH.png" group-title="Canais de Filmes: Online",TV OMINDARE
+https://video01.kshost.com.br/lourdes52007/lourdes52007/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/RJDTJ9u.png" group-title="Canais de Filmes: Online",TV RABELO
+https://cdn.jmvstream.com/w/AVJ-13010/playlist/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Klwjy9d.png" group-title="Canais de Filmes: Online",TV RIO MADEIRA
+https://stmv1.srvif.com/tvriomadeira/tvriomadeira/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gVei5En.png" group-title="Canais de Filmes: Online",TV SAN JONES
+https://video01.kshost.com.br:4443/marilia2344/marilia2344/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/q2P1I9m.png" group-title="Canais de Filmes: Online",TV REGIONAL PAULISTA
+https://stmv1.voxtvhd.com.br/4430/4430/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VpSJKEp.png" group-title="Canais de Filmes: Online",TV CUJUBIM
+https://video04.logicahost.com.br/valedojamari/valedojamari/playlist.m3u8
+
+############################################################################ Canais | STAR+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/97AqOvC.png" group-title="Canais Star+",STAR + HD
+http://cdn.topk.live:80/tarcisio/123456/141582
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/97AqOvC.png" group-title="Canais Star+",STAR + SD
+http://cdn.topk.live:80/tarcisio/123456/141583
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/97AqOvC.png" group-title="Canais Star+",STAR+ 2
+http://cdn.topk.live:80/tarcisio/123456/374709
+
+############################################################################ Canais | CINE SKY
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pLhZKJB.png" group-title="Canais Cine SKY",SKY PLAY 1
+http://cdn.topk.live:80/tarcisio/123456/404637
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pLhZKJB.png" group-title="Canais Cine SKY",SKY PLAY 2
+http://cdn.topk.live:80/tarcisio/123456/404636
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pLhZKJB.png" group-title="Canais Cine SKY",SKY PLAY 3
+http://cdn.topk.live:80/tarcisio/123456/404635
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pLhZKJB.png" group-title="Canais Cine SKY",SKY PLAY 4
+http://cdn.topk.live:80/tarcisio/123456/404634
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pLhZKJB.png" group-title="Canais Cine SKY",SKY PLAY 5
+http://cdn.topk.live:80/tarcisio/123456/404633
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pLhZKJB.png" group-title="Canais Cine SKY",SKY PLAY 6
+http://cdn.topk.live:80/tarcisio/123456/404632
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pLhZKJB.png" group-title="Canais Cine SKY",SKY PLAY 7
+http://cdn.topk.live:80/tarcisio/123456/404631
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pLhZKJB.png" group-title="Canais Cine SKY",SKY PLAY 8
+http://cdn.topk.live:80/tarcisio/123456/404630
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pLhZKJB.png" group-title="Canais Cine SKY",SKY PLAY 9
+http://cdn.topk.live:80/tarcisio/123456/404629
+
+############################################################################ Filmes de Animes
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5AXdfOT.jpeg" group-title="Filmes de Animes",Cowboy Bebop - O Filme
+https://www.googleapis.com/drive/v3/files/0B64bZFdxnOPtWkFNTjFQMTZ0eDQ?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3QJoXTu.jpeg" group-title="Filmes de Animes",Dragon Ball Z: O Homen mais forte do mundo - Filme 2
+https://www.googleapis.com/drive/v3/files/0B96h1qEB1rNydkFfNUFScktWUVU?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EgQHmWK.png" group-title="Filmes de Animes",Dragon Ball Z: A arvore do poder - Filme 3
+https://www.googleapis.com/drive/v3/files/0B96h1qEB1rNyeFNjUkFUX1Yzelk?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fshIjIc.png" group-title="Filmes de Animes",Dragon Ball Z: O retorno dos Androides - Filme 7
+https://www.googleapis.com/drive/v3/files/0B96h1qEB1rNyTUJvNEFaZkhJaEE?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rd7TE0j.jpeg" group-title="Filmes de Animes",Dragon Ball Z: O Retorno do Guerreiro Lendário - Filme 10
+https://www.googleapis.com/drive/v3/files/0B96h1qEB1rNyUWlDcEgwLUZUTFU?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/juFxmvh.jpeg" group-title="Filmes de Animes",Dragon Ball Z: O Combate Final - Filme 11
+https://www.googleapis.com/drive/v3/files/0B96h1qEB1rNyUGFkQ3ZXS0gwc2M?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rcGoQKP.jpeg" group-title="Filmes de Animes",Dragon Ball Z: Uma nova fusão Goku e Vegeta - Filme 12
+https://www.googleapis.com/drive/v3/files/0B96h1qEB1rNyQlIxd3Z1Z29OTGM?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qnYg6LA.jpeg" group-title="Filmes de Animes",Dragon Ball Z: O Ataque do Dragão - Filme 13
+https://www.googleapis.com/drive/v3/files/0B96h1qEB1rNyekNXMHFadG1IcDA?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JrfMmsh.jpeg" group-title="Filmes de Animes",Dragon Ball Z: A batalhas de Freeza Contra O Pai de Goku - Filme 15
+https://www.googleapis.com/drive/v3/files/0B96h1qEB1rNyVjc3cXlDMUxCZ1E?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IFqwDQT.jpeg" group-title="Filmes de Animes",Naruto Clássico: Filme 1 - Legendado
+https://www.googleapis.com/drive/v3/files/1-J4dmB8FjytWf-JdrMUQAdIw99oaH0cj?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9zMfYNh.jpeg" group-title="Filmes de Animes",Naruto Clássico: Filme 2 - Legendado
+https://www.googleapis.com/drive/v3/files/10jHg7kMVmn4FfYKN4ioHCndaBpyj0mYh?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9S4r2ft.png" group-title="Filmes de Animes",Naruto Clássico: Filme 3 - Legendado
+https://www.googleapis.com/drive/v3/files/1-QQ5S_dvIfmvqX76huhhcIi9tcbU-qdm?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cAqnMva.jpeg" group-title="Filmes de Animes",Naruto Shippuuden: Filme 1 - Legendado
+https://www.googleapis.com/drive/v3/files/1-_QHvOmu92wKS49rXlaxTx0IF56-_Vei?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KMJ3ttx.jpeg" group-title="Filmes de Animes",Naruto Shippuuden: Filme 2 - Legendado
+https://www.googleapis.com/drive/v3/files/1-cUWryltJSsKTZ50KIlxlRxtXrVfc7Wb?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sB9pX2N.jpeg" group-title="Filmes de Animes",Naruto Shippuuden: Filme 3 - Legendado
+https://www.googleapis.com/drive/v3/files/1-pRPxw9FRt9D_mx77YBqpcxoloTuKPFq?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RQuE6qn.jpeg" group-title="Filmes de Animes",Naruto Shippuuden: Filme 4 - Legendado
+https://www.googleapis.com/drive/v3/files/1-uRHmcdmCDFB_Ts2CWR4d6cv1lyR-PqS?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DqxNpll.jpeg" group-title="Filmes de Animes",Naruto Shippuuden: Filme 5 - Legendado
+https://www.googleapis.com/drive/v3/files/1-vwwytWGoFBni8z3NCaVC7kD_NNIcUMG?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MDI9nNb.jpeg" group-title="Filmes de Animes",Naruto Shippuuden: Filme 6 - Legendado
+https://www.googleapis.com/drive/v3/files/1-xhMmGUnGM1tHpEK8KSQnRyKiMHCAWWD?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4bS2bGs.jpeg" group-title="Filmes de Animes",Naruto Shippuuden: Filme 7 - Legendado
+https://www.googleapis.com/drive/v3/files/103bNvw9pCizEt1mNcZXVUOwFJXYX4Wwb?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ed1n7FBP6jUKxSguwQ89euSMGP.jpg" group-title="Filmes de Animes",One Piece Filme 01: O Grande Pirata do Ouro! (2000) - Legendado
+http://tv.com.vc:80/movie/nalva/123456/944067.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dCQSqo3eZGCvpViSrirfk6EU865.jpg" group-title="Filmes de Animes",One Piece Filme 02: Aventura na Ilha Nejimaki (2001) - Legendado
+http://tv.com.vc:80/movie/nalva/123456/944066.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oUMaaYH3Dr7B79XlrMsB8W1nxki.jpg" group-title="Filmes de Animes",One Piece Filme 03: O Reino de Chopper na Ilha dos Estranhos Animais! (2002) - Legendado
+http://tv.com.vc:80/movie/nalva/123456/944068.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hdxzlbMwNCxtxkVa7UiaNkId2TM.jpg" group-title="Filmes de Animes",One Piece Filme 04: Aventura Mortal! (2003) - Legendado
+http://tv.com.vc:80/movie/nalva/123456/944072.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h5gbvY5DFAxah8l0JalpmV2qLcM.jpg" group-title="Filmes de Animes",One Piece Filme 05: A Maldição da Espada Sagrada (2004) - Legendado
+http://tv.com.vc:80/movie/nalva/123456/944070.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dK7ZNywrl6ouuNGeLaTHNYel4iX.jpg" group-title="Filmes de Animes",One Piece Filme 06: Barão Omatsuri e a Ilha Secreta (2005) - Legendado
+http://tv.com.vc:80/movie/nalva/123456/944071.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8x92ekqR0bR9qBIJLpr7xX7yCBi.jpg" group-title="Filmes de Animes",One Piece Filme 07: Os Mechas do Castelo Karakuri! (2006) - Legendado
+http://tv.com.vc:80/movie/nalva/123456/944074.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dvW1MjHXWAhaU5PR6wW80zVSgs1.jpg" group-title="Filmes de Animes",One Piece 3D: A Perseguição do Chapéu de Palha (2011) - Legendado
+http://tv.com.vc:80/movie/nalva/123456/944076.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rlXwxRqZa0dMssgYLQeoNo4WiXg.jpg" group-title="Filmes de Animes",One Piece: Episódio de Skypiea (2018) - Legendado
+http://tv.com.vc:80/movie/nalva/123456/944075.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uDpoqBWcAAghFWmUOEnNQMok9FN.jpg" group-title="Filmes de Animes",Code Geass: Lelouch of the Rebellion - Rebellion (2018) - Legendado
+http://tv.com.vc:80/movie/nalva/123456/944077.mp4
+
+############################################################################ Filmes | Mazzaropi
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rOQDqsR4iJMGjwymWQCPRlhHQEz.jpg" group-title="Coleção de Filmes Mazzaropi",O Grande Xerife (1972)
+http://tv.com.vc:80/movie/nalva/123456/944080.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iNFXnXReuJWU7x1Wyqs2joDl6fc.jpg" group-title="Coleção de Filmes Mazzaropi",Jecão... Um Fofoqueiro no Céu (1977)
+http://tv.com.vc:80/movie/nalva/123456/944083.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j5EyMigXEtb9o9LAjeBOIYyHgb5.jpg" group-title="Coleção de Filmes Mazzaropi",A Banda das Velhas Virgens (1979)
+http://tv.com.vc:80/movie/nalva/123456/944104.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3zLb6aYiPDe5WPdxFdeB6pvLxET.jpg" group-title="Coleção de Filmes Mazzaropi",Jeca e Seu Filho Preto (1978)
+http://tv.com.vc:80/movie/nalva/123456/944107.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gpgvRnaGr3bTtRVbC3J5gBdd1n7.jpg" group-title="Coleção de Filmes Mazzaropi",O Jeca e a Égua Milagrosa (1980)
+http://tv.com.vc:80/movie/nalva/123456/942633.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w40eVyDa9C4U0F5QQSeDOqJ1SiC.jpg" group-title="Coleção de Filmes Mazzaropi",Jeca Contra o Capeta (1976)
+http://tv.com.vc:80/movie/nalva/123456/942630.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uEnAkonmjhqJb4VDoO2JJUgJB5H.jpg" group-title="Coleção de Filmes Mazzaropi",O Jeca Macumbeiro (1975)
+http://tv.com.vc:80/movie/nalva/123456/942605.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hvz6PW5TotlI1KrCPVX28fkosnf.jpg" group-title="Coleção de Filmes Mazzaropi",Portugal... Minha Saudade (1974)
+http://tv.com.vc:80/movie/nalva/123456/942606.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/326QolRfXjlOsdIarjAvnfHEiPH.jpg" group-title="Coleção de Filmes Mazzaropi",Um Caipira em Bariloche (1973)
+http://tv.com.vc:80/movie/nalva/123456/942627.mp4

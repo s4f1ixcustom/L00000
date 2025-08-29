@@ -1,0 +1,482 @@
+#EXTM3U
+
+############################################################################ Canais | Esportes
+
+#EXTINF:-1 tvg-id="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais de Esportes",SporTV HD
+http://45.235.0.78/SPORTV-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais de Esportes",SporTV HD*
+http://179.124.14.153:8080/19/mpegts
+
+#EXTINF:-1 tvg-id="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais de Esportes",SporTV FHD
+https://brflu.walk-tv.com/5932/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais de Esportes",SporTV FHD [Alter]
+http://cdnexpress.homelinux.net/live/23.m3u8
+
+#EXTINF:-1 tvg-id="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais de Esportes",SporTV HD [Alter]
+http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/31170
+
+#EXTINF:-1 tvg-id="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais de Esportes",SporTV 4K
+http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/183
+
+#EXTINF:-1 tvg-id="SporTV2" tvg-name="SporTV 2" tvg-logo="https://imgur.com/ZpjPkqS.png" group-title="Canais de Esportes",SporTV 2 HD
+https://brflu.walk-tv.com/5931/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="SporTV3" tvg-name="SporTV 3" tvg-logo="https://imgur.com/ttHpdGp.png" group-title="Canais de Esportes",SporTV 3 HD
+https://brflu.walk-tv.com/5930/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais de Esportes",ESPN SD
+https://cr7v.short.gy/manoiptvfree/ESPNSD/Index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais de Esportes",ESPN HD
+https://cr7v.short.gy/manoiptvfree/ESPN/Index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais de Esportes",ESPN HD-A
+https://brflu.walk-tv.com/5912/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais de Esportes",ESPN HD-B
+http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/31149
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais de Esportes",ESPN SD-A
+http://t2tp.xyz:80/343963665/370954400/71194
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais de Esportes",ESPN HD-C
+http://t2tp.xyz:80/343963665/370954400/71334
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais de Esportes",ESPN FHD-A
+http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/131
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais de Esportes",ESPN FHD-B
+http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/130
+
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="Canais de Esportes",ESPN 2 HD
+https://cdn-3.nxplay.com.br/ESPN_2/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="Canais de Esportes",ESPN 2 HD [Alter]
+https://brflu.walk-tv.com/5910/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://imgur.com/VCPTlBD.png" group-title="Canais de Esportes",ESPN 3 HD
+https://cdn-3.nxplay.com.br/ESPN_3/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://imgur.com/ErWFVO3.png" group-title="Canais de Esportes",ESPN 4 SD
+https://cdn-3.nxplay.com.br/ESPN_4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://imgur.com/ErWFVO3.png" group-title="Canais de Esportes",ESPN 4 HD
+https://cdn-3.nxplay.com.br/ESPN_4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zz2VFpL.png" group-title="Canais de Esportes",ESPN 5 HD
+http://xciptv.aplicativos.top:80/gabi4834/Bfh92928beb/118751
+
+#EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS" tvg-logo="https://imgur.com/HyeeIkG.png" group-title="Canais de Esportes",Band Sports
+https://brflu.walk-tv.com/5928/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS" tvg-logo="https://imgur.com/HyeeIkG.png" group-title="Canais de Esportes",Band Sports HD [Alter]
+https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/290/290.m3u8
+
+#EXTINF:-1 tvg-id="Combate HD" tvg-name="CombateHD" tvg-logo="https://imgur.com/HIiZUQN.png" group-title="Canais de Esportes",Combate HD
+http://148.113.160.49:14124/
+
+#EXTINF:-1 tvg-id="Combate HD" tvg-name="CombateHD" tvg-logo="https://imgur.com/HIiZUQN.png" group-title="Canais de Esportes",Combate HD [Alter]
+https://brflu.walk-tv.com/5865/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Combate HD" tvg-name="CombateHD" tvg-logo="https://imgur.com/HIiZUQN.png" group-title="Canais de Esportes",Combate FHD
+http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/AvV9rW9.png" group-title="Canais de Esportes",UFC Fightpass HD
+http://xciptv.aplicativos.top:80/gabi4834/Bfh92928beb/250107
+
+#EXTINF:-1 tvg-logo="https://imgur.com/AvV9rW9.png" group-title="Canais de Esportes",UFC Fightpass HD [Alter]
+http://t2tp.xyz:80/343963665/370954400/253998
+
+#EXTINF:-1 tvg-logo="https://imgur.com/AvV9rW9.png" group-title="Canais de Esportes",UFC Fightpass FHD
+http://t2tp.xyz:80/343963665/370954400/256226
+
+############################################################################ Canais | Notícias Esportivas
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gQGj3FY.png" group-title="Canais de Notícias Esportivas",ESPORTES BRASILIA
+https://a.cdni.live/radioesporte/radioesporte/chunklist_w1584452734.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gQGj3FY.png" group-title="Canais de Notícias Esportivas",ESPORTES BRASILIA HD
+https://a.cdni.live/radioesporte/radioesporte/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/orzjOsN.png" group-title="Canais de Notícias Esportivas",Canal do Inter
+https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/tbdL42j.png" group-title="Canais de Notícias Esportivas",PONTV
+https://video01.soultv.com.br/pontepreta/pontepreta/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7bxqTl7.png" group-title="Canais de Notícias Esportivas",FLA TV
+http://cdn.lvbxtv.com:80/8473997886/9939873590/1167342
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0bU83Ae.png" group-title="Canais de Notícias Esportivas",GE FAST
+https://dxmy6u2c9ad0l.cloudfront.net/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iOPJueQ.png" group-title="Canais de Notícias Esportivas",ALL SPORTS TV
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w1231339715.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SUGk2HD.png" group-title="Canais de Notícias Esportivas",National Sports Channel
+https://cdn-1.nxplay.com.br/PLAYOUT_02_NSC/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lcl9zr2.png" group-title="Canais de Notícias Esportivas",TV Show de Bola
+https://painel.sintonizar.tv.br:1936/tvsdbola/tvsdbola/chunklist_w917646276.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8lDZRmQ.png" group-title="Canais de Notícias Esportivas",RED BULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oEV9eRq.png" group-title="Canais de Notícias Esportivas",FITE
+https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_480/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NJd26gO.png" group-title="Canais de Notícias Esportivas",TOP SPORTS TV
+https://video05.logicahost.com.br/tvsports/tvsports/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xh3gwZy.png" group-title="Canais de Notícias Esportivas",COMBATV
+https://aym-cbtv.otteravision.com/aym/cbtv/cbtv_720p_high.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PH87f7g.png" group-title="Canais de Notícias Esportivas",VITRINE ESPORTIVA TV
+https://cdn.jmvstream.com/w/AVJ-12930/playlist/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yM3oZvh.png" group-title="Canais de Notícias Esportivas",POP BOLA
+https://video01.soultv.com.br/popbola/popbola/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FUEL TV" tvg-name="FUEL TV" tvg-logo="https://i.imgur.com/7MEWjjg.png" group-title="Canais de Notícias Esportivas",FUEL TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6144d088516ea8000739076a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ssxkJ3a.png" group-title="Canais de Notícias Esportivas",World Poker Tour
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63eba66da8b2270008436b10/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="Canais de Notícias Esportivas",CazeTV
+https://ythls.armelin.one/channel/UCZiYbVptd3PVPf4f6eR6UaQ.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="Canais de Notícias Esportivas",CazeTV 2
+https://cr7v.short.gy/ManoTV/CazeTV/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/djez16a.png" group-title="Canais de Notícias Esportivas",NBA tv CA
+http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/145094&amp;f=.ch
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/djez16a.png" group-title="Canais de Notícias Esportivas",NBA tv US
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/12722.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DFgLA5O.png" group-title="Canais de Notícias Esportivas",Real Madrid Tv
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nSfWCZw.png" group-title="Canais de Notícias Esportivas",TV DUBAI RACING
+http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/WABqd0v.png" group-title="Canais de Notícias Esportivas",RACING AMERICA
+https://racingamerica-lg.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/etZXdjC.png" group-title="Canais de Notícias Esportivas",SPORTS
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/56340779a738201b4ccfeac9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aj2GULd.png" group-title="Canais de Notícias Esportivas",RS NEWS WEB TV
+https://59f1cbe63db89.streamlock.net:1443/rsnewssports/_definst_/rsnewssports/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aj2GULd.png" group-title="Canais de Notícias Esportivas",RS NEWS WEB TV SPORTS
+https://video01.logicahost.com.br/rsnewswebtv/rsnewswebtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aj2GULd.png" group-title="Canais de Notícias Esportivas",RS NEWS WEB TV PPW
+https://59f1cbe63db89.streamlock.net:1443/rsnewsppw/_definst_/rsnewsppw/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aj2GULd.png" group-title="Canais de Notícias Esportivas",RS NEWS WEB TV 2
+https://59f1cbe63db89.streamlock.net:1443/rsnews/_definst_/rsnews/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aj2GULd.png" group-title="Canais de Notícias Esportivas",RS NEWS WEB TV 3
+https://59f1cbe63db89.streamlock.net:1443/rsnews03/_definst_/rsnews03/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aj2GULd.png" group-title="Canais de Notícias Esportivas",RS NEWS WEB TV 4
+https://59f1cbe63db89.streamlock.net:1443/rsnews04/_definst_/rsnews04/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aj2GULd.png" group-title="Canais de Notícias Esportivas",RS NEWS WEB TV 5
+https://59f1cbe63db89.streamlock.net:1443/danielteste/_definst_/danielteste/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/venDYu7.png" group-title="Canais de Notícias Esportivas",ORIGIN SPORTS
+https://raycomsports-originsports-lg.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/8WGwg4c.png" group-title="Canais de Notícias Esportivas",MOTORVISION
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-motorvision-samsungbr/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/my1airc.png" group-title="Canais de Notícias Esportivas",HKF CHAMPION
+https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/WIfhqwf.png" group-title="Canais de Notícias Esportivas",DEPORTES
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VhU32Jw.png" group-title="Canais de Notícias Esportivas",COMBATE GLOBAL
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
+
+############################################################################ Canais | Futebol Ao Vivo
+
+#EXTINF:-1 tvg-logo="https://imgur.com/KlMpCWS.png" group-title="Canais de Futebol Ao Vivo",Canal GOAT YT
+https://ythls.armelin.one/channel/UC_oToDrJ6uca7d1dFVBmLtg.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/KlMpCWS.png" group-title="Canais de Futebol Ao Vivo",Canal GOAT
+https://ythls.armelin.one/channel/UC_oToDrJ6uca7d1dFVBmLtg.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/KlMpCWS.png" group-title="Canais de Futebol Ao Vivo",Canal GOAT 2
+https://cr7v.short.gy/live/CanalGOAT/Index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/KlMpCWS.png" group-title="Canais de Futebol Ao Vivo",Canal GOAT 3
+https://cr7v.short.gy/manotv/GOAT/Index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AKOfYxB.png" group-title="Canais de Futebol Ao Vivo",NOSSO FUTEBOL 01
+http://cdn.lvbxtv.com:80/8473997886/9939873590/1157695
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AKOfYxB.png" group-title="Canais de Futebol Ao Vivo",NOSSO FUTEBOL 02
+http://cdn.lvbxtv.com:80/8473997886/9939873590/1157694
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AKOfYxB.png" group-title="Canais de Futebol Ao Vivo",NOSSO FUTEBOL 03
+http://cdn.lvbxtv.com:80/8473997886/9939873590/1157693
+
+#EXTINF:-1 tvg-logo="https://imgur.com/IsSmFNJ.png" group-title="Canais de Futebol Ao Vivo",PFL MMA
+https://r.mjh.nz/PlutoTV/64f6180130ab3300083d896b-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/UTSMpfP.png" group-title="Canais de Futebol Ao Vivo",LUCHA LIBRE
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f99a772c54853000797bf18/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="Canais de Futebol Ao Vivo",CazéTV YT
+https://ythls.armelin.one/channel/UCZiYbVptd3PVPf4f6eR6UaQ.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/io8ktJf.png" group-title="Canais de Futebol Ao Vivo",JOGO 1
+https://bal01.vivartec.com.br:8088/hls/livechannel1.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/io8ktJf.png" group-title="Canais de Futebol Ao Vivo",JOGO 2
+https://bal01.vivartec.com.br:8088/hls/livechannel2.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/io8ktJf.png" group-title="Canais de Futebol Ao Vivo",JOGO 3
+https://bal01.vivartec.com.br:8088/hls/livechannel3.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/io8ktJf.png" group-title="Canais de Futebol Ao Vivo",JOGO 4
+https://bal01.vivartec.com.br:8088/hls/livechannel4.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/io8ktJf.png" group-title="Canais de Futebol Ao Vivo",JOGO 5
+https://bal01.vivartec.com.br:8088/hls/livechannel5.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/io8ktJf.png" group-title="Canais de Futebol Ao Vivo",JOGO 6
+https://cr7v.short.gy/JOGO/testechamaWhats75991634025.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/io8ktJf.png" group-title="Canais de Futebol Ao Vivo",JOGO 7
+https://cr7v.short.gy/JOGO2/testechamaWhats75991634025.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/io8ktJf.png" group-title="Canais de Futebol Ao Vivo",JOGO 8
+https://cr7v.short.gy/JOGO3/testechamaWhats75991634025.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/io8ktJf.png" group-title="Canais de Futebol Ao Vivo",JOGO 9
+https://cr7v.short.gy/JOGO4/testechamaWhats75991634025.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/io8ktJf.png" group-title="Canais de Futebol Ao Vivo",JOGO 10
+https://cr7v.short.gy/JOGO5/testechamaWhats75991634025.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/io8ktJf.png" group-title="Canais de Futebol Ao Vivo",JOGO 11
+https://cr7v.short.gy/JOGO6/testechamaWhats75991634025.m3u8
+
+############################################################################ Canais | Premiere
+
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-logo="https://imgur.com/T6VmjYB.png" group-title="Canais Premiere",Premiere Clubes HD
+https://brflu.walk-tv.com/5922/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-logo="https://imgur.com/T6VmjYB.png" group-title="Canais Premiere",Premiere Clubes HD [Alter]
+https://cr7v.short.gy/manoiptvfree/PFCCLUBEHD/Index.m3u8
+
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-logo="https://imgur.com/T6VmjYB.png" group-title="Canais Premiere",Premiere Clubes HD*
+http://45.235.0.78/PREMIERECLUBES-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="Premiere Clubes HD" tvg-logo="https://imgur.com/T6VmjYB.png" group-title="Canais Premiere",Premiere Clubes
+https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_2000/index.m3u8
+
+#EXTINF:-1 tvg-id="Premiere Clubes HD" tvg-logo="https://imgur.com/T6VmjYB.png" group-title="Canais Premiere",Premiere Clubes FHD
+http://15.235.15.230:14020/
+
+#EXTINF:-1 tvg-id="Premiere Clubes HD" tvg-logo="https://imgur.com/T6VmjYB.png" group-title="Canais Premiere",Premiere Clubes 4K
+https://cr7v.short.gy/manoiptvfree/PremiereClube/Index.m3u8
+
+#EXTINF:-1 tvg-id="PREMIERE 2 HD" tvg-logo="https://imgur.com/Sa86nNV.png" group-title="Canais Premiere",Premiere 2 HD
+https://brflu.walk-tv.com/5921/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="PREMIERE 2 HD" tvg-logo="https://imgur.com/Sa86nNV.png" group-title="Canais Premiere",Premiere 2 HD [Alter]
+http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/150
+
+#EXTINF:-1 tvg-id="PREMIERE 3 HD" tvg-logo="https://imgur.com/vdKC1eu.png" group-title="Canais Premiere",Premiere 3 HD
+http://185.150.190.225:16468/
+
+#EXTINF:-1 tvg-id="PREMIERE 3 HD" tvg-logo="https://imgur.com/vdKC1eu.png" group-title="Canais Premiere",Premiere 3 HD [Alter]
+https://brflu.walk-tv.com/5920/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="PREMIERE 4" tvg-logo="https://imgur.com/n5KKEiL.png" group-title="Canais Premiere",Premiere 4 HD
+https://brflu.walk-tv.com/5918/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="PREMIERE 4" tvg-logo="https://imgur.com/n5KKEiL.png" group-title="Canais Premiere",Premiere 4 HD [Alter]
+http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/154
+
+#EXTINF:-1 tvg-id="PREMIERE 5 HD" tvg-logo="https://imgur.com/qVVCNKG.png" group-title="Canais Premiere",Premiere 5 HD
+https://brflu.walk-tv.com/5916/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="PREMIERE 5 HD" tvg-logo="https://imgur.com/qVVCNKG.png" group-title="Canais Premiere",Premiere 5 HD [Alter]
+http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/156
+
+#EXTINF:-1 tvg-id="PREMIERE 6" tvg-logo="https://imgur.com/4CAJWni.png" group-title="Canais Premiere",Premiere 6 HD
+https://brflu.walk-tv.com/5915/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="PREMIERE 6" tvg-logo="https://imgur.com/4CAJWni.png" group-title="Canais Premiere",Premiere 6 HD [Alter]
+http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/158
+
+#EXTINF:-1 tvg-id="PREMIERE 7" tvg-logo="https://imgur.com/XqTjkAw.png" group-title="Canais Premiere",Premiere 7 HD
+https://brflu.walk-tv.com/5914/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="PREMIERE 7" tvg-logo="https://imgur.com/XqTjkAw.png" group-title="Canais Premiere",Premiere 7 HD [Alter]
+http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/160
+
+############################################################################ Canais | Luta Internacional
+
+#EXTINF:-1 tvg-id="5d815e489b315b154db2e053" tvg-logo="http://images.pluto.tv/channels/5d815e489b315b154db2e053/colorLogoPNG.png" group-title="Canais de Luta Internacional",American Gladiators | EUA
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d815e489b315b154db2e053/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="62792f34f3aa05000728841e" tvg-logo="http://images.pluto.tv/channels/62792f34f3aa05000728841e/colorLogoPNG.png" group-title="Canais de Luta Internacional",Bellator MMA | Pluto TV Alemanha
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62792f34f3aa05000728841e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="5ebc8688f3697d00072f7cf8" tvg-logo="http://images.pluto.tv/channels/5ebc8688f3697d00072f7cf8/colorLogoPNG.png" group-title="Canais de Luta Internacional",Bellator MMA | Pluto TV EUA
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-611c3ac2409e4d002c85a6df" tvg-logo="https://i.imgur.com/J5sEZhQ.png" group-title="Canais de Luta Internacional",Black Belt
+https://ov.ottera.tv/live/master.m3u8?channel=jun_bb
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-611c3ac2409e4d002c85a6df" tvg-logo="https://i.imgur.com/J5sEZhQ.png" group-title="Canais de Luta Internacional",Black Belt 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=903
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-611c3ac2409e4d002c85a6df" tvg-logo="https://i.imgur.com/J5sEZhQ.png" group-title="Canais de Luta Internacional",Black Belt 3
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=806
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-611c3ac2409e4d002c85a6df" tvg-logo="https://i.imgur.com/J5sEZhQ.png" group-title="Canais de Luta Internacional",Black Belt 4
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1670
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-611c3ac2409e4d002c85a6df" tvg-logo="https://i.imgur.com/J5sEZhQ.png" group-title="Canais de Luta Internacional",Black Belt 5
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1760
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-611c3ac2409e4d002c85a6df" tvg-logo="https://i.imgur.com/J5sEZhQ.png" group-title="Canais de Luta Internacional",Black Belt 6
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1782
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-611c3ac2409e4d002c85a6df" tvg-logo="https://i.imgur.com/J5sEZhQ.png" group-title="Canais de Luta Internacional",Black Belt 7
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=749
+#EXTINF:-1 tvg-id="5fac425f949b4600079938f3" tvg-logo="http://images.pluto.tv/channels/5fac425f949b4600079938f3/colorLogoPNG.png" group-title="Canais de Luta Internacional",Boxing | Pluto TV EUA
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fac425f949b4600079938f3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f0ff265d71dcb00449ec02a" tvg-logo="https://i.imgur.com/w3RulQE.png" group-title="Canais de Luta Internacional",Channel Fight
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=68
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f0ff265d71dcb00449ec02a" tvg-logo="https://i.imgur.com/w3RulQE.png" group-title="Canais de Luta Internacional",Channel Fight 2
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=113
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f0ff265d71dcb00449ec02a" tvg-logo="https://i.imgur.com/w3RulQE.png" group-title="Canais de Luta Internacional",Channel Fight 3
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=114
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f0ff265d71dcb00449ec02a" tvg-logo="https://i.imgur.com/w3RulQE.png" group-title="Canais de Luta Internacional",Channel Fight 4
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=168
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f0ff265d71dcb00449ec02a" tvg-logo="https://i.imgur.com/w3RulQE.png" group-title="Canais de Luta Internacional",Channel Fight 5
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1786
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f0ff265d71dcb00449ec02a" tvg-logo="https://i.imgur.com/w3RulQE.png" group-title="Canais de Luta Internacional",Channel Fight 6
+https://ov.ottera.tv/live/master.m3u8?channel=chan_cf
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60affff8623f2f002c5bb4a1" tvg-logo="https://i.imgur.com/ACqqp2S.png" group-title="Canais de Luta Internacional",Combat Go | EUA 
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=671
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60affff8623f2f002c5bb4a1" tvg-logo="https://i.imgur.com/ACqqp2S.png" group-title="Canais de Luta Internacional",Combat Go | EUA 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=717
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60affff8623f2f002c5bb4a1" tvg-logo="https://i.imgur.com/ACqqp2S.png" group-title="Canais de Luta Internacional",Combat Go | EUA 3
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=721
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60affff8623f2f002c5bb4a1" tvg-logo="https://i.imgur.com/ACqqp2S.png" group-title="Canais de Luta Internacional",Combat Go | EUA 4
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=724
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60affff8623f2f002c5bb4a1" tvg-logo="https://i.imgur.com/ACqqp2S.png" group-title="Canais de Luta Internacional",Combat Go | EUA 5
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1761
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60affff8623f2f002c5bb4a1" tvg-logo="https://i.imgur.com/ACqqp2S.png" group-title="Canais de Luta Internacional",Combat Go | EUA 6
+https://ov.ottera.tv/live/master.m3u8?channel=jun_cg
+#EXTINF:-1 tvg-id="5bb1ac3e268cae539bcedb07" tvg-logo="http://images.pluto.tv/channels/5bb1ac3e268cae539bcedb07/colorLogoPNG.png" group-title="Canais de Luta Internacional",Combate World | EUA
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5bb1ac3e268cae539bcedb07/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="5812b0f2237a6ff45d16c3f9" tvg-logo="http://images.pluto.tv/channels/5812b0f2237a6ff45d16c3f9/colorLogoPNG.png" group-title="Canais de Luta Internacional",Fight | Pluto TV EUA
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EHWFgjc.png" group-title="Canais de Luta Internacional",Extreme World Wrestling | fuso 1
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1371
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EHWFgjc.png" group-title="Canais de Luta Internacional",Extreme World Wrestling | fuso 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1372
+#EXTINF:-1 tvg-id="5ad8d659fd87eb3a2717afc9" tvg-logo="https://images.pluto.tv/channels/5ad8d659fd87eb3a2717afc9/colorLogoPNG.png" group-title="Canais de Luta Internacional",Fight | Pluto TV Reino Unido
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad8d659fd87eb3a2717afc9/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-606605549dbfca002d2ae877" tvg-logo="https://i.imgur.com/uPrDjp0.png" group-title="Canais de Luta Internacional",Fight Network | EUA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=566
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-606605549dbfca002d2ae877" tvg-logo="https://i.imgur.com/uPrDjp0.png" group-title="Canais de Luta Internacional",Fight Network | EUA 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=778
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-606605549dbfca002d2ae877" tvg-logo="https://i.imgur.com/uPrDjp0.png" group-title="Canais de Luta Internacional",Fight Network | EUA 3
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=683
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-606605549dbfca002d2ae877" tvg-logo="https://i.imgur.com/uPrDjp0.png" group-title="Canais de Luta Internacional",Fight Network | EUA 4
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=965
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-606605549dbfca002d2ae877" tvg-logo="https://i.imgur.com/uPrDjp0.png" group-title="Canais de Luta Internacional",Fight Network | EUA 5
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=781
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-606605549dbfca002d2ae877" tvg-logo="https://i.imgur.com/uPrDjp0.png" group-title="Canais de Luta Internacional",Fight Network | EUA 6
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=831
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-606605549dbfca002d2ae877" tvg-logo="https://i.imgur.com/uPrDjp0.png" group-title="Canais de Luta Internacional",Fight Network | EUA 7
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=857
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-606605549dbfca002d2ae877" tvg-logo="https://i.imgur.com/uPrDjp0.png" group-title="Canais de Luta Internacional",Fight Network | EUA 8
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=921
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-606605549dbfca002d2ae877" tvg-logo="https://i.imgur.com/uPrDjp0.png" group-title="Canais de Luta Internacional",Fight Network | EUA 9
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=966
+#EXTINF:-1 tvg-logo="https://i.imgur.com/12rAqeP.png" group-title="Canais de Luta Internacional",FITE
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2522
+#EXTINF:-1 tvg-logo="https://i.imgur.com/12rAqeP.png" group-title="Canais de Luta Internacional",FITE 2
+https://cdn-akamai.fite.tv/4038629_fite-247_abr/live/4038629_fite-247/live_722/chunks_dvr.m3u8?embed_site=fite
+#EXTINF:-1 tvg-id="5417a212ff9fba68282fbf5e" tvg-logo="http://images.pluto.tv/channels/5417a212ff9fba68282fbf5e/colorLogoPNG.png" group-title="Canais de Luta Internacional",Glory Kickboxing | Canadá 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="5ad8d6f5e738977e2c310949" tvg-logo="https://images.pluto.tv/channels/5ad8d6f5e738977e2c310949/colorLogoPNG.png" group-title="Canais de Luta Internacional",Glory Kickboxing | Reino Unido
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad8d6f5e738977e2c310949/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FFq34mg.png" group-title="Canais de Luta Internacional",Grappling Network
+https://d15g7z5n3epv7t.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/TheGrapplingNetwork-SportsTribal/236.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FFq34mg.png" group-title="Canais de Luta Internacional",Grappling Network | Local Now
+https://thegrapplingnetwork-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_62587d025d06634715394672_thegrapplingnetwork-live-1/236.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5fd115bdb7ef8d002dcf1820" tvg-logo="https://i.imgur.com/xxRq9Z3.png" group-title="Canais de Luta Internacional",Hard Knocks
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1352
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aTsxkgs.png" group-title="Canais de Luta Internacional",Impact Plus | EUA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=776
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aTsxkgs.png" group-title="Canais de Luta Internacional",Impact Plus | EUA 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=829
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aTsxkgs.png" group-title="Canais de Luta Internacional",Impact Plus | EUA 3
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=964
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aTsxkgs.png" group-title="Canais de Luta Internacional",Impact Plus | EUA 4
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=779
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y4kDz7H.png" group-title="Canais de Luta Internacional",Impact Rebellion | EUA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1770
+#EXTINF:-1 tvg-id="59b722526996084038c01e1b" tvg-logo="http://images.pluto.tv/channels/59b722526996084038c01e1b/colorLogoPNG.png" group-title="Canais de Luta Internacional",Impact Wrestling | EUA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=509
+#EXTINF:-1 tvg-id="59b722526996084038c01e1b" tvg-logo="http://images.pluto.tv/channels/59b722526996084038c01e1b/colorLogoPNG.png" group-title="Canais de Luta Internacional",Impact Wrestling | EUA 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=679
+#EXTINF:-1 tvg-id="59b722526996084038c01e1b" tvg-logo="http://images.pluto.tv/channels/59b722526996084038c01e1b/colorLogoPNG.png" group-title="Canais de Luta Internacional",Impact Wrestling | EUA 3
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=828
+#EXTINF:-1 tvg-id="59b722526996084038c01e1b" tvg-logo="http://images.pluto.tv/channels/59b722526996084038c01e1b/colorLogoPNG.png" group-title="Canais de Luta Internacional",Impact Wrestling | Pluto TV EUA
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/59b722526996084038c01e1b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="DistroTV_MMA Junkie" tvg-logo="https://i.imgur.com/AKZVQCV.png" group-title="Canais de Luta Internacional",MMA Junkie
+https://dai.google.com/linear/hls/event/Ojv7wZDbT4G7utyqbdcXUA/master.m3u8
+#EXTINF:-1 tvg-id="DistroTV_MMA Junkie" tvg-logo="https://i.imgur.com/AKZVQCV.png" group-title="Canais de Luta Internacional",MMA Junkie
+https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/c.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60ecb878ebef9d002c4d0a11" tvg-logo="https://i.imgur.com/1bLycsn.png" group-title="Canais de Luta Internacional",MMA TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=802
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60ecb878ebef9d002c4d0a11" tvg-logo="https://i.imgur.com/1bLycsn.png" group-title="Canais de Luta Internacional",MMA TV | Rakuten
+https://alchimie-mmatv-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-alchimie-mmatv-rakuten/CDN/master.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60ecb878ebef9d002c4d0a11" tvg-logo="https://i.imgur.com/1bLycsn.png" group-title="Canais de Luta Internacional",MMA TV | link 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=803
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60ecb878ebef9d002c4d0a11" tvg-logo="https://i.imgur.com/1bLycsn.png" group-title="Canais de Luta Internacional",MMA TV | link 3
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=804
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60ecb878ebef9d002c4d0a11" tvg-logo="https://i.imgur.com/1bLycsn.png" group-title="Canais de Luta Internacional",MMA TV | link 4
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1308
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60ecb878ebef9d002c4d0a11" tvg-logo="https://i.imgur.com/1bLycsn.png" group-title="Canais de Luta Internacional",MMA TV | link 5
+https://ov.ottera.tv/live/master.m3u8?channel=mma_mm
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60ecb878ebef9d002c4d0a11" tvg-logo="https://i.imgur.com/1bLycsn.png" group-title="Canais de Luta Internacional",MMA TV | link 6
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=819
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60ecb878ebef9d002c4d0a11" tvg-logo="https://i.imgur.com/1bLycsn.png" group-title="Canais de Luta Internacional",MMA TV | link 7
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1330
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60ecb878ebef9d002c4d0a11" tvg-logo="https://i.imgur.com/1bLycsn.png" group-title="Canais de Luta Internacional",MMA TV | link 8
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1684
+#EXTINF:-1 tvg-id="5fac431fc1ffbc0007e6b6a7" tvg-logo="http://images.pluto.tv/channels/5fac431fc1ffbc0007e6b6a7/colorLogoPNG.png" group-title="Canais de Luta Internacional",Pro Wrestling | EUA
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fac431fc1ffbc0007e6b6a7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DRKYAV3.png" group-title="Canais de Luta Internacional",PWTV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2529
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DRKYAV3.png" group-title="Canais de Luta Internacional",PWTV 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2540
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DRKYAV3.png" group-title="Canais de Luta Internacional",PWTV 3
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2527
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DRKYAV3.png" group-title="Canais de Luta Internacional",PWTV 4
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2528
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DRKYAV3.png" group-title="Canais de Luta Internacional",PWTV 5
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=997
+#EXTINF:-1 tvg-id="603fde9026ecbf0007752c2c" tvg-logo="http://images.pluto.tv/channels/603fde9026ecbf0007752c2c/colorLogoPNG.png" group-title="Canais de Luta Internacional",Vs. | Pluto TV EUA
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/603fde9026ecbf0007752c2c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3JC3DOb.png" group-title="Canais de Luta Internacional",XFC TV | Distro TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2351
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3JC3DOb.png" group-title="Canais de Luta Internacional",XFC TV | Distro TV | link 2
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1986
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3JC3DOb.png" group-title="Canais de Luta Internacional",XFC TV | Galxy TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1985
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3JC3DOb.png" group-title="Canais de Luta Internacional",XFC TV | Galxy TV 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2588
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3JC3DOb.png" group-title="Canais de Luta Internacional",XFC TV | Galxy TV 3
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2599
