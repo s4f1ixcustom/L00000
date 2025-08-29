@@ -1,24 +1,24 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-name="thelastofus" tvg-logo="http://premium-users.sandrostoreps3.workers.dev/movie/posters/SERIES/historias.maravilhosas.jpg" , Historias Maravilhosas
-http://premium-users.sandrostoreps3.workers.dev/series/HISTORIAS.MARAVILHOSAS.m3u
+http://premium-users.sandrostoreps3.workers.dev/series_menu/HISTORIAS.MARAVILHOSAS.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Smallville" tvg-logo="http://premium-users.sandrostoreps3.workers.dev/movie/posters/SERIES/Smallville.png" , Smallville
-http://premium-users.sandrostoreps3.workers.dev/series/SMALLVILLE.m3u
+http://premium-users.sandrostoreps3.workers.dev/series_menu/SMALLVILLE.m3u
 #EXTINF:-1 tvg-id="" tvg-name="oMundoPerdido" tvg-logo="http://premium-users.sandrostoreps3.workers.dev/movie/posters/SERIES/oMundoPerdido.png" , O Mundo Perdido
-http://premium-users.sandrostoreps3.workers.dev/series/O.MUNDO.PERDIDO.m3u
+http://premium-users.sandrostoreps3.workers.dev/series_menu/O.MUNDO.PERDIDO.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Hercules" tvg-logo="http://premium-users.sandrostoreps3.workers.dev/movie/posters/SERIES/Hercules.png" , Hercules
-http://premium-users.sandrostoreps3.workers.dev/series/HERCULES.m3u
+http://premium-users.sandrostoreps3.workers.dev/series_menu/HERCULES.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Euphoria" tvg-logo="http://premium-users.sandrostoreps3.workers.dev/movie/posters/SERIES/Euphoria.png" , Euphoria
-http://premium-users.sandrostoreps3.workers.dev/series/EUPHORIA.m3u
+http://premium-users.sandrostoreps3.workers.dev/series_menu/EUPHORIA.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Dois Homens e Meio" tvg-logo="http://premium-users.sandrostoreps3.workers.dev/movie/posters/SERIES/Dois%20Homens%20e%20Meio.png" , Dois Homens e Meio
-http://premium-users.sandrostoreps3.workers.dev/series/DOIS.HOMENS.E.MEIO.m3u
+http://premium-users.sandrostoreps3.workers.dev/series_menu/DOIS.HOMENS.E.MEIO.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Chuck" tvg-logo="http://premium-users.sandrostoreps3.workers.dev/movie/posters/SERIES/Chuck.png" , Chuck
-http://premium-users.sandrostoreps3.workers.dev/series/CHUCK.m3u
+http://premium-users.sandrostoreps3.workers.dev/series_menu/CHUCK.m3u
 #EXTINF:-1 tvg-id="" tvg-name="1contra-todos" tvg-logo="http://premium-users.sandrostoreps3.workers.dev/movie/posters/SERIES/DRAKE.E.JOSH.jpg" , Drake e Josh
-http://premium-users.sandrostoreps3.workers.dev/series/DRAKE.E.JOSH.m3u
+http://premium-users.sandrostoreps3.workers.dev/series_menu/DRAKE.E.JOSH.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Xena a Princesa Guerreira" tvg-logo="http://premium-users.sandrostoreps3.workers.dev/movie/posters/SERIES/xena.png" , Xena a Princesa Guerreira
-http://premium-users.sandrostoreps3.workers.dev/series/XENA.m3u
+http://premium-users.sandrostoreps3.workers.dev/series_menu/XENA.m3u
 #EXTINF:-1 tvg-id="" tvg-name="PowerRangers" tvg-logo="http://premium-users.sandrostoreps3.workers.dev/movie/posters/SERIES/PowerRangers.png" , Morphing Power Rangers
-http://premium-users.sandrostoreps3.workers.dev/series/POWER.RANGERS.m3u
+http://premium-users.sandrostoreps3.workers.dev/series_menu/POWER.RANGERS.m3u
 #EXTINF:-1 tvg-id="" tvg-name="FamiliaDinosauro" tvg-logo="http://premium-users.sandrostoreps3.workers.dev/movie/posters/SERIES/FamiliaDinosauro.png" , Familia Dinosauro
-http://premium-users.sandrostoreps3.workers.dev/series/FAMILIA.DINOSAURO.m3u
+http://premium-users.sandrostoreps3.workers.dev/series_menu/FAMILIA.DINOSAURO.m3u

@@ -1,90 +1,90 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-name="A.Lista.Terminal" tvg-logo="http://premium-users.sandrostoreps3.workers.dev/movie/posters/SERIES/A.Lista.Terminal.jpg" , A Lista Terminal
-http://premium-users.sandrostoreps3.workers.dev/series/A.LISTA.TERMINAL.m3u
+http://premium-users.sandrostoreps3.workers.dev/series_menu/A.LISTA.TERMINAL.m3u
 #EXTINF:-1 tvg-id="" tvg-name="A.Roda.do.Tempo" tvg-logo="http://premium-users.sandrostoreps3.workers.dev/movie/posters/SERIES/A.Roda.do.Tempo.jpg" , A Roda do Tempo
-http://premium-users.sandrostoreps3.workers.dev/series/A.RODA.DO.TEMPO.m3u
+http://premium-users.sandrostoreps3.workers.dev/series_menu/A.RODA.DO.TEMPO.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Alem.da.Margem" tvg-logo="http://premium-users.sandrostoreps3.workers.dev/movie/posters/SERIES/Alem.da.Margem.jpg" , Alem da Margem
-http://premium-users.sandrostoreps3.workers.dev/series/ALEM.DA.MARGEM.m3u
+http://premium-users.sandrostoreps3.workers.dev/series_menu/ALEM.DA.MARGEM.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Amor.Moderno" tvg-logo="http://premium-users.sandrostoreps3.workers.dev/movie/posters/SERIES/Amor.Moderno.jpg" , Amor Moderno
-http://premium-users.sandrostoreps3.workers.dev/series/AMOR.MODERNO.m3u
+http://premium-users.sandrostoreps3.workers.dev/series_menu/AMOR.MODERNO.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Anatomia.do.Crime" tvg-logo="http://premium-users.sandrostoreps3.workers.dev/movie/posters/SERIES/Anatomia.do.Crime.jpg" , Anatomia do Crime
-http://premium-users.sandrostoreps3.workers.dev/series/ANATOMIA.DO.CRIME.m3u
+http://premium-users.sandrostoreps3.workers.dev/series_menu/ANATOMIA.DO.CRIME.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Battlestar.Galactica" tvg-logo="http://premium-users.sandrostoreps3.workers.dev/movie/posters/SERIES/Battlestar.Galactica.jpg" , Battlestar Galactica
-http://premium-users.sandrostoreps3.workers.dev/series/BATTLESTAR.GALACTICA.m3u
+http://premium-users.sandrostoreps3.workers.dev/series_menu/BATTLESTAR.GALACTICA.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Belas.Maldicoes" tvg-logo="http://premium-users.sandrostoreps3.workers.dev/movie/posters/SERIES/Belas.Maldicoes.jpg" , Belas Maldicoes
-http://premium-users.sandrostoreps3.workers.dev/series/BELAS.MALDICOES.m3u
+http://premium-users.sandrostoreps3.workers.dev/series_menu/BELAS.MALDICOES.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Cangaco.Novo" tvg-logo="http://premium-users.sandrostoreps3.workers.dev/movie/posters/SERIES/Cangaco.Novo.jpg" , Cangaco Novo
-http://premium-users.sandrostoreps3.workers.dev/series/CANGACO.NOVO.m3u
+http://premium-users.sandrostoreps3.workers.dev/series_menu/CANGACO.NOVO.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Carnival_Row" tvg-logo="http://premium-users.sandrostoreps3.workers.dev/movie/posters/SERIES/Carnival_Row.jpg" , Carnival Row
-http://premium-users.sandrostoreps3.workers.dev/series/CARNIVAL.ROW.m3u
+http://premium-users.sandrostoreps3.workers.dev/series_menu/CARNIVAL.ROW.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Citadel" tvg-logo="http://premium-users.sandrostoreps3.workers.dev/movie/posters/SERIES/Citadel.jpg" , Citadel
-http://premium-users.sandrostoreps3.workers.dev/series/CITADEL.m3u
+http://premium-users.sandrostoreps3.workers.dev/series_menu/CITADEL.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Cruel.Summer" tvg-logo="http://premium-users.sandrostoreps3.workers.dev/movie/posters/SERIES/Cruel.Summer.jpg" , Cruel Summer
-http://premium-users.sandrostoreps3.workers.dev/series/CRUEL.SUMMER.m3u
+http://premium-users.sandrostoreps3.workers.dev/series_menu/CRUEL.SUMMER.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Daisy.Jones.e.The.Six" tvg-logo="http://premium-users.sandrostoreps3.workers.dev/movie/posters/SERIES/Daisy.Jones.e.The.Six.jpg" , Daisy Jones e The Six
-http://premium-users.sandrostoreps3.workers.dev/series/DAISY.JONES.E.THE.SIX.m3u
+http://premium-users.sandrostoreps3.workers.dev/series_menu/DAISY.JONES.E.THE.SIX.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Deuses.Americanos" tvg-logo="http://premium-users.sandrostoreps3.workers.dev/movie/posters/SERIES/Deuses.Americanos.jpg" , Deuses Americanos
-http://premium-users.sandrostoreps3.workers.dev/series/DEUSES.AMERICANOS.m3u
+http://premium-users.sandrostoreps3.workers.dev/series_menu/DEUSES.AMERICANOS.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Diarios.de.um.Vampiro" tvg-logo="http://premium-users.sandrostoreps3.workers.dev/movie/posters/SERIES/Diarios.de.um.Vampiro.jpg" , Diarios de um Vampiro
-http://premium-users.sandrostoreps3.workers.dev/series/DIARIOS.DE.UM.VAMPIRO.m3u
+http://premium-users.sandrostoreps3.workers.dev/series_menu/DIARIOS.DE.UM.VAMPIRO.m3u
 #EXTINF:-1 tvg-id="" tvg-name="DOC.Uma.Nova.Vida" tvg-logo="http://premium-users.sandrostoreps3.workers.dev/movie/posters/SERIES/DOC.Uma.Nova.Vida.jpg" , DOC Uma Nova Vida
-http://premium-users.sandrostoreps3.workers.dev/series/DOC.UMA.NOVA.VIDA.m3u
+http://premium-users.sandrostoreps3.workers.dev/series_menu/DOC.UMA.NOVA.VIDA.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Enxame" tvg-logo="http://premium-users.sandrostoreps3.workers.dev/movie/posters/SERIES/Enxame.jpg" , Enxame
-http://premium-users.sandrostoreps3.workers.dev/series/ENXAME.m3u
+http://premium-users.sandrostoreps3.workers.dev/series_menu/ENXAME.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Eu.Sei.o.Que.Voces.Fizeram.no.Verao.Passado" tvg-logo="http://premium-users.sandrostoreps3.workers.dev/movie/posters/SERIES/Eu.Sei.o.Que.Voces.Fizeram.no.Verao.Passado.jpg" , Eu Sei o Que Voces Fizeram no Verao Passado
-http://premium-users.sandrostoreps3.workers.dev/series/EU.SEI.O.QUE.VOCES.FIZERAM.NO.VERAO.PASSADO.m3u
+http://premium-users.sandrostoreps3.workers.dev/series_menu/EU.SEI.O.QUE.VOCES.FIZERAM.NO.VERAO.PASSADO.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Fallout" tvg-logo="http://premium-users.sandrostoreps3.workers.dev/movie/posters/SERIES/Fallout.jpg" , Fallout
-http://premium-users.sandrostoreps3.workers.dev/series/FALLOUT.m3u
+http://premium-users.sandrostoreps3.workers.dev/series_menu/FALLOUT.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Fear.the.Walking.Dead" tvg-logo="http://premium-users.sandrostoreps3.workers.dev/movie/posters/SERIES/Fear.the.Walking.Dead.jpg" , Fear the Walking Dead
-http://premium-users.sandrostoreps3.workers.dev/series/FEAR.THE.WALKING.DEAD.m3u
+http://premium-users.sandrostoreps3.workers.dev/series_menu/FEAR.THE.WALKING.DEAD.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Gen.V" tvg-logo="http://premium-users.sandrostoreps3.workers.dev/movie/posters/SERIES/Gen.V.jpg" , Gen V
-http://premium-users.sandrostoreps3.workers.dev/series/GEN.V.m3u
+http://premium-users.sandrostoreps3.workers.dev/series_menu/GEN.V.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Hanna" tvg-logo="http://premium-users.sandrostoreps3.workers.dev/movie/posters/SERIES/Hanna.jpg" , Hanna
-http://premium-users.sandrostoreps3.workers.dev/series/HANNA.m3u
+http://premium-users.sandrostoreps3.workers.dev/series_menu/HANNA.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Hannibal" tvg-logo="http://premium-users.sandrostoreps3.workers.dev/movie/posters/SERIES/Hannibal.jpg" , Hannibal
-http://premium-users.sandrostoreps3.workers.dev/series/HANNIBAL.m3u
+http://premium-users.sandrostoreps3.workers.dev/series_menu/HANNIBAL.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Homens" tvg-logo="http://premium-users.sandrostoreps3.workers.dev/movie/posters/SERIES/Homens.jpg" , Homens
-http://premium-users.sandrostoreps3.workers.dev/series/HOMENS.m3u
+http://premium-users.sandrostoreps3.workers.dev/series_menu/HOMENS.m3u
 #EXTINF:-1 tvg-id="" tvg-name="1contra-todos" tvg-logo="http://premium-users.sandrostoreps3.workers.dev/movie/posters/SERIES/HOMENS.DE.TERNO.jpg" , Homens de Terno
-http://premium-users.sandrostoreps3.workers.dev/series/HOMENS.DE.TERNO.m3u
+http://premium-users.sandrostoreps3.workers.dev/series_menu/HOMENS.DE.TERNO.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Jornada.nas.Estrelas.Picard" tvg-logo="http://premium-users.sandrostoreps3.workers.dev/movie/posters/SERIES/Jornada.nas.Estrelas.Picard.jpg" , Jornada nas Estrelas Picard
-http://premium-users.sandrostoreps3.workers.dev/series/JORNADA.NAS.ESTRELAS.PICARD.m3u
+http://premium-users.sandrostoreps3.workers.dev/series_menu/JORNADA.NAS.ESTRELAS.PICARD.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Negociador" tvg-logo="http://premium-users.sandrostoreps3.workers.dev/movie/posters/SERIES/Negociador.jpg" , Negociador
-http://premium-users.sandrostoreps3.workers.dev/series/NEGOCIADOR.m3u
+http://premium-users.sandrostoreps3.workers.dev/series_menu/NEGOCIADOR.m3u
 #EXTINF:-1 tvg-id="" tvg-name="thelastofus" tvg-logo="http://premium-users.sandrostoreps3.workers.dev/movie/posters/SERIES/o.circulo.secreto.jpg" , O Circulo Secreto
-http://premium-users.sandrostoreps3.workers.dev/series/O.CIRCULO.SECRETO.m3u
+http://premium-users.sandrostoreps3.workers.dev/series_menu/O.CIRCULO.SECRETO.m3u
 #EXTINF:-1 tvg-id="" tvg-name="O.Exorcista" tvg-logo="http://premium-users.sandrostoreps3.workers.dev/movie/posters/SERIES/O.Exorcista.jpg" , O Exorcista
-http://premium-users.sandrostoreps3.workers.dev/series/O.EXORCISTA.m3u
+http://premium-users.sandrostoreps3.workers.dev/series_menu/O.EXORCISTA.m3u
 #EXTINF:-1 tvg-id="" tvg-name="O.Internato.Las.Cumbres" tvg-logo="http://premium-users.sandrostoreps3.workers.dev/movie/posters/SERIES/O.Internato.Las.Cumbres.jpg" , O Internato Las Cumbres
-http://premium-users.sandrostoreps3.workers.dev/series/O.INTERNATO.LAS.CUMBRES.m3u
+http://premium-users.sandrostoreps3.workers.dev/series_menu/O.INTERNATO.LAS.CUMBRES.m3u
 #EXTINF:-1 tvg-id="" tvg-name="O.Negociador" tvg-logo="http://premium-users.sandrostoreps3.workers.dev/movie/posters/SERIES/O.Negociador.jpg" , O Negociador
-http://premium-users.sandrostoreps3.workers.dev/series/O.NEGOCIADOR.m3u
+http://premium-users.sandrostoreps3.workers.dev/series_menu/O.NEGOCIADOR.m3u
 #EXTINF:-1 tvg-id="" tvg-name="O.Verao.Que.Mudou.Minha.Vida" tvg-logo="http://premium-users.sandrostoreps3.workers.dev/movie/posters/SERIES/O.Verao.Que.Mudou.Minha.Vida.jpg" , O Verao Que Mudou Minha Vida
-http://premium-users.sandrostoreps3.workers.dev/series/O.VERAO.QUE.MUDOU.MINHA.VIDA.m3u
+http://premium-users.sandrostoreps3.workers.dev/series_menu/O.VERAO.QUE.MUDOU.MINHA.VIDA.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Paper.Girls" tvg-logo="http://premium-users.sandrostoreps3.workers.dev/movie/posters/SERIES/Paper.Girls.jpg" , Paper Girls
-http://premium-users.sandrostoreps3.workers.dev/series/PAPER.GIRLS.m3u
+http://premium-users.sandrostoreps3.workers.dev/series_menu/PAPER.GIRLS.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Perifericos" tvg-logo="http://premium-users.sandrostoreps3.workers.dev/movie/posters/SERIES/Perifericos.jpg" , Perifericos
-http://premium-users.sandrostoreps3.workers.dev/series/PERIFERICOS.m3u
+http://premium-users.sandrostoreps3.workers.dev/series_menu/PERIFERICOS.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Preacher" tvg-logo="http://premium-users.sandrostoreps3.workers.dev/movie/posters/SERIES/Preacher.jpg" , Preacher
-http://premium-users.sandrostoreps3.workers.dev/series/PREACHER.m3u
+http://premium-users.sandrostoreps3.workers.dev/series_menu/PREACHER.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Reacher" tvg-logo="http://premium-users.sandrostoreps3.workers.dev/movie/posters/SERIES/Reacher.jpg" , Reacher
-http://premium-users.sandrostoreps3.workers.dev/series/REACHER.m3u
+http://premium-users.sandrostoreps3.workers.dev/series_menu/REACHER.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Refugio" tvg-logo="http://premium-users.sandrostoreps3.workers.dev/movie/posters/SERIES/Refugio.jpg" , Refugio
-http://premium-users.sandrostoreps3.workers.dev/series/REFUGIO.m3u
+http://premium-users.sandrostoreps3.workers.dev/series_menu/REFUGIO.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Sem.Limites" tvg-logo="http://premium-users.sandrostoreps3.workers.dev/movie/posters/SERIES/Sem.Limites.jpg" , Sem Limites
-http://premium-users.sandrostoreps3.workers.dev/series/SEM.LIMITES.m3u
+http://premium-users.sandrostoreps3.workers.dev/series_menu/SEM.LIMITES.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Sherlock" tvg-logo="http://premium-users.sandrostoreps3.workers.dev/movie/posters/SERIES/Sherlock.jpg" , Sherlock
-http://premium-users.sandrostoreps3.workers.dev/series/SHERLOCK.m3u
+http://premium-users.sandrostoreps3.workers.dev/series_menu/SHERLOCK.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Sr.e.Sra.Smith" tvg-logo="http://premium-users.sandrostoreps3.workers.dev/movie/posters/SERIES/Sr.e.Sra.Smith.jpg" , Sr. e Sra. Smith
-http://premium-users.sandrostoreps3.workers.dev/series/SR.E.SRA.SMITH.m3u
+http://premium-users.sandrostoreps3.workers.dev/series_menu/SR.E.SRA.SMITH.m3u
 #EXTINF:-1 tvg-id="" tvg-name="The.Walking.Dead.Um.Novo.Universo" tvg-logo="http://premium-users.sandrostoreps3.workers.dev/movie/posters/SERIES/The.Walking.Dead.Um.Novo.Universo.jpg" , The Walking Dead Um Novo Universo
-http://premium-users.sandrostoreps3.workers.dev/series/THE.WALKING.DEAD.UM.NOVO.UNIVERSO.m3u
+http://premium-users.sandrostoreps3.workers.dev/series_menu/THE.WALKING.DEAD.UM.NOVO.UNIVERSO.m3u
 #EXTINF:-1 tvg-id="" tvg-name="The.Wilds.Vidas.Selvagens" tvg-logo="http://premium-users.sandrostoreps3.workers.dev/movie/posters/SERIES/The.Wilds.Vidas.Selvagens.jpg" , The Wilds Vidas Selvagens
-http://premium-users.sandrostoreps3.workers.dev/series/THE.WILDS.VIDAS.SELVAGENS.m3u
+http://premium-users.sandrostoreps3.workers.dev/series_menu/THE.WILDS.VIDAS.SELVAGENS.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Uma.Equipe.Muito.Especial" tvg-logo="http://premium-users.sandrostoreps3.workers.dev/movie/posters/SERIES/Uma.Equipe.Muito.Especial.jpg" , Uma Equipe Muito Especial
-http://premium-users.sandrostoreps3.workers.dev/series/UMA.EQUIPE.MUITO.ESPECIAL.m3u
+http://premium-users.sandrostoreps3.workers.dev/series_menu/UMA.EQUIPE.MUITO.ESPECIAL.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Upload" tvg-logo="http://premium-users.sandrostoreps3.workers.dev/movie/posters/SERIES/Upload.jpg" , Upload
-http://premium-users.sandrostoreps3.workers.dev/series/UPLOAD.m3u
+http://premium-users.sandrostoreps3.workers.dev/series_menu/UPLOAD.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Zorro" tvg-logo="http://premium-users.sandrostoreps3.workers.dev/movie/posters/SERIES/Zorro.jpg" , Zorro
-http://premium-users.sandrostoreps3.workers.dev/series/ZORRO.m3u
+http://premium-users.sandrostoreps3.workers.dev/series_menu/ZORRO.m3u
