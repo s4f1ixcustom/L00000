@@ -1,22 +1,22 @@
 #EXTM3U 
 
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="http://sandroflix.sandrostoreps3.workers.dev/icon/posters/TV/CANAIS.ABERTOS.png" group-title="Canais Grátis" , Canais Abertos
-http://sandroflix.sandrostoreps3.workers.dev/tv/CANAIS.ABERTOS.m3u
+http://sandroflix.sandrostoreps3.workers.dev/tv_menu/CANAIS.ABERTOS.m3u
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="http://sandroflix.sandrostoreps3.workers.dev/icon/posters/TV/FILMES.png" group-title="Canais Grátis" , Canais de Filmes
-http://sandroflix.sandrostoreps3.workers.dev/tv/FILMES.m3u
+http://sandroflix.sandrostoreps3.workers.dev/tv_menu/FILMES.m3u
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="http://sandroflix.sandrostoreps3.workers.dev/icon/posters/TV/INFANTIL.png" group-title="Canais Grátis" , Canais Infantis
-http://sandroflix.sandrostoreps3.workers.dev/tv/INFANTIL.m3u
+http://sandroflix.sandrostoreps3.workers.dev/tv_menu/INFANTIL.m3u
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="http://sandroflix.sandrostoreps3.workers.dev/icon/posters/TV/NOTICIAS.png" group-title="Canais Grátis" , Canais de Noticias
-http://sandroflix.sandrostoreps3.workers.dev/tv/NOTICIAS.m3u
+http://sandroflix.sandrostoreps3.workers.dev/tv_menu/NOTICIAS.m3u
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="http://sandroflix.sandrostoreps3.workers.dev/icon/posters/TV/PLUTO.TV.png" group-title="Canais Grátis" , Canais Pluto TV
-http://sandroflix.sandrostoreps3.workers.dev/tv/PLUTO.TV.m3u
+http://sandroflix.sandrostoreps3.workers.dev/tv_menu/PLUTO.TV.m3u
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="http://sandroflix.sandrostoreps3.workers.dev/icon/posters/TV/PROGAMACAO.png" group-title="Canais Grátis" , Canais de Progamacao
-http://sandroflix.sandrostoreps3.workers.dev/tv/PROGAMACAO.m3u
+http://sandroflix.sandrostoreps3.workers.dev/tv_menu/PROGAMACAO.m3u
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="http://sandroflix.sandrostoreps3.workers.dev/icon/posters/TV/RADIO.png" group-title="Canais Grátis" , Canais de Radio e Musica
-http://sandroflix.sandrostoreps3.workers.dev/tv/RADIO.m3u
+http://sandroflix.sandrostoreps3.workers.dev/tv_menu/RADIO.m3u
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="http://sandroflix.sandrostoreps3.workers.dev/icon/posters/TV/RELIGIOSOS.png" group-title="Canais Grátis" , Canais Religiosos
-http://sandroflix.sandrostoreps3.workers.dev/tv/RELIGIOSOS.m3u
+http://sandroflix.sandrostoreps3.workers.dev/tv_menu/RELIGIOSOS.m3u
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="http://sandroflix.sandrostoreps3.workers.dev/icon/posters/TV/YOUTUBE.png" group-title="Canais Grátis" , Canais do Youtube
-http://sandroflix.sandrostoreps3.workers.dev/tv/YOUTUBE.m3u
+http://sandroflix.sandrostoreps3.workers.dev/tv_menu/YOUTUBE.m3u
 #EXTINF:-1 tvg-id="" tvg-name="TV" tvg-logo="http://sandroflix.sandrostoreps3.workers.dev/icon/posters/TV/PROGAMACAO.png" group-title="Canais Privados" , Insira o Login Premium Para Carregar a Lista
 http://sandroflix-premium.sandrostoreps3.workers.dev/canais.m3u

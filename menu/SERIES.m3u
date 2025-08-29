@@ -1,587 +1,587 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="A.Amiga.Genial" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/A.Amiga.Genial.jpg" group-title="HBO MAX", A Amiga Genial
-http://sandroflix.sandrostoreps3.workers.dev/series/A.AMIGA.GENIAL.m3u 
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/A.AMIGA.GENIAL.m3u  
 #EXTINF:-1 tvg-id="" tvg-name="A.CASA.DO.DRAGAO" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/A.CASA.DO.DRAGAO.jpg" group-title="HBO MAX", A Casa do Dragao
-http://sandroflix.sandrostoreps3.workers.dev/series/A.CASA.DO.DRAGAO.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/A.CASA.DO.DRAGAO.m3u
 #EXTINF:-1 tvg-id="" tvg-name="A.Vida.Sexual.das.Universitarias" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/A.Vida.Sexual.das.Universitarias.jpg" group-title="HBO MAX", A Vida Sexual das Universitarias
-http://sandroflix.sandrostoreps3.workers.dev/series/A.VIDA.SEXUAL.DAS.UNIVERSITARIAS.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/A.VIDA.SEXUAL.DAS.UNIVERSITARIAS.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Alguem.Em.Algum.Lugar" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Alguem.Em.Algum.Lugar.jpg" group-title="HBO MAX", Alguem Em Algum Lugar
-http://sandroflix.sandrostoreps3.workers.dev/series/ALGUEM.EM.ALGUM.LUGAR.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/ALGUEM.EM.ALGUM.LUGAR.m3u
 #EXTINF:-1 tvg-id="" tvg-name="GameofThrones" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/GameofThrones.png" group-title="HBO MAX", Game of Thrones
-http://sandroflix.sandrostoreps3.workers.dev/series/GAME.OF.THRONES.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/GAME.OF.THRONES.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Hacks" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Hacks.jpg" group-title="HBO MAX", Hacks
-http://sandroflix.sandrostoreps3.workers.dev/series/HACKS.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/HACKS.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Industry" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Industry.jpg" group-title="HBO MAX", Industry
-http://sandroflix.sandrostoreps3.workers.dev/series/INSDUSTRY.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/INSDUSTRY.m3u
 #EXTINF:-1 tvg-id="" tvg-name="MALDOSAS" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/MALDOSAS.jpg" group-title="HBO MAX", Maldosas
-http://sandroflix.sandrostoreps3.workers.dev/series/MALDOSAS.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/MALDOSAS.m3u
 #EXTINF:-1 tvg-id="" tvg-name="O.Regime" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/O.Regime.jpg" group-title="HBO MAX", O Regime
-http://sandroflix.sandrostoreps3.workers.dev/series/O.REGIME.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/O.REGIME.m3u
 #EXTINF:-1 tvg-id="" tvg-name="O.Turista" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/O.Turista.jpg" group-title="HBO MAX", O Turista
-http://sandroflix.sandrostoreps3.workers.dev/series/O.TURISTA.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/O.TURISTA.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Pacificador" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Pacificador.png" group-title="HBO MAX", Pacificador
-http://sandroflix.sandrostoreps3.workers.dev/series/PACIFICADOR.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/PACIFICADOR.m3u
 #EXTINF:-1 tvg-id="" tvg-name="OS.ORIGINAIS" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/OS.ORIGINAIS.jpg" group-title="HBO MAX", Os Originais
-http://sandroflix.sandrostoreps3.workers.dev/series/OS.ORIGINAIS.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/OS.ORIGINAIS.m3u
 #EXTINF:-1 tvg-id="" tvg-name="RaisedByWolves" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/RaisedByWolves.png" group-title="HBO MAX", Raised By Wolves
-http://sandroflix.sandrostoreps3.workers.dev/series/RAISED.BY.WOLVES.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/RAISED.BY.WOLVES.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Sobrenatural" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Sobrenatural.png" group-title="HBO MAX", Sobrenatural
-http://sandroflix.sandrostoreps3.workers.dev/series/SOBRENATURAL.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/SOBRENATURAL.m3u
 #EXTINF:-1 tvg-id="" tvg-name="SupermanAndLois" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/SupermanAndLois.png" group-title="HBO MAX", Superman And Lois
-http://sandroflix.sandrostoreps3.workers.dev/series/SUPERMAN.AND.LOIS.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/SUPERMAN.AND.LOIS.m3u
 #EXTINF:-1 tvg-id="" tvg-name="TheBigBangTheory" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/TheBigBangTheory.png" group-title="HBO MAX", The Big Bang Theory
-http://sandroflix.sandrostoreps3.workers.dev/series/THE.BIG.BANG.THEORY.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/THE.BIG.BANG.THEORY.m3u
 #EXTINF:-1 tvg-id="" tvg-name="thelastofus" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/thelastofus.jpg" group-title="HBO MAX", The Last of us
-http://sandroflix.sandrostoreps3.workers.dev/series/THE.LAS.OF.US.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/THE.LAS.OF.US.m3u
 #EXTINF:-1 tvg-id="" tvg-name="ThePacific" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/ThePacific.png" group-title="HBO MAX", The Pacific
-http://sandroflix.sandrostoreps3.workers.dev/series/THE.PACIFIC.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/THE.PACIFIC.m3u
 #EXTINF:-1 tvg-id="" tvg-name="true-blood" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/true-blood.png" group-title="HBO MAX", True Blood
-http://sandroflix.sandrostoreps3.workers.dev/series/TRUE.BLOOD.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/TRUE.BLOOD.m3u
 #EXTINF:-1 tvg-id="" tvg-name="True.Detective" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/True.Detective.jpg" group-title="HBO MAX", True Detective
-http://sandroflix.sandrostoreps3.workers.dev/series/TRUE.DETECTIVE.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/TRUE.DETECTIVE.m3u
 #EXTINF:-1 tvg-id="" tvg-name="1contra-todos" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/24horas.png" group-title="GLOBOPLAY", 24 horas
-http://sandroflix.sandrostoreps3.workers.dev/series/24.HORAS.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/24.HORAS.m3u
 #EXTINF:-1 tvg-id="" tvg-name="A_Divisao" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/A_Divisao.jpg" group-title="GLOBOPLAY", A Divisao
-http://sandroflix.sandrostoreps3.workers.dev/series/A.DIVISAO.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/A.DIVISAO.m3u
 #EXTINF:-1 tvg-id="" tvg-name="A_Vida_Pela_Frente" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/A_Vida_Pela_Frente.jpg" group-title="GLOBOPLAY", A Vida Pela Frente
-http://sandroflix.sandrostoreps3.workers.dev/series/A.VIDA.PELA.FRENTE.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/A.VIDA.PELA.FRENTE.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Academia_de_Vampiros" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Academia_de_Vampiros.jpg" group-title="GLOBOPLAY", Academia de Vampiros
-http://sandroflix.sandrostoreps3.workers.dev/series/ACADEMIA.DE.VAMPIROS.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/ACADEMIA.DE.VAMPIROS.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Acampamento_de_Magia_para_Jovens_Bruxos" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Acampamento_de_Magia_para_Jovens_Bruxos.jpg" group-title="GLOBOPLAY", Acampamento de Magia para Jovens Bruxos
-http://sandroflix.sandrostoreps3.workers.dev/series/ACAMPAMENTO.DE.MAGIA.PARA.JOVENS.BRUXOS.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/ACAMPAMENTO.DE.MAGIA.PARA.JOVENS.BRUXOS.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Amor_e_Sorte" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Amor_e_Sorte.jpg" group-title="GLOBOPLAY", Amor e Sorte
-http://sandroflix.sandrostoreps3.workers.dev/series/AMOR.E.SORTE.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/AMOR.E.SORTE.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Aruanas" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Aruanas.jpg" group-title="GLOBOPLAY", Aruanas
-http://sandroflix.sandrostoreps3.workers.dev/series/ARUANAS.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/ARUANAS.m3u
 #EXTINF:-1 tvg-id="" tvg-name="As_Five" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/As_Five.jpg" group-title="GLOBOPLAY", As Five
-http://sandroflix.sandrostoreps3.workers.dev/series/AS.FIVE.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/AS.FIVE.m3u
 #EXTINF:-1 tvg-id="" tvg-name="1contra-todos" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/ARCANJO.RENEGADO.jpg" group-title="GLOBOPLAY", Arcanjo Renegado
-http://sandroflix.sandrostoreps3.workers.dev/series/ARCANJO.RENEGADO.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/ARCANJO.RENEGADO.m3u
 #EXTINF:-1 tvg-id="" tvg-name="1contra-todos" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/ASSEDIO.jpg" group-title="GLOBOPLAY", Assedio
-http://sandroflix.sandrostoreps3.workers.dev/series/ASSEDIO.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/ASSEDIO.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Betinho_No_Fio_da_Navalha" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Betinho_No_Fio_da_Navalha.jpg" group-title="GLOBOPLAY", Betinho No Fio da Navalha
-http://sandroflix.sandrostoreps3.workers.dev/series/BETINHO.NO.FIO.DA.NAVALHA.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/BETINHO.NO.FIO.DA.NAVALHA.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Carcereiros" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Carcereiros.jpg" group-title="GLOBOPLAY", Carcereiros
-http://sandroflix.sandrostoreps3.workers.dev/series/CARCEREIROS.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/CARCEREIROS.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Charmed_Nova_Geracao" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Charmed_Nova_Geracao.jpg" group-title="GLOBOPLAY", Charmed Nova Geracao
-http://sandroflix.sandrostoreps3.workers.dev/series/CHARMED.NOVA.GERACAO.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/CHARMED.NOVA.GERACAO.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Desalma" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Desalma.jpg" group-title="GLOBOPLAY", Desalma
-http://sandroflix.sandrostoreps3.workers.dev/series/DESALMA.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/DESALMA.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Evil_Contatos_Sobrenaturais" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Evil_Contatos_Sobrenaturais.jpg" group-title="GLOBOPLAY", Evil Contatos Sobrenaturais
-http://sandroflix.sandrostoreps3.workers.dev/series/EVIL.CONTATOS.SOBRENATURAIS.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/EVIL.CONTATOS.SOBRENATURAIS.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Filhas_de_Eva" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Filhas_de_Eva.jpg" group-title="GLOBOPLAY", Filhas de Eva
-http://sandroflix.sandrostoreps3.workers.dev/series/FILHAS.DE.EVA.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/FILHAS.DE.EVA.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Fim" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Fim.jpg" group-title="GLOBOPLAY", Fim
-http://sandroflix.sandrostoreps3.workers.dev/series/FIM.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/FIM.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Ilha_de_Ferro" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Ilha_de_Ferro.jpg" group-title="GLOBOPLAY", Ilha de Ferro
-http://sandroflix.sandrostoreps3.workers.dev/series/ILHA.DE.FERRO.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/ILHA.DE.FERRO.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Justica" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Justica.jpg" group-title="GLOBOPLAY", Justica
-http://sandroflix.sandrostoreps3.workers.dev/series/JUSTICA.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/JUSTICA.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Linha_Direta" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Linha_Direta.jpg" group-title="GLOBOPLAY", Linha Direta
-http://sandroflix.sandrostoreps3.workers.dev/series/LINHA.DIRETA.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/LINHA.DIRETA.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Lost" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Lost.png" group-title="GLOBOPLAY", Lost
-http://sandroflix.sandrostoreps3.workers.dev/series/LOST.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/LOST.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Maes_Armadas" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Maes_Armadas.jpg" group-title="GLOBOPLAY", Maes Armadas
-http://sandroflix.sandrostoreps3.workers.dev/series/MAES.ARMADAS.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/MAES.ARMADAS.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Narcos" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Maquina.Mortifera.png" group-title="GLOBOPLAY", Maquina Mortifera
-http://sandroflix.sandrostoreps3.workers.dev/series/MAQUINA.MORTIFERA.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/MAQUINA.MORTIFERA.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Nancy_Drew" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Nancy_Drew.jpg" group-title="GLOBOPLAY", Nancy Drew
-http://sandroflix.sandrostoreps3.workers.dev/series/NANCY.DREW.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/NANCY.DREW.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Narcos" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Narcos.png" group-title="GLOBOPLAY", Narcos
-http://sandroflix.sandrostoreps3.workers.dev/series/NARCOS.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/NARCOS.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Onde_Esta_Meu_Coracao" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Onde_Esta_Meu_Coracao.jpg" group-title="GLOBOPLAY", Onde Esta Meu Coracao
-http://sandroflix.sandrostoreps3.workers.dev/series/ONDE.ESTA.MEU.CORACAO.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/ONDE.ESTA.MEU.CORACAO.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Origem" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Origem.jpg" group-title="GLOBOPLAY", Origem
-http://sandroflix.sandrostoreps3.workers.dev/series/ORIGEM.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/ORIGEM.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Os_Outros" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Os_Outros.jpg" group-title="GLOBOPLAY", Os Outros
-http://sandroflix.sandrostoreps3.workers.dev/series/OS.OUTROS.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/OS.OUTROS.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Passaporte_para_Liberdade" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Passaporte_para_Liberdade.jpg" group-title="GLOBOPLAY", Passaporte para Liberdade
-http://sandroflix.sandrostoreps3.workers.dev/series/PASSAPORTE.PARA.A.LIBERDADE.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/PASSAPORTE.PARA.A.LIBERDADE.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Rensga_Hits" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Rensga_Hits.jpg" group-title="GLOBOPLAY", Rensga Hits
-http://sandroflix.sandrostoreps3.workers.dev/series/RENSGA.HITS.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/RENSGA.HITS.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Rota_66_A_Policia_que_Mata" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Rota_66_A_Policia_que_Mata.jpg" group-title="GLOBOPLAY", Rota 66 A Policia que Mata
-http://sandroflix.sandrostoreps3.workers.dev/series/ROTA.66.A.POLICIA.QUE.MATA.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/ROTA.66.A.POLICIA.QUE.MATA.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Sessao_de_Terapia" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Sessao_de_Terapia.jpg" group-title="GLOBOPLAY", Sessao de Terapia
-http://sandroflix.sandrostoreps3.workers.dev/series/SESSAO.TERAPIA.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/SESSAO.TERAPIA.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Shippados" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Shippados.jpg" group-title="GLOBOPLAY", Shippados
-http://sandroflix.sandrostoreps3.workers.dev/series/SHIPPADOS.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/SHIPPADOS.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Sob_Pressao" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Sob_Pressao.jpg" group-title="GLOBOPLAY", Sob Pressao
-http://sandroflix.sandrostoreps3.workers.dev/series/SOB.PRESSAO.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/SOB.PRESSAO.m3u
 #EXTINF:-1 tvg-id="" tvg-name="TheGoodDoctor" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/supermax.png" group-title="GLOBOPLAY", SuperMax
-http://sandroflix.sandrostoreps3.workers.dev/series/SUPERMAX.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/SUPERMAX.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Todas_as_Mulheres_do_Mundo" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Todas_as_Mulheres_do_Mundo.jpg" group-title="GLOBOPLAY", Todas as Mulheres do Mundo
-http://sandroflix.sandrostoreps3.workers.dev/series/TODAS.AS.MULHERES.DO.MUDO.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/TODAS.AS.MULHERES.DO.MUDO.m3u
 #EXTINF:-1 tvg-id="" tvg-name="TodoMundoOdeiaoChris" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/TodoMundoOdeiaoChris.png" group-title="GLOBOPLAY", Todo Mundo Odeiao Chris
-http://sandroflix.sandrostoreps3.workers.dev/series/TODO.MUNDO.ODEIA.O.CHRIS.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/TODO.MUNDO.ODEIA.O.CHRIS.m3u
 #EXTINF:-1 tvg-id="" tvg-name="TheGoodDoctor" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/TheGoodDoctor.png" group-title="GLOBOPLAY", The Good Doctor
-http://sandroflix.sandrostoreps3.workers.dev/series/THE.GOOD.DOCTOR.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/THE.GOOD.DOCTOR.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Turma_da_Monica_A_Serie" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Turma_da_Monica_A_Serie.jpg" group-title="GLOBOPLAY", Turma da Monica A Serie
-http://sandroflix.sandrostoreps3.workers.dev/series/TURMA.DA.MONICA.A.SERIE.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/TURMA.DA.MONICA.A.SERIE.m3u
 #EXTINF:-1 tvg-id="" tvg-name="um-maluco-no-pedaco" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/um-maluco-no-pedaco.png" group-title="GLOBOPLAY", Um Maluco no Pedaco
-http://sandroflix.sandrostoreps3.workers.dev/series/UM.MALUCO.NO.PEDACO.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/UM.MALUCO.NO.PEDACO.m3u
 #EXTINF:-1 tvg-id="" tvg-name="thelastofus" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/ahsoka.jpg" group-title="DISNEY+", Ahsoka
-http://sandroflix.sandrostoreps3.workers.dev/series/AHSOKA.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/AHSOKA.m3u
 #EXTINF:-1 tvg-id="" tvg-name="A_Small_Light" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/A_Small_Light.jpg" group-title="DISNEY+", A Small Light
-http://sandroflix.sandrostoreps3.workers.dev/series/A.SMALL.LIGHT.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/A.SMALL.LIGHT.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Avatar.O.Ultimo.Mestre.do.Ar" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Avatar.O.Ultimo.Mestre.do.Ar.jpg" group-title="DISNEY+", Avatar O Ultimo Mestre do Ar
-http://sandroflix.sandrostoreps3.workers.dev/series/AVATAR.O.ULTIMO.MESTRE.DO.AR.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/AVATAR.O.ULTIMO.MESTRE.DO.AR.m3u
 #EXTINF:-1 tvg-id="" tvg-name="1contra-todos" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/CAVALEIRO.DA.LUA.jpg" group-title="DISNEY+", Cavaleiro da Lua
-http://sandroflix.sandrostoreps3.workers.dev/series/CAVALEIRO.DA.LUA.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/CAVALEIRO.DA.LUA.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Entre_Lacos" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Entre_Lacos.jpg" group-title="DISNEY+", Entre Lacos
-http://sandroflix.sandrostoreps3.workers.dev/series/ENTRE.LACOS.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/ENTRE.LACOS.m3u
 #EXTINF:-1 tvg-id="" tvg-name="EuaPatroaeasCriancas" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/EuaPatroaeasCriancas.png" group-title="DISNEY+", Eu a Patroa e as Criancas
-http://sandroflix.sandrostoreps3.workers.dev/series/EU.A.PATROA.E.AS.CRIANCAS.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/EU.A.PATROA.E.AS.CRIANCAS.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Falcao-eo-soldado-infernal" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Falcao-eo-soldado-infernal.png" group-title="DISNEY+", Falcao e o Soldado Infernal
-http://sandroflix.sandrostoreps3.workers.dev/series/FALCAO.E.O.SOLDADO.INFERNAL.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/FALCAO.E.O.SOLDADO.INFERNAL.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Gaviao_Arqueiro" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Gaviao_Arqueiro.jpg" group-title="DISNEY+", Gaviao Arqueiro
-http://sandroflix.sandrostoreps3.workers.dev/series/GAVIAO.ARQUEIRO.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/GAVIAO.ARQUEIRO.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Goosebumps" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Goosebumps.jpg" group-title="DISNEY+", Goosebumps
-http://sandroflix.sandrostoreps3.workers.dev/series/GOOSEBUMPS.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/GOOSEBUMPS.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Invasao_Secreta" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Invasao_Secreta.jpg" group-title="DISNEY+", Invasao Secreta
-http://sandroflix.sandrostoreps3.workers.dev/series/INVASAO.SECRETA.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/INVASAO.SECRETA.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Iwaju" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Iwaju.jpg" group-title="DISNEY+", Iwaju
-http://sandroflix.sandrostoreps3.workers.dev/series/IWAJU.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/IWAJU.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Lendas_da_Marvel" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Lendas_da_Marvel.jpg" group-title="DISNEY+", Lendas da Marvel
-http://sandroflix.sandrostoreps3.workers.dev/series/LENDAS.DA.MARVEL.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/LENDAS.DA.MARVEL.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Loki" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Loki.png" group-title="DISNEY+", Loki
-http://sandroflix.sandrostoreps3.workers.dev/series/LOKI.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/LOKI.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Marvel_Agente_Carter" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Marvel_Agente_Carter.jpg" group-title="DISNEY+", Marvel Agente Carter
-http://sandroflix.sandrostoreps3.workers.dev/series/MARVEL.-.AGENTE.CARTER.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/MARVEL.-.AGENTE.CARTER.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Marvel_O_Justiceiro" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Marvel_O_Justiceiro.jpg" group-title="DISNEY+", Marvel O Justiceiro
-http://sandroflix.sandrostoreps3.workers.dev/series/MARVEL.-.O.JUSTICEIRO.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/MARVEL.-.O.JUSTICEIRO.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Marvel.Os.Defensores" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Marvel.Os.Defensores.jpg" group-title="DISNEY+", Marvel Os Defensores
-http://sandroflix.sandrostoreps3.workers.dev/series/MARVEL.OS.DEFENSORES.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/MARVEL.OS.DEFENSORES.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Marvel_Punho_de_Ferro" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Marvel_Punho_de_Ferro.jpg" group-title="DISNEY+", Marvel Punho de Ferro
-http://sandroflix.sandrostoreps3.workers.dev/series/MARVEL.-.PUNHO.DE.FERRO.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/MARVEL.-.PUNHO.DE.FERRO.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Mila_no_Multiverso" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Mila_no_Multiverso.jpg" group-title="DISNEY+", Mila no Multiverso
-http://sandroflix.sandrostoreps3.workers.dev/series/MILA.NO.MULTIVERSO.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/MILA.NO.MULTIVERSO.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Ms.Marvel" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Ms.Marvel.jpg" group-title="DISNEY+", Ms. Marvel
-http://sandroflix.sandrostoreps3.workers.dev/series/MS.MARVEL.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/MS.MARVEL.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Nell_a_Renegada" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Nell_a_Renegada.jpg" group-title="DISNEY+", Nell a Renegada
-http://sandroflix.sandrostoreps3.workers.dev/series/NELL.A.RENEGADA.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/NELL.A.RENEGADA.m3u
 #EXTINF:-1 tvg-id="" tvg-name="1contra-todos" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/OBIWANKENOBI.png" group-title="DISNEY+", Obiwan Kenobi
-http://sandroflix.sandrostoreps3.workers.dev/series/OBIWAN_KENOBI.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/OBIWAN_KENOBI.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Once.Upon" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Once.Upon.jpg" group-title="DISNEY+", Once Upon
-http://sandroflix.sandrostoreps3.workers.dev/series/ONCE.UPON.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/ONCE.UPON.m3u
 #EXTINF:-1 tvg-id="" tvg-name="PrisionBreak" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/PrisionBreak.png" group-title="DISNEY+", Prision Break
-http://sandroflix.sandrostoreps3.workers.dev/series/PRISION.BREAK.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/PRISION.BREAK.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Segredos_em_Sulphur_Springs" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Segredos_em_Sulphur_Springs.jpg" group-title="DISNEY+", Segredos em Sulphur Springs
-http://sandroflix.sandrostoreps3.workers.dev/series/SEGREDOS.EM.SULPHUR.SPRINGS.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/SEGREDOS.EM.SULPHUR.SPRINGS.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Star.Wars.A.Guerra.dos.Clones" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Star.Wars.A.Guerra.dos.Clones.jpg" group-title="DISNEY+", Star Wars A Guerra dos Clones
-http://sandroflix.sandrostoreps3.workers.dev/series/STAR.WARS.THE.CLONE.WARS.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/STAR.WARS.THE.CLONE.WARS.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Star_Wars_Andor" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Star_Wars_Andor.jpg" group-title="DISNEY+", Star Wars Andor
-http://sandroflix.sandrostoreps3.workers.dev/series/STAR.WARS.ANDOR.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/STAR.WARS.ANDOR.m3u
 #EXTINF:-1 tvg-id="" tvg-name="TheMandalorianStarWars" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/TheMandalorianStarWars.png" group-title="DISNEY+", The Mandalorian Star Wars
-http://sandroflix.sandrostoreps3.workers.dev/series/THE.MANDALORIAN.STAR.WARS.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/THE.MANDALORIAN.STAR.WARS.m3u
 #EXTINF:-1 tvg-id="" tvg-name="WandaVision" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/WandaVision.jpg" group-title="DISNEY+", WandaVision
-http://sandroflix.sandrostoreps3.workers.dev/series/WANDAVISION.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/WANDAVISION.m3u
 #EXTINF:-1 tvg-id="" tvg-name="9-1-1.Lone.Star" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/LONE.STAR.jpg" group-title="STAR+", 9-1-1 Lone Star
-http://sandroflix.sandrostoreps3.workers.dev/series/9-1-1.LONE.STAR.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/9-1-1.LONE.STAR.m3u
 #EXTINF:-1 tvg-id="" tvg-name="A.Historia.de.Deus.com.Morgan.Freeman" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/A.Historia.de.Deus.com.Morgan.Freeman.jpg" group-title="STAR+", A Historia de Deus com Morgan Freeman
-http://sandroflix.sandrostoreps3.workers.dev/series/A.HISTORIA.DE.DEUS.COM.MORGAN.FREEMAN.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/A.HISTORIA.DE.DEUS.COM.MORGAN.FREEMAN.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Agentes.do.FBI" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Agentes.do.FBI.jpg" group-title="STAR+", Agentes do FBI
-http://sandroflix.sandrostoreps3.workers.dev/series/AGENTES.DO.FBI.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/AGENTES.DO.FBI.m3u
 #EXTINF:-1 tvg-id="" tvg-name="AmericanCrimeStory" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/AmericanCrimeStory.png" group-title="STAR+", American Crime Story
-http://sandroflix.sandrostoreps3.workers.dev/series/AMERICAN.CRIME.STORY.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/AMERICAN.CRIME.STORY.m3u
 #EXTINF:-1 tvg-id="" tvg-name="AmericanHorrorStory" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/AmericanHorrorStory.png" group-title="STAR+", American Horror Story
-http://sandroflix.sandrostoreps3.workers.dev/series/AMERICAN.HORROR.STORY.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/AMERICAN.HORROR.STORY.m3u
 #EXTINF:-1 tvg-id="" tvg-name="As.Pequenas.Coisas.da.Vida" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/As.Pequenas.Coisas.da.Vida.jpg" group-title="STAR+", As Pequenas Coisas da Vida
-http://sandroflix.sandrostoreps3.workers.dev/series/AS.PEQUENAS.COISAS.DA.VIDA.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/AS.PEQUENAS.COISAS.DA.VIDA.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Assassinato.no.Fim.do.Mundo" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Assassinato.no.Fim.do.Mundo.jpg" group-title="STAR+", Assassinato no Fim do Mundo
-http://sandroflix.sandrostoreps3.workers.dev/series/ASSASSINATO.NO.FIM.DO.MUNDO.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/ASSASSINATO.NO.FIM.DO.MUNDO.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Bel-Air" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Bel-Air.jpg" group-title="STAR+", Bel-Air
-http://sandroflix.sandrostoreps3.workers.dev/series/BEL-AIR.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/BEL-AIR.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Britannia" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Britannia.jpg" group-title="STAR+", Britannia
-http://sandroflix.sandrostoreps3.workers.dev/series/BRITANNIA.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/BRITANNIA.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Candy.Uma.Historia.de.Paixao.e.Crime" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Candy.Uma.Historia.de.Paixao.e.Crime.jpg" group-title="STAR+", Candy Uma Historia de Paixao e Crime
-http://sandroflix.sandrostoreps3.workers.dev/series/CANDY.UMA.HISTORIA.DE.PAIXAO.E.CRIME.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/CANDY.UMA.HISTORIA.DE.PAIXAO.E.CRIME.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Devs" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Devs.jpg" group-title="STAR+", Devs
-http://sandroflix.sandrostoreps3.workers.dev/series/DEVS.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/DEVS.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Dopesick" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Dopesick.jpg" group-title="STAR+", Dopesick
-http://sandroflix.sandrostoreps3.workers.dev/series/DOPESICK.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/DOPESICK.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Em.Movimento" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Em.Movimento.jpg" group-title="STAR+", Em Movimento
-http://sandroflix.sandrostoreps3.workers.dev/series/EM.MOVIMENTO.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/EM.MOVIMENTO.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Estacao.19" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Estacao.19.jpg" group-title="STAR+", Estacao 19
-http://sandroflix.sandrostoreps3.workers.dev/series/ESTACAO.19.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/ESTACAO.19.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Extraordinaria" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Extraordinaria.jpg" group-title="STAR+", Extraordinaria
-http://sandroflix.sandrostoreps3.workers.dev/series/EXTRAORDINARIA.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/EXTRAORDINARIA.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Grid" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Grid.jpg" group-title="STAR+", Grid
-http://sandroflix.sandrostoreps3.workers.dev/series/GRID.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/GRID.m3u
 #EXTINF:-1 tvg-id="" tvg-name="How.To.Be.a.Carioca" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/How.To.Be.a.Carioca.jpg" group-title="STAR+", How To Be a Carioca
-http://sandroflix.sandrostoreps3.workers.dev/series/HOW.TO.BE.A.CARIOCA.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/HOW.TO.BE.A.CARIOCA.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Impuros" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Impuros.png" group-title="STAR+", Impuros
-http://sandroflix.sandrostoreps3.workers.dev/series/IMPUROS.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/IMPUROS.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Justified.Cidade.Primitiva" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Justified.Cidade.Primitiva.jpg" group-title="STAR+", Justified Cidade Primitiva
-http://sandroflix.sandrostoreps3.workers.dev/series/JUSTIFIED.CIDADE.PRIMITIVA.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/JUSTIFIED.CIDADE.PRIMITIVA.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Kindred.Segredos.e.Raizes" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Kindred.Segredos.e.Raizes.jpg" group-title="STAR+", Kindred Segredos e Raizes
-http://sandroflix.sandrostoreps3.workers.dev/series/KINDRED.SEGREDOS.E.RAIZES.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/KINDRED.SEGREDOS.E.RAIZES.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Mayans.M.C" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Mayans.M.C.jpg" group-title="STAR+", Mayans M.C
-http://sandroflix.sandrostoreps3.workers.dev/series/MAYANS.M.C.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/MAYANS.M.C.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Me.Chama.de.Bruna" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Me.Chama.de.Bruna.jpg" group-title="STAR+", Me Chama de Bruna
-http://sandroflix.sandrostoreps3.workers.dev/series/ME.CHAMA.DE.BRUNA.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/ME.CHAMA.DE.BRUNA.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Me.Conte.Mentiras" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Me.Conte.Mentiras.jpg" group-title="STAR+", Me Conte Mentiras
-http://sandroflix.sandrostoreps3.workers.dev/series/ME.CONTE.MENTIRAS.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/ME.CONTE.MENTIRAS.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Mike.Alem.de.Tyson" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Mike.Alem.de.Tyson.jpg" group-title="STAR+", Mike Alem de Tyson
-http://sandroflix.sandrostoreps3.workers.dev/series/MIKE.ALEM.DE.TYSON.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/MIKE.ALEM.DE.TYSON.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Mr.Inbetween" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Mr.Inbetween.jpg" group-title="STAR+", Mr Inbetween
-http://sandroflix.sandrostoreps3.workers.dev/series/MR.INBETWEEN.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/MR.INBETWEEN.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Munich.Games" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Munich.Games.jpg" group-title="STAR+", Munich Games
-http://sandroflix.sandrostoreps3.workers.dev/series/MUNICH.GAMES.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/MUNICH.GAMES.m3u
 #EXTINF:-1 tvg-id="" tvg-name="1contra-todos" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/ONLY.MURDER.jpg" group-title="STAR+", Only Murder
-http://sandroflix.sandrostoreps3.workers.dev/series/ONLY.MURDER.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/ONLY.MURDER.m3u
 #EXTINF:-1 tvg-id="" tvg-name="O.Paciente" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/O.Paciente.jpg" group-title="STAR+", O Paciente
-http://sandroflix.sandrostoreps3.workers.dev/series/O.PACIENTE.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/O.PACIENTE.m3u
 #EXTINF:-1 tvg-id="" tvg-name="O.Urso" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/O.Urso.jpg" group-title="STAR+", O Urso
-http://sandroflix.sandrostoreps3.workers.dev/series/O.URSO.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/O.URSO.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Outlander" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Outlander.jpg" group-title="STAR+", Outlander
-http://sandroflix.sandrostoreps3.workers.dev/series/OUTLANDER.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/OUTLANDER.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Pam.e.Tommy" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Pam.e.Tommy.jpg" group-title="STAR+", Pam e Tommy
-http://sandroflix.sandrostoreps3.workers.dev/series/PAM.E.TOMMY.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/PAM.E.TOMMY.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Reservation.Dogs" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Reservation.Dogs.jpg" group-title="STAR+", Reservation Dogs
-http://sandroflix.sandrostoreps3.workers.dev/series/RESERVATION.DOGS.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/RESERVATION.DOGS.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Revenge" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Revenge.jpg" group-title="STAR+", Revenge
-http://sandroflix.sandrostoreps3.workers.dev/series/REVENGE.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/REVENGE.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Salem" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Salem.jpg" group-title="STAR+", Salem
-http://sandroflix.sandrostoreps3.workers.dev/series/SALEM.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/SALEM.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Sons.Of.Anarchy" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Sons.Of.Anarchy.jpg" group-title="STAR+", Sons Of Anarchy
-http://sandroflix.sandrostoreps3.workers.dev/series/SONS.OF.ANARCHY.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/SONS.OF.ANARCHY.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Terapia.Alternativa" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Terapia.Alternativa.jpg" group-title="STAR+", Terapia Alternativa
-http://sandroflix.sandrostoreps3.workers.dev/series/TERAPIA.ALTERNATIVA.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/TERAPIA.ALTERNATIVA.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Terra.Nova" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Terra.Nova.jpg" group-title="STAR+", Terra Nova
-http://sandroflix.sandrostoreps3.workers.dev/series/TERRA.NOVA.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/TERRA.NOVA.m3u
 #EXTINF:-1 tvg-id="" tvg-name="The.Dropout" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/The.Dropout.jpg" group-title="STAR+", The Dropout
-http://sandroflix.sandrostoreps3.workers.dev/series/THE.DROPOUT.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/THE.DROPOUT.m3u
 #EXTINF:-1 tvg-id="" tvg-name="The.Kardashians" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/The.Kardashians.jpg" group-title="STAR+", The Kardashians
-http://sandroflix.sandrostoreps3.workers.dev/series/THE.KARDASHIANS.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/THE.KARDASHIANS.m3u
 #EXTINF:-1 tvg-id="" tvg-name="The.Old.Man" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/The.Old.Man.jpg" group-title="STAR+", The Old Man
-http://sandroflix.sandrostoreps3.workers.dev/series/THE.OLD.MAN.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/THE.OLD.MAN.m3u
 #EXTINF:-1 tvg-id="" tvg-name="The.Strain" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/The.Strain.jpg" group-title="STAR+", The Strain
-http://sandroflix.sandrostoreps3.workers.dev/series/THE.STRAIN.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/THE.STRAIN.m3u
 #EXTINF:-1 tvg-id="" tvg-name="TheWalkingDead" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/TheWalkingDead.png" group-title="STAR+", The Walking Dead
-http://sandroflix.sandrostoreps3.workers.dev/series/THE.WALKING.DEAD.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/THE.WALKING.DEAD.m3u
 #EXTINF:-1 tvg-id="" tvg-name="This.Is.US" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/This.Is.US.jpg" group-title="STAR+", This Is US
-http://sandroflix.sandrostoreps3.workers.dev/series/THIS.IS.US.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/THIS.IS.US.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Tom.Swift" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Tom.Swift.jpg" group-title="STAR+", Tom Swift
-http://sandroflix.sandrostoreps3.workers.dev/series/TOM.SWIFT.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/TOM.SWIFT.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Tyrant" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Tyrant.jpg" group-title="STAR+", Tyrant
-http://sandroflix.sandrostoreps3.workers.dev/series/TYRANT.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/TYRANT.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Vanderpump.Villa.Luxos.e.Segredos" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Vanderpump.Villa.Luxos.e.Segredos.jpg" group-title="STAR+", Vanderpump Villa Luxos e Segredos
-http://sandroflix.sandrostoreps3.workers.dev/series/VANDERPUMP.VILLA.LUXOS.E.SEGREDOS.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/VANDERPUMP.VILLA.LUXOS.E.SEGREDOS.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Wu-Tang.An.American.Saga" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Wu-Tang.An.American.Saga.jpg" group-title="STAR+", Wu-Tang An American Saga
-http://sandroflix.sandrostoreps3.workers.dev/series/WU-TANG.AN.AMERICAN.SAGA.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/WU-TANG.AN.AMERICAN.SAGA.m3u
 #EXTINF:-1 tvg-id="" tvg-name="1contra-todos" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/1contra-todos.png" group-title="NETFLIX", 1 Contra Todos
-http://sandroflix.sandrostoreps3.workers.dev/series/1.CONTRA.TODOS.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/1.CONTRA.TODOS.m3u
 #EXTINF:-1 tvg-id="" tvg-name="3.Toneladas.Assalto.ao.Banco.Central" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/3.Toneladas.Assalto.ao.Banco.Central.jpg" group-title="NETFLIX", 3 Toneladas Assalto ao Banco Central
-http://sandroflix.sandrostoreps3.workers.dev/series/3.TONELADAS.ASSALTO.AO.BANCO.CENTRAL.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/3.TONELADAS.ASSALTO.AO.BANCO.CENTRAL.m3u
 #EXTINF:-1 tvg-id="" tvg-name="A.Diplomata" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/A.Diplomata.jpg" group-title="NETFLIX", A Diplomata
-http://sandroflix.sandrostoreps3.workers.dev/series/A.DIPLOMATA.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/A.DIPLOMATA.m3u
 #EXTINF:-1 tvg-id="" tvg-name="A.Guerra.dos.Samurais" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/A.Guerra.dos.Samurais.jpg" group-title="NETFLIX", A Guerra dos Samurais
-http://sandroflix.sandrostoreps3.workers.dev/series/A.GUERRA.DOS.SAMURAIS.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/A.GUERRA.DOS.SAMURAIS.m3u
 #EXTINF:-1 tvg-id="" tvg-name="A.Herdeira" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/A.Herdeira.jpg" group-title="NETFLIX", A Herdeira
-http://sandroflix.sandrostoreps3.workers.dev/series/A.HERDEIRA.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/A.HERDEIRA.m3u
 #EXTINF:-1 tvg-id="" tvg-name="A.Killer.Paradox" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/A.Killer.Paradox.jpg" group-title="NETFLIX", A Killer Paradox
-http://sandroflix.sandrostoreps3.workers.dev/series/A.KILLER.PARADOX.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/A.KILLER.PARADOX.m3u
 #EXTINF:-1 tvg-id="" tvg-name="As.Leis.de.Lidia.Poet" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/As.Leis.de.Lidia.Poet.jpg" group-title="NETFLIX", As Leis de Lidia Poet
-http://sandroflix.sandrostoreps3.workers.dev/series/AS.LEIS.DE.LIDIA.POET.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/AS.LEIS.DE.LIDIA.POET.m3u
 #EXTINF:-1 tvg-id="" tvg-name="1contra-todos" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/A.LISTA.NEGRA.jpg" group-title="NETFLIX", A Lista Negra
-http://sandroflix.sandrostoreps3.workers.dev/series/A.LISTA.NEGRA.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/A.LISTA.NEGRA.m3u
 #EXTINF:-1 tvg-id="" tvg-name="A.Queda.da.Casa.de.Usher" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/A.Queda.da.Casa.de.Usher.jpg" group-title="NETFLIX", A Queda da Casa de Usher
-http://sandroflix.sandrostoreps3.workers.dev/series/A.QUEDA.DA.CASA.DE.USHER.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/A.QUEDA.DA.CASA.DE.USHER.m3u
 #EXTINF:-1 tvg-id="" tvg-name="A.Rainha.do.Sul" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/A.Rainha.do.Sul.jpg" group-title="NETFLIX", A Rainha do Sul
-http://sandroflix.sandrostoreps3.workers.dev/series/A.RAINHA.DO.SUL.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/A.RAINHA.DO.SUL.m3u
 #EXTINF:-1 tvg-id="" tvg-name="A-Rebeliao-Dos-Barbaros" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/A-Rebeliao-Dos-Barbaros.png" group-title="NETFLIX", A Rebeliao Dos Barbaros
-http://sandroflix.sandrostoreps3.workers.dev/series/A.REBELIAO.DOS.BARBAROS.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/A.REBELIAO.DOS.BARBAROS.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Bandidos.na.TV" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Bandidos.na.TV.jpg" group-title="NETFLIX", Bandidos na TV
-http://sandroflix.sandrostoreps3.workers.dev/series/BANDIDOS.NA.TV.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/BANDIDOS.NA.TV.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Bastidores.de.uma.Conspiracao" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Bastidores.de.uma.Conspiracao.jpg" group-title="NETFLIX", Bastidores de uma Conspiracao
-http://sandroflix.sandrostoreps3.workers.dev/series/BASTIDORES.DE.UMA.CONSPIRACAO.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/BASTIDORES.DE.UMA.CONSPIRACAO.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Bem.vindos.ao.Eden" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Bem-vindos.ao.Eden.jpg" group-title="NETFLIX", Bem vindos ao Eden
-http://sandroflix.sandrostoreps3.workers.dev/series/BEM-VINDOS.AO.EDEN.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/BEM-VINDOS.AO.EDEN.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Black Mirror" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/BlackMirror.png" group-title="NETFLIX", Black Mirror
-http://sandroflix.sandrostoreps3.workers.dev/series/BLACK.MIRROR.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/BLACK.MIRROR.m3u
 #EXTINF:-1 tvg-id="" tvg-name="BreakingBad" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/BreakingBad.png" group-title="NETFLIX", Breaking Bad
-http://sandroflix.sandrostoreps3.workers.dev/series/BREAKING.BAD.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/BREAKING.BAD.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Bridgerton" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Bridgerton.png" group-title="NETFLIX", Bridgerton
-http://sandroflix.sandrostoreps3.workers.dev/series/BRIDGERTON.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/BRIDGERTON.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Brincando.com.Fogo.Brasil" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Brincando.com.Fogo.Brasil.jpg" group-title="NETFLIX", Brincando com Fogo Brasil
-http://sandroflix.sandrostoreps3.workers.dev/series/BRINCANDO.COM.FOGO.BRASIL.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/BRINCANDO.COM.FOGO.BRASIL.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Brooklyn.Nine.Nine" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Brooklyn.Nine.Nine.jpg" group-title="NETFLIX", Brooklyn Nine Nine
-http://sandroflix.sandrostoreps3.workers.dev/series/BROOKLYN.NINE.NINE.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/BROOKLYN.NINE.NINE.m3u
 #EXTINF:-1 tvg-id="" tvg-name="CidadeInvisivel" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/CidadeInvisivel.png" group-title="NETFLIX", Cidade Invisivel
-http://sandroflix.sandrostoreps3.workers.dev/series/CIDADE.INVISIVEL.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/CIDADE.INVISIVEL.m3u
 #EXTINF:-1 tvg-id="" tvg-name="CobraKai" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/CobraKai.png" group-title="NETFLIX", Cobra Kai
-http://sandroflix.sandrostoreps3.workers.dev/series/COBRA.KAI.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/COBRA.KAI.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Colin.em.Preto.e.Branco" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Colin.em.Preto.e.Branco.jpg" group-title="NETFLIX", Colin em Preto e Branco
-http://sandroflix.sandrostoreps3.workers.dev/series/COLIN.-.EM.PRETO.E.BRANCO.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/COLIN.-.EM.PRETO.E.BRANCO.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Coracao.Marcado" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Coracao.Marcado.jpg" group-title="NETFLIX", Coracao Marcado
-http://sandroflix.sandrostoreps3.workers.dev/series/CORACAO.MARCADO.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/CORACAO.MARCADO.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Corpo.em.Chamas" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Corpo.em.Chamas.jpg" group-title="NETFLIX", Corpo em Chamas
-http://sandroflix.sandrostoreps3.workers.dev/series/CORPO.EM.CHAMAS.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/CORPO.EM.CHAMAS.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Cursed.-.A.Lenda.do.Lago" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Cursed.-.A.Lenda.do.Lago.jpg" group-title="NETFLIX", Cursed A Lenda do Lago
-http://sandroflix.sandrostoreps3.workers.dev/series/CURSED.-.A.LENDA.DO.LAGO.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/CURSED.-.A.LENDA.DO.LAGO.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Dark" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Dark.jpg" group-title="NETFLIX", Dark
-http://sandroflix.sandrostoreps3.workers.dev/series/DARK.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/DARK.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Depois.da.Cabana" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Depois.da.Cabana.jpg" group-title="NETFLIX", Depois da Cabana
-http://sandroflix.sandrostoreps3.workers.dev/series/DEPOIS.DA.CABANA.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/DEPOIS.DA.CABANA.m3u
 #EXTINF:-1 tvg-id="" tvg-name="1contra-todos" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/DEMOLIDOR.jpg" group-title="NETFLIX", Demolidor
-http://sandroflix.sandrostoreps3.workers.dev/series/DEMOLIDOR.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/DEMOLIDOR.m3u
 #EXTINF:-1 tvg-id="" tvg-name="DesejoSombrio" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/DesejoSombrio.png" group-title="NETFLIX", Desejo Sombrio
-http://sandroflix.sandrostoreps3.workers.dev/series/DESEJO.SOMBRIO.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/DESEJO.SOMBRIO.m3u
 #EXTINF:-1 tvg-id="" tvg-name="DNA.do.Crime" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/DNA.do.Crime.jpg" group-title="NETFLIX", DNA do Crime
-http://sandroflix.sandrostoreps3.workers.dev/series/DNA.DO.CRIME.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/DNA.DO.CRIME.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Elite" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Elite.png" group-title="NETFLIX", Elite
-http://sandroflix.sandrostoreps3.workers.dev/series/ELITE.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/ELITE.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Entrevias" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Entrevias.jpg" group-title="NETFLIX", Entrevias
-http://sandroflix.sandrostoreps3.workers.dev/series/ENTREVIAS.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/ENTREVIAS.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Eu.Nunca" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Eu.Nunca.jpg" group-title="NETFLIX", Eu Nunca
-http://sandroflix.sandrostoreps3.workers.dev/series/EU.NUNCA.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/EU.NUNCA.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Explosivos" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Explosivos.jpg" group-title="NETFLIX", Explosivos
-http://sandroflix.sandrostoreps3.workers.dev/series/EXPLOSIVOS.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/EXPLOSIVOS.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Fate.A.Saga.Winx" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Fate.A.Saga.Winx.jpg" group-title="NETFLIX", Fate A Saga Winx
-http://sandroflix.sandrostoreps3.workers.dev/series/FATE.A.SAGA.WINX.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/FATE.A.SAGA.WINX.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Fogo.Ardente" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Fogo.Ardente.jpg" group-title="NETFLIX", Fogo Ardente
-http://sandroflix.sandrostoreps3.workers.dev/series/FOGO.ARDENTE.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/FOGO.ARDENTE.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Ginny.e.Georgia" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Ginny.e.Georgia.jpg" group-title="NETFLIX", Ginny e Georgia
-http://sandroflix.sandrostoreps3.workers.dev/series/GINNY.E.GEORGIA.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/GINNY.E.GEORGIA.m3u
 #EXTINF:-1 tvg-id="" tvg-name="GreysAnatomy" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/GreysAnatomy.png" group-title="NETFLIX", Greys Anatomy
-http://sandroflix.sandrostoreps3.workers.dev/series/GREYS.ANATOMY.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/GREYS.ANATOMY.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Griselda" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Griselda.jpg" group-title="NETFLIX", Griselda
-http://sandroflix.sandrostoreps3.workers.dev/series/GRISELDA.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/GRISELDA.m3u
 #EXTINF:-1 tvg-id="" tvg-name="House.Of.Cards" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/House.Of.Cards.jpg" group-title="NETFLIX", House Of Cards
-http://sandroflix.sandrostoreps3.workers.dev/series/HOUSE.OF.CARDS.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/HOUSE.OF.CARDS.m3u
 #EXTINF:-1 tvg-id="" tvg-name="House.of.Ninjas" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/House.of.Ninjas.jpg" group-title="NETFLIX", House of Ninjas
-http://sandroflix.sandrostoreps3.workers.dev/series/HOUSE.OF.NINJAS.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/HOUSE.OF.NINJAS.m3u
 #EXTINF:-1 tvg-id="" tvg-name="How.To.Get.Away.With.Murder" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/How.To.Get.Away.With.Murder.jpg" group-title="NETFLIX", How To Get Away With Murder
-http://sandroflix.sandrostoreps3.workers.dev/series/HOW.TO.GET.AWAY.WITH.MURDER.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/HOW.TO.GET.AWAY.WITH.MURDER.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Imperfeitos" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Imperfeitos.jpg" group-title="NETFLIX", Imperfeitos
-http://sandroflix.sandrostoreps3.workers.dev/series/IMPERFEITOS.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/IMPERFEITOS.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Irmaos-de-Guerra" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Irmaos-de-Guerra.png" group-title="NETFLIX", Irmaos de Guerra
-http://sandroflix.sandrostoreps3.workers.dev/series/IRMAOS.DE.GUERRA.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/IRMAOS.DE.GUERRA.m3u
 #EXTINF:-1 tvg-id="" tvg-name="1contra-todos" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/IRMANDADE.jpg" group-title="NETFLIX", Irmandade
-http://sandroflix.sandrostoreps3.workers.dev/series/IRMANDADE.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/IRMANDADE.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Kubra" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Kubra.jpg" group-title="NETFLIX", Kubra
-http://sandroflix.sandrostoreps3.workers.dev/series/KUBRA.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/KUBRA.m3u
 #EXTINF:-1 tvg-id="" tvg-name="LaCasadePapel" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/LaCasadePapel.png" group-title="NETFLIX", La Casade Papel
-http://sandroflix.sandrostoreps3.workers.dev/series/LA.CASA.DE.PAPEL.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/LA.CASA.DE.PAPEL.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Legion" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Legion.jpg" group-title="NETFLIX", Legion
-http://sandroflix.sandrostoreps3.workers.dev/series/LEGION.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/LEGION.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Lockwood.e.Co" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Lockwood.e.Co.jpg" group-title="NETFLIX", Lockwood e Co
-http://sandroflix.sandrostoreps3.workers.dev/series/LOCKWOOD.E.CO.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/LOCKWOOD.E.CO.m3u
 #EXTINF:-1 tvg-id="" tvg-name="1contra-todos" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/LUCIFER.jpg" group-title="NETFLIX", Lucifer
-http://sandroflix.sandrostoreps3.workers.dev/series/LUCIFER.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/LUCIFER.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Magnatas.do.Crime" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Magnatas.do.Crime.jpg" group-title="NETFLIX", Magnatas do Crime
-http://sandroflix.sandrostoreps3.workers.dev/series/MAGNATAS.DO.CRIME.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/MAGNATAS.DO.CRIME.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Manifest" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Manifest.jpg" group-title="NETFLIX", Manifest
-http://sandroflix.sandrostoreps3.workers.dev/series/MANIFEST.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/MANIFEST.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Monarca" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Monarca.jpg" group-title="NETFLIX", Monarca
-http://sandroflix.sandrostoreps3.workers.dev/series/MONARCA.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/MONARCA.m3u
 #EXTINF:-1 tvg-id="" tvg-name="NewAmsterdam" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/NewAmsterdam.png" group-title="NETFLIX", New Amsterdam
-http://sandroflix.sandrostoreps3.workers.dev/series/NEW.AMSTERDAM.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/NEW.AMSTERDAM.m3u
 #EXTINF:-1 tvg-id="" tvg-name="O.Agente.Noturno" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/O.Agente.Noturno.jpg" group-title="NETFLIX", O Agente Noturno
-http://sandroflix.sandrostoreps3.workers.dev/series/O.AGENTE.NORTUNO.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/O.AGENTE.NORTUNO.m3u
 #EXTINF:-1 tvg-id="" tvg-name="O-Atirador" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/O-Atirador.png" group-title="NETFLIX", O Atirador
-http://sandroflix.sandrostoreps3.workers.dev/series/O.ATIRADOR.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/O.ATIRADOR.m3u
 #EXTINF:-1 tvg-id="" tvg-name="O.Escolhido" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/O.Escolhido.jpg" group-title="NETFLIX", O Escolhido
-http://sandroflix.sandrostoreps3.workers.dev/series/O.ESCOLHIDO.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/O.ESCOLHIDO.m3u
 #EXTINF:-1 tvg-id="" tvg-name="O.Famoso.Alfaiate" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/O.Famoso.Alfaiate.jpg" group-title="NETFLIX", O Famoso Alfaiate
-http://sandroflix.sandrostoreps3.workers.dev/series/O.FAMOSO.ALFAIATE.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/O.FAMOSO.ALFAIATE.m3u
 #EXTINF:-1 tvg-id="" tvg-name="O.Mecanismo" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/O.Mecanismo.jpg" group-title="NETFLIX", O Mecanismo
-http://sandroflix.sandrostoreps3.workers.dev/series/O.MECANISMO.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/O.MECANISMO.m3u
 #EXTINF:-1 tvg-id="" tvg-name="thelastofus" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/onepiece.jpg" group-title="NETFLIX", One Piece
-http://sandroflix.sandrostoreps3.workers.dev/series/ONE.PIECE.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/ONE.PIECE.m3u
 #EXTINF:-1 tvg-id="" tvg-name="O.Problema.dos.3.Corpos" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/O.Problema.dos.3.Corpos.jpg" group-title="NETFLIX", O Problema dos 3 Corpos
-http://sandroflix.sandrostoreps3.workers.dev/series/O.PROBLEMA.DOS.3.CORPOS.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/O.PROBLEMA.DOS.3.CORPOS.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Orange.Is.The.New.Black" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Orange.Is.The.New.Black.jpg" group-title="NETFLIX", Orange Is The New Black
-http://sandroflix.sandrostoreps3.workers.dev/series/ORANGE.IS.THE.NEW.BLACK.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/ORANGE.IS.THE.NEW.BLACK.m3u
 #EXTINF:-1 tvg-id="" tvg-name="O.Sinal" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/O.Sinal.jpg" group-title="NETFLIX", O Sinal
-http://sandroflix.sandrostoreps3.workers.dev/series/O.SINAL.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/O.SINAL.m3u
 #EXTINF:-1 tvg-id="" tvg-name="O-ultimo-reino" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/O-ultimo-reino.png" group-title="NETFLIX", O Ultimo Reino
-http://sandroflix.sandrostoreps3.workers.dev/series/O.ULTIMO.REINO.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/O.ULTIMO.REINO.m3u
 #EXTINF:-1 tvg-id="" tvg-name="OuterBanks" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/OuterBanks.png" group-title="NETFLIX", Outer Banks
-http://sandroflix.sandrostoreps3.workers.dev/series/OUTER.BANKS.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/OUTER.BANKS.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Ozark" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Ozark.jpg" group-title="NETFLIX", Ozark
-http://sandroflix.sandrostoreps3.workers.dev/series/OZARK.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/OZARK.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Parasyte.The.Grey" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Parasyte.The.Grey.jpg" group-title="NETFLIX", Parasyte The Grey
-http://sandroflix.sandrostoreps3.workers.dev/series/PARASYTE.THE.GREY.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/PARASYTE.THE.GREY.m3u
 #EXTINF:-1 tvg-id="" tvg-name="1contra-todos" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/PEAKY.BLINDERS.jpg" group-title="NETFLIX", Peaky Blinders
-http://sandroflix.sandrostoreps3.workers.dev/series/PEAKY.BLINDERS.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/PEAKY.BLINDERS.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Perfil.Falso" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Perfil.Falso.jpg" group-title="NETFLIX", Perfil Falso
-http://sandroflix.sandrostoreps3.workers.dev/series/PERFIL.FALSO.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/PERFIL.FALSO.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Ponto.Final" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Ponto.Final.jpg" group-title="NETFLIX", Ponto Final
-http://sandroflix.sandrostoreps3.workers.dev/series/PONTO.FINAL.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/PONTO.FINAL.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Quem.e.Erin.Carter" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Quem.e.Erin.Carter.jpg" group-title="NETFLIX", Quem e Erin Carter
-http://sandroflix.sandrostoreps3.workers.dev/series/QUEM.E.ERIN.CARTER.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/QUEM.E.ERIN.CARTER.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Ragnarok" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Ragnarok.jpg" group-title="NETFLIX", Ragnarok
-http://sandroflix.sandrostoreps3.workers.dev/series/RAGNAROK.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/RAGNAROK.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Ripley" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Ripley.jpg" group-title="NETFLIX", Ripley
-http://sandroflix.sandrostoreps3.workers.dev/series/RIPLEY.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/RIPLEY.m3u
 #EXTINF:-1 tvg-id="" tvg-name="1contra-todos" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/ROUND.6.jpg" group-title="NETFLIX", Round 6
-http://sandroflix.sandrostoreps3.workers.dev/series/ROUND.6.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/ROUND.6.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Sense8" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Sense8.png" group-title="NETFLIX", Sense 8
-http://sandroflix.sandrostoreps3.workers.dev/series/SENSE.8.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/SENSE.8.m3u
 #EXTINF:-1 tvg-id="" tvg-name="1contra-todos" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/SINTONIA.jpg" group-title="NETFLIX", Sintonia
-http://sandroflix.sandrostoreps3.workers.dev/series/SINTONIA.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/SINTONIA.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Shadowhunters.Instrumentos.Mortais" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Shadowhunters.Instrumentos.Mortais.jpg" group-title="NETFLIX", Shadowhunters Instrumentos Mortais
-http://sandroflix.sandrostoreps3.workers.dev/series/SHADOWHUNTERS.INSTRUMENTOS.MORTAIS.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/SHADOWHUNTERS.INSTRUMENTOS.MORTAIS.m3u
 #EXTINF:-1 tvg-id="" tvg-name="SobreviventeDesignado" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/SobreviventeDesignado.png" group-title="NETFLIX", Sobrevivente Designado
-http://sandroflix.sandrostoreps3.workers.dev/series/SOBREVIVENTE.DESIGNADO.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/SOBREVIVENTE.DESIGNADO.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Sombra.e.Ossos" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Sombra.e.Ossos.jpg" group-title="NETFLIX", Sombra e Ossos
-http://sandroflix.sandrostoreps3.workers.dev/series/SOMBRA.E.OSSOS.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/SOMBRA.E.OSSOS.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Stranger.Things" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Stranger.Things.jpg" group-title="NETFLIX", Stranger Things
-http://sandroflix.sandrostoreps3.workers.dev/series/STRANGER.THINGS.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/STRANGER.THINGS.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Suits" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Suits.jpg" group-title="NETFLIX", Suits
-http://sandroflix.sandrostoreps3.workers.dev/series/SUITS.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/SUITS.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Sweet.Tooth" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Sweet.Tooth.jpg" group-title="NETFLIX", Sweet Tooth
-http://sandroflix.sandrostoreps3.workers.dev/series/SWEET.TOOTH.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/SWEET.TOOTH.m3u
 #EXTINF:-1 tvg-id="" tvg-name="The-100" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/The-100.png" group-title="NETFLIX", The 100
-http://sandroflix.sandrostoreps3.workers.dev/series/THE.100.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/THE.100.m3u
 #EXTINF:-1 tvg-id="" tvg-name="The-Boys" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/The-Boys.png" group-title="NETFLIX", The Boys
-http://sandroflix.sandrostoreps3.workers.dev/series/THE.BOYS.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/THE.BOYS.m3u
 #EXTINF:-1 tvg-id="" tvg-name="thelastofus" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/thechosen.jpg" group-title="NETFLIX", The Chosen
-http://sandroflix.sandrostoreps3.workers.dev/series/THE.CHOSEN.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/THE.CHOSEN.m3u
 #EXTINF:-1 tvg-id="" tvg-name="The.Crown" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/The.Crown.jpg" group-title="NETFLIX", The Crown
-http://sandroflix.sandrostoreps3.workers.dev/series/THE.CROWN.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/THE.CROWN.m3u
 #EXTINF:-1 tvg-id="" tvg-name="TheFlash" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/TheFlash.png" group-title="NETFLIX", The Flash
-http://sandroflix.sandrostoreps3.workers.dev/series/THE.FLASH.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/THE.FLASH.m3u
 #EXTINF:-1 tvg-id="" tvg-name="The.Last.Kingdom" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/The.Last.Kingdom.jpg" group-title="NETFLIX", The Last Kingdom
-http://sandroflix.sandrostoreps3.workers.dev/series/THE.LAST.KINGDOM.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/THE.LAST.KINGDOM.m3u
 #EXTINF:-1 tvg-id="" tvg-name="1contra-todos" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/THE.RAIN.jpg" group-title="NETFLIX", The Rain
-http://sandroflix.sandrostoreps3.workers.dev/series/THE.RAIN.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/THE.RAIN.m3u
 #EXTINF:-1 tvg-id="" tvg-name="The.Sandman" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/The.Sandman.jpg" group-title="NETFLIX", The Sandman
-http://sandroflix.sandrostoreps3.workers.dev/series/THE.SANDMAN.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/THE.SANDMAN.m3u
 #EXTINF:-1 tvg-id="" tvg-name="The.Umbrella.Academy" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/The.Umbrella.Academy.jpg" group-title="NETFLIX", The Umbrella Academy
-http://sandroflix.sandrostoreps3.workers.dev/series/THE.UMBRELLA.ACADEMY.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/THE.UMBRELLA.ACADEMY.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Turbulencias.de.Verao" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Turbulencias.de.Verao.jpg" group-title="NETFLIX", Turbulencias de Verao
-http://sandroflix.sandrostoreps3.workers.dev/series/TURBULENCIAS.DE.VERAO.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/TURBULENCIAS.DE.VERAO.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Um.Dia" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Um.Dia.jpg" group-title="NETFLIX", Um Dia
-http://sandroflix.sandrostoreps3.workers.dev/series/UM.DIA.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/UM.DIA.m3u
 #EXTINF:-1 tvg-id="" tvg-name="van-helsing" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/van-helsing.png" group-title="NETFLIX", Van Helsing
-http://sandroflix.sandrostoreps3.workers.dev/series/VAN.HELSING.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/VAN.HELSING.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Vikings" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Vikings.png" group-title="NETFLIX", Vikings
-http://sandroflix.sandrostoreps3.workers.dev/series/VIKINGS.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/VIKINGS.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Virgin.River" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Virgin.River.jpg" group-title="NETFLIX", Virgin River
-http://sandroflix.sandrostoreps3.workers.dev/series/VIRGIN.RIVER.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/VIRGIN.RIVER.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Vis.a.vis" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Vis.a.vis.jpg" group-title="NETFLIX", Vis a vis
-http://sandroflix.sandrostoreps3.workers.dev/series/VIS.A.VIS.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/VIS.A.VIS.m3u
 #EXTINF:-1 tvg-id="" tvg-name="voce" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/voce.png" group-title="NETFLIX", Voce-You
-http://sandroflix.sandrostoreps3.workers.dev/series/VOCE.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/VOCE.m3u
 #EXTINF:-1 tvg-id="" tvg-name="thelastofus" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/wandinha.jpg" group-title="NETFLIX", Wandinha
-http://sandroflix.sandrostoreps3.workers.dev/series/WANDINHA.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/WANDINHA.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Yellowjackets" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Yellowjackets.jpg" group-title="NETFLIX", Yellowjackets
-http://sandroflix.sandrostoreps3.workers.dev/series/YELLOWJACKETS.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/YELLOWJACKETS.m3u
 #EXTINF:-1 tvg-id="" tvg-name="ZNation" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/ZNation.png" group-title="NETFLIX", ZNation
-http://sandroflix.sandrostoreps3.workers.dev/series/ZNATION.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/ZNATION.m3u
 #EXTINF:-1 tvg-id="" tvg-name="A.Lista.Terminal" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/A.Lista.Terminal.jpg" group-title="AMAZON PRIME VIDEO", A Lista Terminal
-http://sandroflix.sandrostoreps3.workers.dev/series/A.LISTA.TERMINAL.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/A.LISTA.TERMINAL.m3u
 #EXTINF:-1 tvg-id="" tvg-name="A.Roda.do.Tempo" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/A.Roda.do.Tempo.jpg" group-title="AMAZON PRIME VIDEO", A Roda do Tempo
-http://sandroflix.sandrostoreps3.workers.dev/series/A.RODA.DO.TEMPO.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/A.RODA.DO.TEMPO.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Alem.da.Margem" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Alem.da.Margem.jpg" group-title="AMAZON PRIME VIDEO", Alem da Margem
-http://sandroflix.sandrostoreps3.workers.dev/series/ALEM.DA.MARGEM.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/ALEM.DA.MARGEM.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Amor.Moderno" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Amor.Moderno.jpg" group-title="AMAZON PRIME VIDEO", Amor Moderno
-http://sandroflix.sandrostoreps3.workers.dev/series/AMOR.MODERNO.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/AMOR.MODERNO.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Anatomia.do.Crime" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Anatomia.do.Crime.jpg" group-title="AMAZON PRIME VIDEO", Anatomia do Crime
-http://sandroflix.sandrostoreps3.workers.dev/series/ANATOMIA.DO.CRIME.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/ANATOMIA.DO.CRIME.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Battlestar.Galactica" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Battlestar.Galactica.jpg" group-title="AMAZON PRIME VIDEO", Battlestar Galactica
-http://sandroflix.sandrostoreps3.workers.dev/series/BATTLESTAR.GALACTICA.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/BATTLESTAR.GALACTICA.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Belas.Maldicoes" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Belas.Maldicoes.jpg" group-title="AMAZON PRIME VIDEO", Belas Maldicoes
-http://sandroflix.sandrostoreps3.workers.dev/series/BELAS.MALDICOES.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/BELAS.MALDICOES.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Cangaco.Novo" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Cangaco.Novo.jpg" group-title="AMAZON PRIME VIDEO", Cangaco Novo
-http://sandroflix.sandrostoreps3.workers.dev/series/CANGACO.NOVO.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/CANGACO.NOVO.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Carnival_Row" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Carnival_Row.jpg" group-title="AMAZON PRIME VIDEO", Carnival Row
-http://sandroflix.sandrostoreps3.workers.dev/series/CARNIVAL.ROW.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/CARNIVAL.ROW.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Citadel" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Citadel.jpg" group-title="AMAZON PRIME VIDEO", Citadel
-http://sandroflix.sandrostoreps3.workers.dev/series/CITADEL.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/CITADEL.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Cruel.Summer" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Cruel.Summer.jpg" group-title="AMAZON PRIME VIDEO", Cruel Summer
-http://sandroflix.sandrostoreps3.workers.dev/series/CRUEL.SUMMER.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/CRUEL.SUMMER.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Daisy.Jones.e.The.Six" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Daisy.Jones.e.The.Six.jpg" group-title="AMAZON PRIME VIDEO", Daisy Jones e The Six
-http://sandroflix.sandrostoreps3.workers.dev/series/DAISY.JONES.E.THE.SIX.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/DAISY.JONES.E.THE.SIX.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Deuses.Americanos" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Deuses.Americanos.jpg" group-title="AMAZON PRIME VIDEO", Deuses Americanos
-http://sandroflix.sandrostoreps3.workers.dev/series/DEUSES.AMERICANOS.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/DEUSES.AMERICANOS.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Diarios.de.um.Vampiro" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Diarios.de.um.Vampiro.jpg" group-title="AMAZON PRIME VIDEO", Diarios de um Vampiro
-http://sandroflix.sandrostoreps3.workers.dev/series/DIARIOS.DE.UM.VAMPIRO.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/DIARIOS.DE.UM.VAMPIRO.m3u
 #EXTINF:-1 tvg-id="" tvg-name="DOC.Uma.Nova.Vida" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/DOC.Uma.Nova.Vida.jpg" group-title="AMAZON PRIME VIDEO", DOC Uma Nova Vida
-http://sandroflix.sandrostoreps3.workers.dev/series/DOC.UMA.NOVA.VIDA.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/DOC.UMA.NOVA.VIDA.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Enxame" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Enxame.jpg" group-title="AMAZON PRIME VIDEO", Enxame
-http://sandroflix.sandrostoreps3.workers.dev/series/ENXAME.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/ENXAME.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Eu.Sei.o.Que.Voces.Fizeram.no.Verao.Passado" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Eu.Sei.o.Que.Voces.Fizeram.no.Verao.Passado.jpg" group-title="AMAZON PRIME VIDEO", Eu Sei o Que Voces Fizeram no Verao Passado
-http://sandroflix.sandrostoreps3.workers.dev/series/EU.SEI.O.QUE.VOCES.FIZERAM.NO.VERAO.PASSADO.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/EU.SEI.O.QUE.VOCES.FIZERAM.NO.VERAO.PASSADO.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Fallout" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Fallout.jpg" group-title="AMAZON PRIME VIDEO", Fallout
-http://sandroflix.sandrostoreps3.workers.dev/series/FALLOUT.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/FALLOUT.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Fear.the.Walking.Dead" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Fear.the.Walking.Dead.jpg" group-title="AMAZON PRIME VIDEO", Fear the Walking Dead
-http://sandroflix.sandrostoreps3.workers.dev/series/FEAR.THE.WALKING.DEAD.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/FEAR.THE.WALKING.DEAD.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Gen.V" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Gen.V.jpg" group-title="AMAZON PRIME VIDEO", Gen V
-http://sandroflix.sandrostoreps3.workers.dev/series/GEN.V.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/GEN.V.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Hanna" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Hanna.jpg" group-title="AMAZON PRIME VIDEO", Hanna
-http://sandroflix.sandrostoreps3.workers.dev/series/HANNA.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/HANNA.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Hannibal" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Hannibal.jpg" group-title="AMAZON PRIME VIDEO", Hannibal
-http://sandroflix.sandrostoreps3.workers.dev/series/HANNIBAL.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/HANNIBAL.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Homens" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Homens.jpg" group-title="AMAZON PRIME VIDEO", Homens
-http://sandroflix.sandrostoreps3.workers.dev/series/HOMENS.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/HOMENS.m3u
 #EXTINF:-1 tvg-id="" tvg-name="1contra-todos" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/HOMENS.DE.TERNO.jpg" group-title="AMAZON PRIME VIDEO", Homens de Terno
-http://sandroflix.sandrostoreps3.workers.dev/series/HOMENS.DE.TERNO.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/HOMENS.DE.TERNO.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Jornada.nas.Estrelas.Picard" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Jornada.nas.Estrelas.Picard.jpg" group-title="AMAZON PRIME VIDEO", Jornada nas Estrelas Picard
-http://sandroflix.sandrostoreps3.workers.dev/series/JORNADA.NAS.ESTRELAS.PICARD.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/JORNADA.NAS.ESTRELAS.PICARD.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Negociador" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Negociador.jpg" group-title="AMAZON PRIME VIDEO", Negociador
-http://sandroflix.sandrostoreps3.workers.dev/series/NEGOCIADOR.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/NEGOCIADOR.m3u
 #EXTINF:-1 tvg-id="" tvg-name="thelastofus" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/o.circulo.secreto.jpg" group-title="AMAZON PRIME VIDEO", O Circulo Secreto
-http://sandroflix.sandrostoreps3.workers.dev/series/O.CIRCULO.SECRETO.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/O.CIRCULO.SECRETO.m3u
 #EXTINF:-1 tvg-id="" tvg-name="O.Exorcista" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/O.Exorcista.jpg" group-title="AMAZON PRIME VIDEO", O Exorcista
-http://sandroflix.sandrostoreps3.workers.dev/series/O.EXORCISTA.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/O.EXORCISTA.m3u
 #EXTINF:-1 tvg-id="" tvg-name="O.Internato.Las.Cumbres" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/O.Internato.Las.Cumbres.jpg" group-title="AMAZON PRIME VIDEO", O Internato Las Cumbres
-http://sandroflix.sandrostoreps3.workers.dev/series/O.INTERNATO.LAS.CUMBRES.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/O.INTERNATO.LAS.CUMBRES.m3u
 #EXTINF:-1 tvg-id="" tvg-name="O.Negociador" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/O.Negociador.jpg" group-title="AMAZON PRIME VIDEO", O Negociador
-http://sandroflix.sandrostoreps3.workers.dev/series/O.NEGOCIADOR.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/O.NEGOCIADOR.m3u
 #EXTINF:-1 tvg-id="" tvg-name="O.Verao.Que.Mudou.Minha.Vida" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/O.Verao.Que.Mudou.Minha.Vida.jpg" group-title="AMAZON PRIME VIDEO", O Verao Que Mudou Minha Vida
-http://sandroflix.sandrostoreps3.workers.dev/series/O.VERAO.QUE.MUDOU.MINHA.VIDA.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/O.VERAO.QUE.MUDOU.MINHA.VIDA.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Paper.Girls" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Paper.Girls.jpg" group-title="AMAZON PRIME VIDEO", Paper Girls
-http://sandroflix.sandrostoreps3.workers.dev/series/PAPER.GIRLS.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/PAPER.GIRLS.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Perifericos" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Perifericos.jpg" group-title="AMAZON PRIME VIDEO", Perifericos
-http://sandroflix.sandrostoreps3.workers.dev/series/PERIFERICOS.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/PERIFERICOS.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Preacher" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Preacher.jpg" group-title="AMAZON PRIME VIDEO", Preacher
-http://sandroflix.sandrostoreps3.workers.dev/series/PREACHER.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/PREACHER.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Reacher" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Reacher.jpg" group-title="AMAZON PRIME VIDEO", Reacher
-http://sandroflix.sandrostoreps3.workers.dev/series/REACHER.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/REACHER.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Refugio" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Refugio.jpg" group-title="AMAZON PRIME VIDEO", Refugio
-http://sandroflix.sandrostoreps3.workers.dev/series/REFUGIO.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/REFUGIO.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Sem.Limites" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Sem.Limites.jpg" group-title="AMAZON PRIME VIDEO", Sem Limites
-http://sandroflix.sandrostoreps3.workers.dev/series/SEM.LIMITES.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/SEM.LIMITES.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Sherlock" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Sherlock.jpg" group-title="AMAZON PRIME VIDEO", Sherlock
-http://sandroflix.sandrostoreps3.workers.dev/series/SHERLOCK.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/SHERLOCK.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Sr.e.Sra.Smith" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Sr.e.Sra.Smith.jpg" group-title="AMAZON PRIME VIDEO", Sr. e Sra. Smith
-http://sandroflix.sandrostoreps3.workers.dev/series/SR.E.SRA.SMITH.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/SR.E.SRA.SMITH.m3u
 #EXTINF:-1 tvg-id="" tvg-name="The.Walking.Dead.Um.Novo.Universo" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/The.Walking.Dead.Um.Novo.Universo.jpg" group-title="AMAZON PRIME VIDEO", The Walking Dead Um Novo Universo
-http://sandroflix.sandrostoreps3.workers.dev/series/THE.WALKING.DEAD.UM.NOVO.UNIVERSO.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/THE.WALKING.DEAD.UM.NOVO.UNIVERSO.m3u
 #EXTINF:-1 tvg-id="" tvg-name="The.Wilds.Vidas.Selvagens" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/The.Wilds.Vidas.Selvagens.jpg" group-title="AMAZON PRIME VIDEO", The Wilds Vidas Selvagens
-http://sandroflix.sandrostoreps3.workers.dev/series/THE.WILDS.VIDAS.SELVAGENS.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/THE.WILDS.VIDAS.SELVAGENS.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Uma.Equipe.Muito.Especial" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Uma.Equipe.Muito.Especial.jpg" group-title="AMAZON PRIME VIDEO", Uma Equipe Muito Especial
-http://sandroflix.sandrostoreps3.workers.dev/series/UMA.EQUIPE.MUITO.ESPECIAL.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/UMA.EQUIPE.MUITO.ESPECIAL.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Upload" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Upload.jpg" group-title="AMAZON PRIME VIDEO", Upload
-http://sandroflix.sandrostoreps3.workers.dev/series/UPLOAD.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/UPLOAD.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Zorro" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Zorro.jpg" group-title="AMAZON PRIME VIDEO", Zorro
-http://sandroflix.sandrostoreps3.workers.dev/series/ZORRO.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/ZORRO.m3u
 #EXTINF:-1 tvg-id="" tvg-name="thelastofus" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/historias.maravilhosas.jpg" group-title="APPLE TV", Historias Maravilhosas
-http://sandroflix.sandrostoreps3.workers.dev/series/HISTORIAS.MARAVILHOSAS.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/HISTORIAS.MARAVILHOSAS.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Smallville" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Smallville.png" group-title="APPLE TV", Smallville
-http://sandroflix.sandrostoreps3.workers.dev/series/SMALLVILLE.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/SMALLVILLE.m3u
 #EXTINF:-1 tvg-id="" tvg-name="oMundoPerdido" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/oMundoPerdido.png" group-title="APPLE TV", O Mundo Perdido
-http://sandroflix.sandrostoreps3.workers.dev/series/O.MUNDO.PERDIDO.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/O.MUNDO.PERDIDO.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Hercules" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Hercules.png" group-title="APPLE TV", Hercules
-http://sandroflix.sandrostoreps3.workers.dev/series/HERCULES.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/HERCULES.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Euphoria" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Euphoria.png" group-title="APPLE TV", Euphoria
-http://sandroflix.sandrostoreps3.workers.dev/series/EUPHORIA.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/EUPHORIA.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Dois Homens e Meio" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Dois%20Homens%20e%20Meio.png" group-title="APPLE TV", Dois Homens e Meio
-http://sandroflix.sandrostoreps3.workers.dev/series/DOIS.HOMENS.E.MEIO.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/DOIS.HOMENS.E.MEIO.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Chuck" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/Chuck.png" group-title="APPLE TV", Chuck
-http://sandroflix.sandrostoreps3.workers.dev/series/CHUCK.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/CHUCK.m3u
 #EXTINF:-1 tvg-id="" tvg-name="1contra-todos" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/DRAKE.E.JOSH.jpg" group-title="APPLE TV", Drake e Josh
-http://sandroflix.sandrostoreps3.workers.dev/series/DRAKE.E.JOSH.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/DRAKE.E.JOSH.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Xena a Princesa Guerreira" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/xena.png" group-title="APPLE TV", Xena a Princesa Guerreira
-http://sandroflix.sandrostoreps3.workers.dev/series/XENA.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/XENA.m3u
 #EXTINF:-1 tvg-id="" tvg-name="PowerRangers" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/PowerRangers.png" group-title="APPLE TV", Morphing Power Rangers
-http://sandroflix.sandrostoreps3.workers.dev/series/POWER.RANGERS.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/POWER.RANGERS.m3u
 #EXTINF:-1 tvg-id="" tvg-name="FamiliaDinosauro" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/FamiliaDinosauro.png" group-title="APPLE TV", Familia Dinosauro
-http://sandroflix.sandrostoreps3.workers.dev/series/FAMILIA.DINOSAURO.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/FAMILIA.DINOSAURO.m3u
 #EXTINF:-1 tvg-id="" tvg-name="90.Dias.Para.Casar" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/90.Dias.Para.Casar.jpg" group-title="DISCOVERY+", 90 Dias Para Casar
-http://sandroflix.sandrostoreps3.workers.dev/series/90.DIAS.PARA.CASAR.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/90.DIAS.PARA.CASAR.m3u
 #EXTINF:-1 tvg-id="" tvg-name="1contra-todos" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/SERIES/LARGADOS.E.PELADOS.jpg" group-title="DISCOVERY+", Largados e Pelados
-http://sandroflix.sandrostoreps3.workers.dev/series/LARGADOS.E.PELADOS.m3u
+http://sandroflix.sandrostoreps3.workers.dev/series_menu/LARGADOS.E.PELADOS.m3u

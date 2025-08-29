@@ -1,13 +1,13 @@
 #EXTM3U 
 
 #EXTINF:-1 tvg-id="" tvg-name="mp4" tvg-logo="http://sandroflix.sandrostoreps3.workers.dev/movie/posters/HUMOR/Nas.Garras.da.Patrulha.jpg" group-title="PROGAMAÇÃO", NAS GARRAS DA PATRULHA
-http://sandroflix.sandrostoreps3.workers.dev/humor/NAS.GARRAS.DA.PATRULHA.m3u
+http://sandroflix.sandrostoreps3.workers.dev/humor_menu/NAS.GARRAS.DA.PATRULHA.m3u
 #EXTINF:-1 tvg-id="" tvg-name="mp4" tvg-logo="http://sandroflix.sandrostoreps3.workers.dev/movie/posters/HUMOR/coxinha.e.doquinha.jpg" group-title="PROGAMAÇÃO", COXINHA E DOQUINHA
-http://sandroflix.sandrostoreps3.workers.dev/humor/COXINHA.E.DOQUINHA.m3u
+http://sandroflix.sandrostoreps3.workers.dev/humor_menu/COXINHA.E.DOQUINHA.m3u
 #EXTINF:-1 tvg-id="" tvg-name="mp4" tvg-logo="http://sandroflix.sandrostoreps3.workers.dev/movie/posters/HUMOR/os.trapalhoes.jpg" group-title="PROGAMAÇÃO", OS TRAPALHOES
-http://sandroflix.sandrostoreps3.workers.dev/humor/OS.TRAPALHOES.m3u
+http://sandroflix.sandrostoreps3.workers.dev/humor_menu/OS.TRAPALHOES.m3u
 #EXTINF:-1 tvg-id="" tvg-name="mp4" tvg-logo="http://sandroflix.sandrostoreps3.workers.dev/movie/posters/HUMOR/Chaves.jpg" group-title="PROGAMAÇÃO", CHAVES
-http://sandroflix.sandrostoreps3.workers.dev/humor/CHAVES.m3u
+http://sandroflix.sandrostoreps3.workers.dev/humor_menu/CHAVES.m3u
 #EXTINF:-1 tvg-id="" tvg-name="mp4" tvg-logo="http://sandroflix.sandrostoreps3.workers.dev/movie/posters/HUMOR/SHOW.DO.TOM.-.BOFE.DE.ELITE.1.jpg" group-title="PROGAMAÇÃO", BOFE DE ELITE 1
 http://github.com/s4f1ixcustom/F00000/releases/download/Humor/SHOW.DO.TOM.-.BOFE.DE.ELITE.1.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mp4" tvg-logo="http://sandroflix.sandrostoreps3.workers.dev/movie/posters/HUMOR/SHOW.DO.TOM.-.BOFE.DE.ELITE.2.jpg" group-title="PROGAMAÇÃO", BOFE DE ELITE 2

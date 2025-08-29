@@ -1,66 +1,66 @@
 #EXTM3U 
 
 #EXTINF:-1 tvg-id="" tvg-name="Amor a Vida" tvg-logo="http://sandroflix.sandrostoreps3.workers.dev/movie/posters/NOVELAS/Amor.a.Vida.jpg" group-title="GLOBOPLAY" , Amor a Vida
-http://sandroflix.sandrostoreps3.workers.dev/novelas/AMOR.A.VIDA.m3u
+http://sandroflix.sandrostoreps3.workers.dev/novelas_menu/AMOR.A.VIDA.m3u
 #EXTINF:-1 tvg-id="" tvg-name="A Usurpadora" tvg-logo="http://sandroflix.sandrostoreps3.workers.dev/movie/posters/NOVELAS/a.intrusa.jpg" group-title="TELEVISA" , A Intrusa
-http://sandroflix.sandrostoreps3.workers.dev/novelas/A.INTRUSA.m3u
+http://sandroflix.sandrostoreps3.workers.dev/novelas_menu//A.INTRUSA.m3u
 #EXTINF:-1 tvg-id="" tvg-name="A Usurpadora" tvg-logo="http://sandroflix.sandrostoreps3.workers.dev/movie/posters/NOVELAS/a-usurpadora.png" group-title="TELEVISA" , A Usurpadora
-http://sandroflix.sandrostoreps3.workers.dev/novelas/A.USURPADORA.m3u
+http://sandroflix.sandrostoreps3.workers.dev/novelas_menu//A.USURPADORA.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Cabocla" tvg-logo="http://sandroflix.sandrostoreps3.workers.dev/movie/posters/NOVELAS/Caminho.das.indias.jpg" group-title="GLOBOPLAY" , Caminho das indias
-http://sandroflix.sandrostoreps3.workers.dev/novelas/CAMINHOS.DAS.INDIAS.m3u
+http://sandroflix.sandrostoreps3.workers.dev/novelas_menu//CAMINHOS.DAS.INDIAS.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Cabocla" tvg-logo="http://sandroflix.sandrostoreps3.workers.dev/movie/posters/NOVELAS/cabocla.png" group-title="GLOBOPLAY" , Cabocla
-http://sandroflix.sandrostoreps3.workers.dev/novelas/CABOCLA.m3u
+http://sandroflix.sandrostoreps3.workers.dev/novelas_menu//CABOCLA.m3u
 #EXTINF:-1 tvg-id="" tvg-name="A Dona do Pedaco" tvg-logo="http://sandroflix.sandrostoreps3.workers.dev/movie/posters/NOVELAS/a-dona-do-pedaco.png" group-title="GLOBOPLAY" , A Dona do Pedaco
-http://sandroflix.sandrostoreps3.workers.dev/novelas/A.DONA.DO.PEDACO.m3u
+http://sandroflix.sandrostoreps3.workers.dev/novelas_menu//A.DONA.DO.PEDACO.m3u
 #EXTINF:-1 tvg-id="" tvg-name="A Força do Querer" tvg-logo="http://sandroflix.sandrostoreps3.workers.dev/movie/posters/NOVELAS/A-forca-do-querer.png" group-title="GLOBOPLAY" , A Forca do Querer
-http://sandroflix.sandrostoreps3.workers.dev/novelas/A.FORCA.DO.QUERER.m3u
+http://sandroflix.sandrostoreps3.workers.dev/novelas_menu//A.FORCA.DO.QUERER.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Alem da Usurpadora" tvg-logo="http://sandroflix.sandrostoreps3.workers.dev/movie/posters/NOVELAS/alem-da-usurpadora.png" group-title="TELEVISA" , Alem da Usurpadora
-http://sandroflix.sandrostoreps3.workers.dev/novelas/ALEM.DA.USURPADORA.m3u
+http://sandroflix.sandrostoreps3.workers.dev/novelas_menu//ALEM.DA.USURPADORA.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Alma Gêmea" tvg-logo="http://sandroflix.sandrostoreps3.workers.dev/movie/posters/NOVELAS/alma-gemea.png" group-title="GLOBOPLAY" , Alma Gemea
-http://sandroflix.sandrostoreps3.workers.dev/novelas/ALMA.GEMEA.m3u
+http://sandroflix.sandrostoreps3.workers.dev/novelas_menu//ALMA.GEMEA.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Avenida Brasil" tvg-logo="http://sandroflix.sandrostoreps3.workers.dev/movie/posters/NOVELAS/avenida-brasil.png" group-title="GLOBOPLAY" , Avenida Brasil
-http://sandroflix.sandrostoreps3.workers.dev/novelas/AVENIDA.BRASIL.m3u
+http://sandroflix.sandrostoreps3.workers.dev/novelas_menu//AVENIDA.BRASIL.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Chocolate com Pimenta" tvg-logo="http://sandroflix.sandrostoreps3.workers.dev/movie/posters/NOVELAS/chocolate-com-pimenta.png" group-title="GLOBOPLAY" , Chocolate com Pimenta
-http://sandroflix.sandrostoreps3.workers.dev/novelas/CHOCOLATE.COM.PIMENTA.m3u
+http://sandroflix.sandrostoreps3.workers.dev/novelas_menu//CHOCOLATE.COM.PIMENTA.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Da Cor do Pecado" tvg-logo="http://sandroflix.sandrostoreps3.workers.dev/movie/posters/NOVELAS/da-cor-do-pecado.png" group-title="GLOBOPLAY" , Da Cor do Pecado
-http://sandroflix.sandrostoreps3.workers.dev/novelas/DA.COR.DO.PECADO.m3u
+http://sandroflix.sandrostoreps3.workers.dev/novelas_menu//DA.COR.DO.PECADO.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Haja Coração" tvg-logo="http://sandroflix.sandrostoreps3.workers.dev/movie/posters/NOVELAS/haja_coracao.png" group-title="GLOBOPLAY" , Haja Coracao
-http://sandroflix.sandrostoreps3.workers.dev/novelas/HAJA.CORACAO.m3u
+http://sandroflix.sandrostoreps3.workers.dev/novelas_menu//HAJA.CORACAO.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Kubanacan" tvg-logo="http://sandroflix.sandrostoreps3.workers.dev/movie/posters/NOVELAS/kubanacan.png" group-title="GLOBOPLAY" , Kubanacan
-http://sandroflix.sandrostoreps3.workers.dev/novelas/KUBANACAN.m3u
+http://sandroflix.sandrostoreps3.workers.dev/novelas_menu//KUBANACAN.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Laços de Família" tvg-logo="http://sandroflix.sandrostoreps3.workers.dev/movie/posters/NOVELAS/lacos-de-familia.png" group-title="GLOBOPLAY" , Lacos de Familia
-http://sandroflix.sandrostoreps3.workers.dev/novelas/LACOS.DE.FAMILIA.m3u
+http://sandroflix.sandrostoreps3.workers.dev/novelas_menu//LACOS.DE.FAMILIA.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Maria do Bairro" tvg-logo="http://sandroflix.sandrostoreps3.workers.dev/movie/posters/NOVELAS/maria-do-bairro.png" group-title="TELEVISA" , Maria do Bairro
-http://sandroflix.sandrostoreps3.workers.dev/novelas/MARIA.DO.BAIRRO.m3u
+http://sandroflix.sandrostoreps3.workers.dev/novelas_menu//MARIA.DO.BAIRRO.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Marimar" tvg-logo="http://sandroflix.sandrostoreps3.workers.dev/movie/posters/NOVELAS/marimar.png" group-title="TELEVISA" , Marimar
-http://sandroflix.sandrostoreps3.workers.dev/novelas/MARIMAR.m3u
+http://sandroflix.sandrostoreps3.workers.dev/novelas_menu//MARIMAR.m3u
 #EXTINF:-1 tvg-id="" tvg-name="O Beijo do Vampiro" tvg-logo="http://sandroflix.sandrostoreps3.workers.dev/movie/posters/NOVELAS/mulheres-apaixonadas.jpg" group-title="GLOBOPLAY" , Mulheres Apaixonadas
-http://sandroflix.sandrostoreps3.workers.dev/novelas/MULHERES.APAIXONADAS.m3u
+http://sandroflix.sandrostoreps3.workers.dev/novelas_menu//MULHERES.APAIXONADAS.m3u
 #EXTINF:-1 tvg-id="" tvg-name="O Beijo do Vampiro" tvg-logo="http://sandroflix.sandrostoreps3.workers.dev/movie/posters/NOVELAS/o-beijo-do-vampiro.png" group-title="GLOBOPLAY" , O Beijo do Vampiro
-http://sandroflix.sandrostoreps3.workers.dev/novelas/O.BEIJO.DO.VAMPIRO.m3u
+http://sandroflix.sandrostoreps3.workers.dev/novelas_menu//O.BEIJO.DO.VAMPIRO.m3u
 #EXTINF:-1 tvg-id="" tvg-name="O Clone" tvg-logo="http://sandroflix.sandrostoreps3.workers.dev/movie/posters/NOVELAS/o-clone.png" group-title="GLOBOPLAY" , O Clone
-http://sandroflix.sandrostoreps3.workers.dev/novelas/O.CLONE.m3u
+http://sandroflix.sandrostoreps3.workers.dev/novelas_menu//O.CLONE.m3u
 #EXTINF:-1 tvg-id="" tvg-name="O Cravo e a Rosa" tvg-logo="http://sandroflix.sandrostoreps3.workers.dev/movie/posters/NOVELAS/o-cravo-e-a-rosa.png" group-title="GLOBOPLAY" , O Cravo e a Rosa
-http://sandroflix.sandrostoreps3.workers.dev/novelas/O.CRAVO.E.A.ROSA.m3u
+http://sandroflix.sandrostoreps3.workers.dev/novelas_menu//O.CRAVO.E.A.ROSA.m3u
 #EXTINF:-1 tvg-id="" tvg-name="O Profeta" tvg-logo="http://sandroflix.sandrostoreps3.workers.dev/movie/posters/NOVELAS/o-profeta.png" group-title="GLOBOPLAY" , O Profeta
-http://sandroflix.sandrostoreps3.workers.dev/novelas/O.PROFETA.m3u
+http://sandroflix.sandrostoreps3.workers.dev/novelas_menu//O.PROFETA.m3u
 #EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado" tvg-logo="http://sandroflix.sandrostoreps3.workers.dev/movie/posters/NOVELAS/o-rei-do-gado.png" group-title="GLOBOPLAY" , O Rei do Gado
-http://sandroflix.sandrostoreps3.workers.dev/novelas/O.REI.DO.GADO.m3u
+http://sandroflix.sandrostoreps3.workers.dev/novelas_menu//O.REI.DO.GADO.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Porto dos Milagres" tvg-logo="http://sandroflix.sandrostoreps3.workers.dev/movie/posters/NOVELAS/patanal.jpg" group-title="GLOBOPLAY" , Pantanal
-http://sandroflix.sandrostoreps3.workers.dev/novelas/PANTANAL.m3u
+http://sandroflix.sandrostoreps3.workers.dev/novelas_menu//PANTANAL.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Porto dos Milagres" tvg-logo="http://sandroflix.sandrostoreps3.workers.dev/movie/posters/NOVELAS/porto-milagres.png" group-title="GLOBOPLAY" , Porto dos Milagres
-http://sandroflix.sandrostoreps3.workers.dev/novelas/PORTO.DOS.MILAGRES.m3u
+http://sandroflix.sandrostoreps3.workers.dev/novelas_menu//PORTO.DOS.MILAGRES.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Porto dos Milagres" tvg-logo="http://sandroflix.sandrostoreps3.workers.dev/movie/posters/NOVELAS/Prova.De.Amor.png" group-title="RECORD" , Prova de Amor
-http://sandroflix.sandrostoreps3.workers.dev/novelas/PROVA.DE.AMOR.m3u
+http://sandroflix.sandrostoreps3.workers.dev/novelas_menu//PROVA.DE.AMOR.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Porto dos Milagres" tvg-logo="http://sandroflix.sandrostoreps3.workers.dev/movie/posters/NOVELAS/rebelde.jpg" group-title="TELEVISA" , Rebelde
-http://sandroflix.sandrostoreps3.workers.dev/novelas/REBELDE.m3u
+http://sandroflix.sandrostoreps3.workers.dev/novelas_menu//REBELDE.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Totalmente Demais" tvg-logo="http://sandroflix.sandrostoreps3.workers.dev/movie/posters/NOVELAS/Salve.Jorge.jpg" group-title="GLOBOPLAY" , Salve Jorge
-http://sandroflix.sandrostoreps3.workers.dev/novelas/SALVE.JORGE.m3u
+http://sandroflix.sandrostoreps3.workers.dev/novelas_menu//SALVE.JORGE.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Totalmente Demais" tvg-logo="http://sandroflix.sandrostoreps3.workers.dev/movie/posters/NOVELAS/totalmente-demais.png" group-title="GLOBOPLAY" , Totalmente Demais
-http://sandroflix.sandrostoreps3.workers.dev/novelas/TOTALMENTE.DEMAIS.m3u
+http://sandroflix.sandrostoreps3.workers.dev/novelas_menu//TOTALMENTE.DEMAIS.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Velho Chico" tvg-logo="http://sandroflix.sandrostoreps3.workers.dev/movie/posters/NOVELAS/velho-chico.png" group-title="GLOBOPLAY" ,Velho Chico
-http://sandroflix.sandrostoreps3.workers.dev/novelas/VELHO.CHICO.m3u
+http://sandroflix.sandrostoreps3.workers.dev/novelas_menu//VELHO.CHICO.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Xica da Silva" tvg-logo="http://sandroflix.sandrostoreps3.workers.dev/movie/posters/NOVELAS/xica-sa-silva.png" group-title="GLOBOPLAY" , Xica da Silva
-http://sandroflix.sandrostoreps3.workers.dev/novelas/XICA.DA.SILVA.m3u
+http://sandroflix.sandrostoreps3.workers.dev/novelas_menu//XICA.DA.SILVA.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Xica da Silva" tvg-logo="http://sandroflix.sandrostoreps3.workers.dev/movie/posters/NOVELAS/uga-uga.jpg" group-title="GLOBOPLAY" , Uga-Uga
-http://sandroflix.sandrostoreps3.workers.dev/novelas/UGA-UGA.m3u
+http://sandroflix.sandrostoreps3.workers.dev/novelas_menu//UGA-UGA.m3u

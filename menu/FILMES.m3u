@@ -1,323 +1,323 @@
 #EXTM3U 
 
 #EXTINF:-1 tvg-id="" tvg-name="LANÇAMENTOS" tvg-logo="http://sandroflix.sandrostoreps3.workers.dev/icon/posters/FILMES/ACAO-FILMES.png" group-title="CATEGORIAS" , ACAO | CRIME
-http://sandroflix.sandrostoreps3.workers.dev/filmes/ACAO_E_CRIME.m3u
+http://sandroflix.sandrostoreps3.workers.dev/filmes_menu/ACAO_E_CRIME.m3u
 #EXTINF:-1 tvg-id="" tvg-name="LANÇAMENTOS" tvg-logo="http://sandroflix.sandrostoreps3.workers.dev/icon/posters/FILMES/AVENTURA-FILMES.png" group-title="CATEGORIAS" , AVENTURA | FANTASIA
-http://sandroflix.sandrostoreps3.workers.dev/filmes/AVENTURA_E_FANTASIA.m3u
+http://sandroflix.sandrostoreps3.workers.dev/filmes_menu/AVENTURA_E_FANTASIA.m3u
 #EXTINF:-1 tvg-id="" tvg-name="LANÇAMENTOS" tvg-logo="http://sandroflix.sandrostoreps3.workers.dev/icon/posters/FILMES/COMEDIA-FILMES.png" group-title="CATEGORIAS" , COMEDIA | FAMILIA
-http://sandroflix.sandrostoreps3.workers.dev/filmes/COMEDIA_E_HISTORIAS.m3u
+http://sandroflix.sandrostoreps3.workers.dev/filmes_menu/COMEDIA_E_HISTORIAS.m3u
 #EXTINF:-1 tvg-id="" tvg-name="LANÇAMENTOS" tvg-logo="http://sandroflix.sandrostoreps3.workers.dev/icon/posters/FILMES/CORRIDA-FILMES.png" group-title="CATEGORIAS" , CORRIDA | POLICIAL
-http://sandroflix.sandrostoreps3.workers.dev/filmes/CORRIDA_E_POLICIAL.m3u
+http://sandroflix.sandrostoreps3.workers.dev/filmes_menu/CORRIDA_E_POLICIAL.m3u
 #EXTINF:-1 tvg-id="" tvg-name="LANÇAMENTOS" tvg-logo="http://sandroflix.sandrostoreps3.workers.dev/icon/posters/FILMES/GUERRA-FILMES.png" group-title="CATEGORIAS" , GUERRA | MYTHOLOGIA
-http://sandroflix.sandrostoreps3.workers.dev/filmes/GUERRA_E_SOBRENATUAL.m3u
+http://sandroflix.sandrostoreps3.workers.dev/filmes_menu/GUERRA_E_SOBRENATUAL.m3u
 #EXTINF:-1 tvg-id="" tvg-name="LANÇAMENTOS" tvg-logo="http://sandroflix.sandrostoreps3.workers.dev/icon/posters/FILMES/LUTA-FILMES.png" group-title="CATEGORIAS" , LUTA | ARTES MARCIAIS
-http://sandroflix.sandrostoreps3.workers.dev/filmes/LUTA.m3u
+http://sandroflix.sandrostoreps3.workers.dev/filmes_menu/LUTA.m3u
 #EXTINF:-1 tvg-id="" tvg-name="LANÇAMENTOS" tvg-logo="http://sandroflix.sandrostoreps3.workers.dev/icon/posters/FILMES/ROMANCE-FILMES.png" group-title="CATEGORIAS" , ROMANCE | DRAMA
-http://sandroflix.sandrostoreps3.workers.dev/filmes/DRAMA_E_ROMANCE_E_MUSICAL.m3u
+http://sandroflix.sandrostoreps3.workers.dev/filmes_menu/DRAMA_E_ROMANCE_E_MUSICAL.m3u
 #EXTINF:-1 tvg-id="" tvg-name="LANÇAMENTOS" tvg-logo="http://sandroflix.sandrostoreps3.workers.dev/icon/posters/FILMES/FICCAO-FILMES.png" group-title="CATEGORIAS" , FICCAO | SUSPENSE
-http://sandroflix.sandrostoreps3.workers.dev/filmes/FICCAO_E_SUSPENSE_E_MISTERIO.m3u
+http://sandroflix.sandrostoreps3.workers.dev/filmes_menu/FICCAO_E_SUSPENSE_E_MISTERIO.m3u
 #EXTINF:-1 tvg-id="" tvg-name="LANÇAMENTOS" tvg-logo="http://sandroflix.sandrostoreps3.workers.dev/icon/posters/FILMES/TERROR-FILMES.png" group-title="CATEGORIAS" , TERROR | MELODRAMA
-http://sandroflix.sandrostoreps3.workers.dev/filmes/TERROR_E_MELODRAMA.m3u
+http://sandroflix.sandrostoreps3.workers.dev/filmes_menu/TERROR_E_MELODRAMA.m3u
 #EXTINF:-1 tvg-id="" tvg-name="LANÇAMENTOS" tvg-logo="http://sandroflix.sandrostoreps3.workers.dev/icon/posters/FILMES/ANIMACOES.png" group-title="CATEGORIAS" , ANIMACOES | DESENHOS
-http://sandroflix.sandrostoreps3.workers.dev/filmes/ANIMACOES_E_DESENHOS.m3u
+http://sandroflix.sandrostoreps3.workers.dev/filmes_menu/ANIMACOES_E_DESENHOS.m3u
 
 
 
 #EXTINF:-1 tvg-id="" tvg-name="LANÇAMENTOS" tvg-logo="http://sandroflix.sandrostoreps3.workers.dev/icon/posters/FILMES/FRANQUIAS/A_MUMIA.png" group-title="FRANQUIAS" , A MUMIA
-http://sandroflix.sandrostoreps3.workers.dev/filmes/A_MUMIA.m3u
+http://sandroflix.sandrostoreps3.workers.dev/filmes_menu/A_MUMIA.m3u
 #EXTINF:-1 tvg-id="" tvg-name="LANÇAMENTOS" tvg-logo="http://sandroflix.sandrostoreps3.workers.dev/icon/posters/FILMES/FRANQUIAS/ANJOS_DA_NOITE.png" group-title="FRANQUIAS" , ANJOS DA NOITE
-http://sandroflix.sandrostoreps3.workers.dev/filmes/ANJOS_DA_NOITE.m3u
+http://sandroflix.sandrostoreps3.workers.dev/filmes_menu/ANJOS_DA_NOITE.m3u
 #EXTINF:-1 tvg-id="" tvg-name="LANÇAMENTOS" tvg-logo="http://sandroflix.sandrostoreps3.workers.dev/icon/posters/FILMES/FRANQUIAS/CORACAO_DE_DRAGAO.png" group-title="FRANQUIAS" , CORACAO DE DRAGAO
-http://sandroflix.sandrostoreps3.workers.dev/filmes/CORACAO_DE_DRAGAO.m3u
+http://sandroflix.sandrostoreps3.workers.dev/filmes_menu/CORACAO_DE_DRAGAO.m3u
 #EXTINF:-1 tvg-id="" tvg-name="LANÇAMENTOS" tvg-logo="http://sandroflix.sandrostoreps3.workers.dev/icon/posters/FILMES/FRANQUIAS/CREPUSCULO.png" group-title="FRANQUIAS" , CREPUSCULO
-http://sandroflix.sandrostoreps3.workers.dev/filmes/CREPUSCULO.m3u
+http://sandroflix.sandrostoreps3.workers.dev/filmes_menu/CREPUSCULO.m3u
 #EXTINF:-1 tvg-id="" tvg-name="LANÇAMENTOS" tvg-logo="http://sandroflix.sandrostoreps3.workers.dev/icon/posters/FILMES/FRANQUIAS/DC.png" group-title="FRANQUIAS" , DC
-http://sandroflix.sandrostoreps3.workers.dev/filmes/DC.m3u
+http://sandroflix.sandrostoreps3.workers.dev/filmes_menu/DC.m3u
 #EXTINF:-1 tvg-id="" tvg-name="LANÇAMENTOS" tvg-logo="http://sandroflix.sandrostoreps3.workers.dev/icon/posters/FILMES/FRANQUIAS/HARRY_POTTER.png" group-title="FRANQUIAS" , HARRY POTTER
-http://sandroflix.sandrostoreps3.workers.dev/filmes/HARRY_POTTER.m3u
+http://sandroflix.sandrostoreps3.workers.dev/filmes_menu/HARRY_POTTER.m3u
 #EXTINF:-1 tvg-id="" tvg-name="LANÇAMENTOS" tvg-logo="http://sandroflix.sandrostoreps3.workers.dev/icon/posters/FILMES/FRANQUIAS/MARVEL.png" group-title="FRANQUIAS" , MARVEL
-http://sandroflix.sandrostoreps3.workers.dev/filmes/MARVEL.m3u
+http://sandroflix.sandrostoreps3.workers.dev/filmes_menu/MARVEL.m3u
 #EXTINF:-1 tvg-id="" tvg-name="LANÇAMENTOS" tvg-logo="http://sandroflix.sandrostoreps3.workers.dev/icon/posters/FILMES/FRANQUIAS/MATRIX.png" group-title="FRANQUIAS" , MATRIX
-http://sandroflix.sandrostoreps3.workers.dev/filmes/MATRIX.m3u
+http://sandroflix.sandrostoreps3.workers.dev/filmes_menu/MATRIX.m3u
 #EXTINF:-1 tvg-id="" tvg-name="LANÇAMENTOS" tvg-logo="http://sandroflix.sandrostoreps3.workers.dev/icon/posters/FILMES/FRANQUIAS/O_EXTERMINADOR_DO_FUTURO.png" group-title="FRANQUIAS" , O EXTERMINADOR DO FUTURO
-http://sandroflix.sandrostoreps3.workers.dev/filmes/O_EXTERMINADOR_DO_FUTURO.m3u
+http://sandroflix.sandrostoreps3.workers.dev/filmes_menu/O_EXTERMINADOR_DO_FUTURO.m3u
 #EXTINF:-1 tvg-id="" tvg-name="LANÇAMENTOS" tvg-logo="http://sandroflix.sandrostoreps3.workers.dev/icon/posters/FILMES/FRANQUIAS/O_SENHOR_DOS_ANEIS.png" group-title="FRANQUIAS" , O SENHOR DOS ANEIS
-http://sandroflix.sandrostoreps3.workers.dev/filmes/O_SENHOR_DOS_ANEIS.m3u
+http://sandroflix.sandrostoreps3.workers.dev/filmes_menu/O_SENHOR_DOS_ANEIS.m3u
 #EXTINF:-1 tvg-id="" tvg-name="LANÇAMENTOS" tvg-logo="http://sandroflix.sandrostoreps3.workers.dev/icon/posters/FILMES/FRANQUIAS/PIRATAS_DO_CARIBE.png" group-title="FRANQUIAS" , PIRATAS DO CARIBE
-http://sandroflix.sandrostoreps3.workers.dev/filmes/PIRATAS_DO_CARIBE.m3u
+http://sandroflix.sandrostoreps3.workers.dev/filmes_menu/PIRATAS_DO_CARIBE.m3u
 #EXTINF:-1 tvg-id="" tvg-name="LANÇAMENTOS" tvg-logo="http://sandroflix.sandrostoreps3.workers.dev/icon/posters/FILMES/FRANQUIAS/STAR_WARS.png" group-title="FRANQUIAS" , STAR WARS
-http://sandroflix.sandrostoreps3.workers.dev/filmes/STAR_WARS.m3u
+http://sandroflix.sandrostoreps3.workers.dev/filmes_menu/STAR_WARS.m3u
 #EXTINF:-1 tvg-id="" tvg-name="LANÇAMENTOS" tvg-logo="http://sandroflix.sandrostoreps3.workers.dev/icon/posters/FILMES/FRANQUIAS/TRANSFORMERS.png" group-title="FRANQUIAS" , TRANSFORMERS
-http://sandroflix.sandrostoreps3.workers.dev/filmes/TRANSFORMERS.m3u
+http://sandroflix.sandrostoreps3.workers.dev/filmes_menu/TRANSFORMERS.m3u
 #EXTINF:-1 tvg-id="" tvg-name="LANÇAMENTOS" tvg-logo="http://sandroflix.sandrostoreps3.workers.dev/icon/posters/FILMES/FRANQUIAS/VELOZES_E_FURIOSOS.png" group-title="FRANQUIAS" , VELOZES E FURIOSOS
-http://sandroflix.sandrostoreps3.workers.dev/filmes/VELOZES_E_FURIOSOS.m3u
+http://sandroflix.sandrostoreps3.workers.dev/filmes_menu/VELOZES_E_FURIOSOS.m3u
 #EXTINF:-1 tvg-id="" tvg-name="LANÇAMENTOS" tvg-logo="http://sandroflix.sandrostoreps3.workers.dev/icon/posters/FILMES/FRANQUIAS/X-MEN.png" group-title="FRANQUIAS" , X-MEN
-http://sandroflix.sandrostoreps3.workers.dev/filmes/X-MEN.m3u
+http://sandroflix.sandrostoreps3.workers.dev/filmes_menu/X-MEN.m3u
 
 
 
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/LANCAMENTOS-2024/Alma.de.Cacador.2024.png" group-title="LACAMENTOS" , Alma de Caçador
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/2024/Alma.de.Cacador.2024.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/2024/Alma.de.Cacador.2024.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/LANCAMENTOS-2024/A_Democracia_Resiste.png" group-title="LACAMENTOS" , A Democracia Resiste
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/2024/8_1_–_A_Democracia_Resiste.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/2024/8_1_–_A_Democracia_Resiste.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/LANCAMENTOS-2024/60_Minutos.png" group-title="LACAMENTOS" , 60 Minutos
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/2024/60_Minutos.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/2024/60_Minutos.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/LANCAMENTOS-2024/A_Arte_de_Amar.png" group-title="LACAMENTOS" , A Arte de Amar
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/2024/A_Arte_de_Amar.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/2024/A_Arte_de_Amar.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/LANCAMENTOS-2024/A_Grande_Entrevista.png" group-title="LACAMENTOS" , A Grande Entrevista
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/2024/A_Grande_Entrevista.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/2024/A_Grande_Entrevista.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/LANCAMENTOS-2024/A_Noite_que_Mudou_o_Pop.png" group-title="LACAMENTOS" , A Noite que Mudou o Pop
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/2024/A_Noite_que_Mudou_o_Pop.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/2024/A_Noite_que_Mudou_o_Pop.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/LANCAMENTOS-2024/A_Primavera_Espetacular_de_Moranguinho.png" group-title="LACAMENTOS" , A Primavera Espetacular de Moranguinho
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/2024/A_Primavera_Espetacular_de_Moranguinho.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/2024/A_Primavera_Espetacular_de_Moranguinho.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/LANCAMENTOS-2024/A_Rede_Antissocial_Dos_Memes_ao_Caos.png" group-title="LACAMENTOS" , A Rede Antissocial Dos Memes ao Caos
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/2024/A_Rede_Antissocial_Dos_Memes_ao_Caos.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/2024/A_Rede_Antissocial_Dos_Memes_ao_Caos.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/LANCAMENTOS-2024/A_Saudade_Que_Fica.png" group-title="LACAMENTOS" , A Saudade Que Fica
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/2024/A_Saudade_Que_Fica.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/2024/A_Saudade_Que_Fica.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/LANCAMENTOS-2024/Agencia_do_Amor.png" group-title="LACAMENTOS" , Agencia do Amor
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/2024/Agencia_do_Amor.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/2024/Agencia_do_Amor.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/LANCAMENTOS-2024/Alarme_de_Incendio.png" group-title="LACAMENTOS" , Alarme de Incêndio
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/2024/Alarme_de_Incendio.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/2024/Alarme_de_Incendio.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/LANCAMENTOS-2024/Amor_em_Soweto.png" group-title="LACAMENTOS" , Amor em Soweto
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/2024/Amor_em_Soweto.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/2024/Amor_em_Soweto.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/LANCAMENTOS-2024/Apenas_Corra.png" group-title="LACAMENTOS" , Apenas Corra
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/2024/Apenas_Corra.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/2024/Apenas_Corra.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/LANCAMENTOS-2024/Assassinato_de_Elite.png" group-title="LACAMENTOS" , Assassinato de Elite
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/2024/Assassinato_de_Elite.mkv
+http://github.com/s4f1ixcustom/F00000/releases/download/2024/Assassinato_de_Elite.mkv
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/LANCAMENTOS-2024/Atraves_da_Minha_Janela_3_Olhos_nos_Olhos.png" group-title="LACAMENTOS" , Através da Minha Janela 3 Olhos nos Olhos
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/2024/Atraves_da_Minha_Janela_3_Olhos_nos_Olhos.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/2024/Atraves_da_Minha_Janela_3_Olhos_nos_Olhos.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/LANCAMENTOS-2024/Argylle.png" group-title="LACAMENTOS" , Argylle
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/2024/Argylle.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/2024/Argylle.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/LANCAMENTOS-2024/Beekeeper-Rede.de.Vinganca.2024.png" group-title="LACAMENTOS" , Beekeeper-Rede de Vingança
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/2024/Beekeeper-Rede.de.Vinganca.2024.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/2024/Beekeeper-Rede.de.Vinganca.2024.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/LANCAMENTOS-2024/Bob.Marley.png" group-title="LACAMENTOS" , Bob Marley
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/2024/Bob.Marley.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/2024/Bob.Marley.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/LANCAMENTOS-2024/Cao_e_Gato.png" group-title="LACAMENTOS" , Cão e Gato
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/2024/Cao_e_Gato.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/2024/Cao_e_Gato.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/LANCAMENTOS-2024/Cinco_Chances_Para_Ser_Feliz.png" group-title="LACAMENTOS" , Cinco Chances Para Ser Feliz
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/2024/Cinco_Chances_Para_Ser_Feliz.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/2024/Cinco_Chances_Para_Ser_Feliz.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/LANCAMENTOS-2024/Cinzas.png" group-title="LACAMENTOS" , Cinzas
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/2024/Cinzas.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/2024/Cinzas.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/LANCAMENTOS-2024/Como_conquistar_o_Billy_Walsh.png" group-title="LACAMENTOS" , Como conquistar o Billy Walsh
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/2024/Como_conquistar_o_Billy_Walsh.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/2024/Como_conquistar_o_Billy_Walsh.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/LANCAMENTOS-2024/Code.8_.Renegados.-.Parte.2.png" group-title="LACAMENTOS" , Code 8 Renegados - Parte 2
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/2024/Code.8_.Renegados.-.Parte.2.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/2024/Code.8_.Renegados.-.Parte.2.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/LANCAMENTOS-2024/Como.se.fosse.a.primeira.vez.png" group-title="LACAMENTOS" , Como se fosse a Primeira Vez
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/2024/Como.se.fosse.a.primeira.vez.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/2024/Como.se.fosse.a.primeira.vez.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/LANCAMENTOS-2024/Descanse_em_Paz.png" group-title="LACAMENTOS" , Descanse em Paz
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/2024/Descanse_em_Paz.mkv
+http://github.com/s4f1ixcustom/F00000/releases/download/2024/Descanse_em_Paz.mkv
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/LANCAMENTOS-2024/Diario_da_Minha_Vagina.png" group-title="LACAMENTOS" , Diário da Minha Vagina
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/2024/Diario_da_Minha_Vagina.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/2024/Diario_da_Minha_Vagina.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/LANCAMENTOS-2024/Donzela.png" group-title="LACAMENTOS" , Donzela
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/2024/Donzela.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/2024/Donzela.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/LANCAMENTOS-2024/Duna_Parte_Dois.png" group-title="LACAMENTOS" , Duna Parte Dois
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/2024/Duna_Parte_Dois.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/2024/Duna_Parte_Dois.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/LANCAMENTOS-2024/Rest.In.Peace.2024.png" group-title="LACAMENTOS" , Descanse em paz
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/2024/Rest.In.Peace.2024.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/2024/Rest.In.Peace.2024.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/LANCAMENTOS-2024/Einstein_e_a_Bomba.png" group-title="LACAMENTOS" , Einstein e a Bomba
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/2024/Einstein_e_a_Bomba.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/2024/Einstein_e_a_Bomba.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/LANCAMENTOS-2024/Fazendo_Meu_Filme.png" group-title="LACAMENTOS" , Fazendo Meu Filme
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/2024/Fazendo_Meu_Filme.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/2024/Fazendo_Meu_Filme.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/LANCAMENTOS-2024/Gato_Galactico_e_O_Feitico_do_Tempo.png" group-title="LACAMENTOS" , Gato Galáctico e O Feitiço do Tempo
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/2024/Gato_Galactico_e_O_Feitico_do_Tempo.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/2024/Gato_Galactico_e_O_Feitico_do_Tempo.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/LANCAMENTOS-2024/Godzilla.e.Kong.O.Novo.Imperio.png" group-title="LACAMENTOS" , Godzilla e Kong O Novo Império
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/2024/Godzilla.e.Kong.O.Novo.Imperio.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/2024/Godzilla.e.Kong.O.Novo.Imperio.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/LANCAMENTOS-2024/Imaginario_Brinquedo_Diabolico.png" group-title="LACAMENTOS" , Imaginário Brinquedo Diabálico
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/2024/Imaginario_Brinquedo_Diabolico.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/2024/Imaginario_Brinquedo_Diabolico.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/LANCAMENTOS-2024/Indiferenca.png" group-title="LACAMENTOS" , Indiferença
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/2024/Indiferenca.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/2024/Indiferenca.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/LANCAMENTOS-2024/Jogo_Bonito.png" group-title="LACAMENTOS" , Jogo Bonito
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/2024/Jogo_Bonito.mkv
+http://github.com/s4f1ixcustom/F00000/releases/download/2024/Jogo_Bonito.mkv
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/LANCAMENTOS-2024/Jogos_de_Amor.png" group-title="LACAMENTOS" , Jogos de Amor
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/2024/Jogos_de_Amor.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/2024/Jogos_de_Amor.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/LANCAMENTOS-2024/Kung.Fu.Panda.4.2024.png" group-title="LACAMENTOS" , Kung Fu Panda 4
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/2024/Kung.Fu.Panda.4.2024.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/2024/Kung.Fu.Panda.4.2024.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/LANCAMENTOS-2024/Lift_Roubo_nas_Alturas.png" group-title="LACAMENTOS" , Lift Roubo nas Alturas
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/2024/Lift_Roubo_nas_Alturas.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/2024/Lift_Roubo_nas_Alturas.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/LANCAMENTOS-2024/Liga_da_Justica_Crise_nas_Infinitas_Terras_-_Parte_Um.png" group-title="LACAMENTOS" , Liga da Justiça Crise nas Infinitas Terras - Parte Um
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/2024/Liga_da_Justica_Crise_nas_Infinitas_Terras_-_Parte_Um.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/2024/Liga_da_Justica_Crise_nas_Infinitas_Terras_-_Parte_Um.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/LANCAMENTOS-2024/Madame.Teia.2024.png" group-title="LACAMENTOS" , Madame Téia
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/2024/Madame.Teia.2024.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/2024/Madame.Teia.2024.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/LANCAMENTOS-2024/Megamente.Vs.O.Sindicato.da.Perdicao.png" group-title="LACAMENTOS" , Megamente Vs O Sindicato da Perdição
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/2024/Megamente.Vs.O.Sindicato.da.Perdicao.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/2024/Megamente.Vs.O.Sindicato.da.Perdicao.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/LANCAMENTOS-2024/meninas-malvadas-o-musical.png" group-title="LACAMENTOS" , Meninas Malvadas
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/2024/meninas-malvadas-o-musical.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/2024/meninas-malvadas-o-musical.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/LANCAMENTOS-2024/Mais_Um_Tiro_Certo.png" group-title="LACAMENTOS" , Mais Um Tiro Certo
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/2024/Mais_Um_Tiro_Certo.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/2024/Mais_Um_Tiro_Certo.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/LANCAMENTOS-2024/Matador_de_Aluguel.png" group-title="LACAMENTOS" , Matador de Aluguel
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/2024/Matador_de_Aluguel.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/2024/Matador_de_Aluguel.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/LANCAMENTOS-2024/Me_Mate_Querido.png" group-title="LACAMENTOS" , Me Mate Querido
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/2024/Me_Mate_Querido.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/2024/Me_Mate_Querido.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/LANCAMENTOS-2024/Mea_Culpa.png" group-title="LACAMENTOS" , Mea Culpa
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/2024/Mea_Culpa.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/2024/Mea_Culpa.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/LANCAMENTOS-2024/Mergulho_Noturno.png" group-title="LACAMENTOS" , Mergulho Noturno
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/2024/Mergulho_Noturno.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/2024/Mergulho_Noturno.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/LANCAMENTOS-2024/Meu_Nome_e_Loh_Kiwan.png" group-title="LACAMENTOS" , Meu Nome e Loh Kiwan
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/2024/Meu_Nome_e_Loh_Kiwan.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/2024/Meu_Nome_e_Loh_Kiwan.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/LANCAMENTOS-2024/Musica.png" group-title="LACAMENTOS" , Música
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/2024/Musica.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/2024/Musica.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/LANCAMENTOS-2024/Nocaute.png" group-title="LACAMENTOS" , Nocaute
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/2024/Nocaute.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/2024/Nocaute.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/LANCAMENTOS-2024/O_Aprendiz_do_Tigre.png" group-title="LACAMENTOS" , O Aprendiz do Tigre
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/2024/O_Aprendiz_do_Tigre.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/2024/O_Aprendiz_do_Tigre.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/LANCAMENTOS-2024/O_Astronauta.png" group-title="LACAMENTOS" , O Astronauta
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/2024/O_Astronauta.mkv
+http://github.com/s4f1ixcustom/F00000/releases/download/2024/O_Astronauta.mkv
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/LANCAMENTOS-2024/O_Fabricante_de_Lagrimas.png" group-title="LACAMENTOS" , O Fabricante de Lágrimas
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/2024/O_Fabricante_de_Lagrimas.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/2024/O_Fabricante_de_Lagrimas.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/LANCAMENTOS-2024/O_Livro_de_Clarence.png" group-title="LACAMENTOS" , O Livro de Clarence
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/2024/O_Livro_de_Clarence.mkv
+http://github.com/s4f1ixcustom/F00000/releases/download/2024/O_Livro_de_Clarence.mkv
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/LANCAMENTOS-2024/O_Retorno_dos_Thundermans.png" group-title="LACAMENTOS" , O Retorno dos Thundermans
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/2024/O_Retorno_dos_Thundermans.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/2024/O_Retorno_dos_Thundermans.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/LANCAMENTOS-2024/Orion_e_o_Escuro.png" group-title="LACAMENTOS" , Orion e o Escuro
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/2024/Orion_e_o_Escuro.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/2024/Orion_e_o_Escuro.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/LANCAMENTOS-2024/Os_Underdoggs.png" group-title="LACAMENTOS" , Os Underdoggs
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/2024/Os_Underdoggs.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/2024/Os_Underdoggs.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/LANCAMENTOS-2024/Pedido_Irlandes.png" group-title="LACAMENTOS" , Pedido Irlandes
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/2024/Pedido_Irlandes.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/2024/Pedido_Irlandes.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/LANCAMENTOS-2024/Pilotos_de_Combate.png" group-title="LACAMENTOS" , Pilotos de Combate
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/2024/Pilotos_de_Combate.mkv
+http://github.com/s4f1ixcustom/F00000/releases/download/2024/Pilotos_de_Combate.mkv
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/LANCAMENTOS-2024/O.Salario.do.Medo.2024.png" group-title="LACAMENTOS" , O Salário do Medo
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/2024/O.Salario.do.Medo.2024.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/2024/O.Salario.do.Medo.2024.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/LANCAMENTOS-2024/Os.Casagrandes_.O.Filme.2024.png" group-title="LACAMENTOS" , Os Casagrandes O Filme
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/2024/Os.Casagrandes_.O.Filme.2024.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/2024/Os.Casagrandes_.O.Filme.2024.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/LANCAMENTOS-2024/Pobres.Criaturas.png" group-title="LACAMENTOS" , Pobres Criaturas
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/2024/Pobres.Criaturas.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/2024/Pobres.Criaturas.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/LANCAMENTOS-2024/Prey.2024.png" group-title="LACAMENTOS" , Prey
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/2024/Prey.2024.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/2024/Prey.2024.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/LANCAMENTOS-2024/Ricky_Stanicky.png" group-title="LACAMENTOS" , Ricky Stanicky
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/2024/Ricky_Stanicky.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/2024/Ricky_Stanicky.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/LANCAMENTOS-2024/Sem_Pressao.png" group-title="LACAMENTOS" , Sem Pressão
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/2024/Sem_Pressao.mkv
+http://github.com/s4f1ixcustom/F00000/releases/download/2024/Sem_Pressao.mkv
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/LANCAMENTOS-2024/Shirley_para_Presidente.png" group-title="LACAMENTOS" , Shirley para Presidente
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/2024/Shirley_para_Presidente.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/2024/Shirley_para_Presidente.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/LANCAMENTOS-2024/Snoopy_Apresenta_Seja_Bem-vindo_Franklin.png" group-title="LACAMENTOS" , Snoopy Apresenta Seja Bem-vindo Franklin
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/2024/Snoopy_Apresenta_Seja_Bem-vindo_Franklin.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/2024/Snoopy_Apresenta_Seja_Bem-vindo_Franklin.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/LANCAMENTOS-2024/So_no_Sertao.png" group-title="LACAMENTOS" , Só no Sertão
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/2024/So_no_Sertao.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/2024/So_no_Sertao.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/LANCAMENTOS-2024/They_Called_Him_Mostly_Harmless_-_Segredos_de_um_Andarilho.png" group-title="LACAMENTOS" , They Called Him Mostly Harmless - Segredos de um Andarilho
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/2024/They_Called_Him_Mostly_Harmless_-_Segredos_de_um_Andarilho.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/2024/They_Called_Him_Mostly_Harmless_-_Segredos_de_um_Andarilho.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/LANCAMENTOS-2024/Tributo_Ary_Fontoura.png" group-title="LACAMENTOS" , Tributo Ary Fontoura
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/2024/Tributo_Ary_Fontoura.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/2024/Tributo_Ary_Fontoura.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/LANCAMENTOS-2024/Turma_da_Monica_Jovem_Reflexos_do_Medo.png" group-title="LACAMENTOS" , Turma da Mônica Jovem Reflexos do Medo
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/2024/Turma_da_Monica_Jovem_Reflexos_do_Medo.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/2024/Turma_da_Monica_Jovem_Reflexos_do_Medo.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/LANCAMENTOS-2024/Upgrade_As_Cores_do_Amor.png" group-title="LACAMENTOS" , Upgrade As Cores do Amor
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/2024/Upgrade_As_Cores_do_Amor.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/2024/Upgrade_As_Cores_do_Amor.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/LANCAMENTOS-2024/zona-de-risco.png" group-title="LACAMENTOS" , Zona de Risco
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/2024/zona-de-risco.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/2024/zona-de-risco.mp4
 
 
 
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/PEDIDOS/A.Vida.Depois.png" group-title="PEDIDOS MENSAL", A Vida Depois
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/Pedidos.2024/A.Vida.Depois.mkv
+http://github.com/s4f1ixcustom/F00000/releases/download/Pedidos.2024/A.Vida.Depois.mkv
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/PEDIDOS/Amor_a_toda_prova.png" group-title="PEDIDOS MENSAL", Amor a Toda Prova
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/Pedidos.2024/Amor_a_toda_prova.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/Pedidos.2024/Amor_a_toda_prova.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/PEDIDOS/Aquamarine.png" group-title="PEDIDOS MENSAL", Aquamarine
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/Pedidos.2024/Aquamarine.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/Pedidos.2024/Aquamarine.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/PEDIDOS/Atracao_Perigosa_2010.png" group-title="PEDIDOS MENSAL", Atração Perigosa
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/Pedidos.2024/Atracao_Perigosa_2010.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/Pedidos.2024/Atracao_Perigosa_2010.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/PEDIDOS/a-baleia.png" group-title="PEDIDOS MENSAL", A Baleia
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/Pedidos.2024/a-baleia.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/Pedidos.2024/a-baleia.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/PEDIDOS/A.Chamada.png" group-title="PEDIDOS MENSAL", A Chamada
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/Pedidos.2024/A.Chamada.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/Pedidos.2024/A.Chamada.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/PEDIDOS/After.-.Para.Sempre.png" group-title="PEDIDOS MENSAL", After - Para Sempre
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/Pedidos.2024/After.-.Para.Sempre.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/Pedidos.2024/After.-.Para.Sempre.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/PEDIDOS/Amor.de.redencao.png" group-title="PEDIDOS MENSAL", Amor de redenção
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/Pedidos.2024/Amor.de.redencao.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/Pedidos.2024/Amor.de.redencao.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/PEDIDOS/Belo.Desastre.png" group-title="PEDIDOS MENSAL", Belo Desastre
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/Pedidos.2024/Belo.Desastre.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/Pedidos.2024/Belo.Desastre.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/PEDIDOS/Bicho-Papao.O.Conto.png" group-title="PEDIDOS MENSAL", Bicho-Papão O Conto
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/Pedidos.2024/Bicho-Papao.O.Conto.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/Pedidos.2024/Bicho-Papao.O.Conto.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/PEDIDOS/Clube.da.Luta.para.Meninas.png" group-title="PEDIDOS MENSAL", Clube da Luta para Meninas
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/Pedidos.2024/Clube.da.Luta.para.Meninas.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/Pedidos.2024/Clube.da.Luta.para.Meninas.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/PEDIDOS/Cruise.Destino.em.Colisao.2019.png" group-title="PEDIDOS MENSAL", Cruise Destino em Colisão
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/Pedidos.2024/Cruise.Destino.em.Colisao.2019.mkv
+http://github.com/s4f1ixcustom/F00000/releases/download/Pedidos.2024/Cruise.Destino.em.Colisao.2019.mkv
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/PEDIDOS/De.encontro.com.a.vida.png" group-title="PEDIDOS MENSAL", De Encontro com a Vida
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/Pedidos.2024/De.encontro.com.a.vida.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/Pedidos.2024/De.encontro.com.a.vida.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/PEDIDOS/Delirio.de.consumo.se.becky.Bloom.png" group-title="PEDIDOS MENSAL", Delírio de Consumo se becky Bloom
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/Pedidos.2024/Delirio.de.consumo.se.becky.Bloom.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/Pedidos.2024/Delirio.de.consumo.se.becky.Bloom.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/PEDIDOS/Dezesseis.Facadas.png" group-title="PEDIDOS MENSAL", Dezesseis Facadas
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/Pedidos.2024/Dezesseis.Facadas.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/Pedidos.2024/Dezesseis.Facadas.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/PEDIDOS/Extraction.2.png" group-title="PEDIDOS MENSAL", Extraction 2
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/Pedidos.2024/Extraction.2.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/Pedidos.2024/Extraction.2.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/PEDIDOS/Fale_Comigo.png" group-title="PEDIDOS MENSAL", Fale Comigo
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/Pedidos.2024/Fale_Comigo.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/Pedidos.2024/Fale_Comigo.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/PEDIDOS/Frey.guy.assumindo.o.controle.png" group-title="PEDIDOS MENSAL", Frey Guy Assumindo o Controle
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/Pedidos.2024/Frey.guy.assumindo.o.controle.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/Pedidos.2024/Frey.guy.assumindo.o.controle.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/PEDIDOS/Footloose.ritmo.louco.png" group-title="PEDIDOS MENSAL", Footloose Rítmo louco
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/Pedidos.2024/Footloose.ritmo.louco.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/Pedidos.2024/Footloose.ritmo.louco.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/PEDIDOS/Formatura.fantasma.png" group-title="PEDIDOS MENSAL", Formatura Fantasma
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/Pedidos.2024/Formatura.fantasma.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/Pedidos.2024/Formatura.fantasma.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/PEDIDOS/Frio.nos.Ossos.png" group-title="PEDIDOS MENSAL", Frio nos Ossos
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/Pedidos.2024/Frio.nos.Ossos.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/Pedidos.2024/Frio.nos.Ossos.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/PEDIDOS/Funcionario.do.mes.png" group-title="PEDIDOS MENSAL", Funcionário do Mês
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/Pedidos.2024/Funcionario.do.mes.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/Pedidos.2024/Funcionario.do.mes.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/PEDIDOS/Herois.da.Mascara.Dourada.png" group-title="PEDIDOS MENSAL", Heróis da Máscara Dourada
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/Pedidos.2024/Herois.da.Mascara.Dourada.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/Pedidos.2024/Herois.da.Mascara.Dourada.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/PEDIDOS/Ilha.dos.cachorros.png" group-title="PEDIDOS MENSAL", Ilha dos cachorros
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/Pedidos.2024/Ilha.dos.cachorros.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/Pedidos.2024/Ilha.dos.cachorros.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/PEDIDOS/Justice.League.Warworld.png" group-title="PEDIDOS MENSAL", Justice League Warworld
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/Pedidos.2024/Justice.League.Warworld.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/Pedidos.2024/Justice.League.Warworld.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/PEDIDOS/Krull.png" group-title="PEDIDOS MENSAL", Krull
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/Pedidos.2024/Krull.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/Pedidos.2024/Krull.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/PEDIDOS/Legiao.dos.Super.Herois.png" group-title="PEDIDOS MENSAL", Legião dos Super Heróis
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/Pedidos.2024/Legiao.dos.Super.Herois.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/Pedidos.2024/Legiao.dos.Super.Herois.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/PEDIDOS/LEO.png" group-title="PEDIDOS MENSAL", Léo
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/Pedidos.2024/LEO.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/Pedidos.2024/LEO.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/PEDIDOS/Metalocalypse_.Army.of.the.Doomstar.png" group-title="PEDIDOS MENSAL", Metalocalypse Army of the Doomstar
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/Pedidos.2024/Metalocalypse_.Army.of.the.Doomstar.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/Pedidos.2024/Metalocalypse_.Army.of.the.Doomstar.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/PEDIDOS/Minha.Culpa.png" group-title="PEDIDOS MENSAL", Minha Culpa
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/Pedidos.2024/Minha.Culpa.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/Pedidos.2024/Minha.Culpa.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/PEDIDOS/Mortal.Kombat.Legends.Cage.Bom.de.Briga.png" group-title="PEDIDOS MENSAL", Mortal Kombat Legends Cage Bom de Briga
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/Pedidos.2024/Mortal.Kombat.Legends.Cage.Bom.de.Briga.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/Pedidos.2024/Mortal.Kombat.Legends.Cage.Bom.de.Briga.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/PEDIDOS/Nanny.Mcphee.a.Baba.Encantada.2005.png" group-title="PEDIDOS MENSAL", Nanny Mcphee A Babá Encantada
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/Pedidos.2024/Nanny.Mcphee.a.Baba.Encantada.2005.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/Pedidos.2024/Nanny.Mcphee.a.Baba.Encantada.2005.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/PEDIDOS/Nosso.Sonho.png" group-title="PEDIDOS MENSAL", Nosso Sonho
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/Pedidos.2024/Nosso.Sonho.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/Pedidos.2024/Nosso.Sonho.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/PEDIDOS/O.Ultimo.Dragao.1985.png" group-title="PEDIDOS MENSAL", O Último Dragão
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/Pedidos.2024/O.Ultimo.Dragao.1985.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/Pedidos.2024/O.Ultimo.Dragao.1985.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/PEDIDOS/O.Ultimo.Guerreiro.das.Estrelas.png" group-title="PEDIDOS MENSAL", O Último Guerreiro das Estrelas
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/Pedidos.2024/O.Ultimo.Guerreiro.das.Estrelas.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/Pedidos.2024/O.Ultimo.Guerreiro.das.Estrelas.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/PEDIDOS/O_Milagre_Veio_do_Espaco_1987.png" group-title="PEDIDOS MENSAL", O Milagre Veio do Espaço
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/Pedidos.2024/O_Milagre_Veio_do_Espaco_1987.mkv
+http://github.com/s4f1ixcustom/F00000/releases/download/Pedidos.2024/O_Milagre_Veio_do_Espaco_1987.mkv
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/PEDIDOS/O.prazer.da.sua.companhia.png" group-title="PEDIDOS MENSAL", O Prazer da sua Companhia
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/Pedidos.2024/O.prazer.da.sua.companhia.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/Pedidos.2024/O.prazer.da.sua.companhia.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/PEDIDOS/palmer.png" group-title="PEDIDOS MENSAL", Palmer
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/Pedidos.2024/palmer.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/Pedidos.2024/palmer.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/PEDIDOS/panico.na.floresta.png" group-title="PEDIDOS MENSAL", Pânico na Floresta
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/Pedidos.2024/panico.na.floresta.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/Pedidos.2024/panico.na.floresta.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/PEDIDOS/P%C3%A2nico_na_Floresta_2.png" group-title="PEDIDOS MENSAL", Pânico na Floresta 2
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/Pedidos.2024/Panico_na_Floresta_2.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/Pedidos.2024/Panico_na_Floresta_2.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/PEDIDOS/Panico_na_Floresta_3.png" group-title="PEDIDOS MENSAL", Pânico na Floresta 3
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/Pedidos.2024/Panico_na_Floresta_3.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/Pedidos.2024/Panico_na_Floresta_3.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/PEDIDOS/Panico_na_Floresta_4.png" group-title="PEDIDOS MENSAL", Pânico na Floresta 4
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/Pedidos.2024/Panico_na_Floresta_4_–_Origens_Sangrentas.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/Pedidos.2024/Panico_na_Floresta_4_–_Origens_Sangrentas.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/PEDIDOS/Panico_na_Floresta_5_%20Linha_de_Sangue.png" group-title="PEDIDOS MENSAL", Pânico na Floresta 5 Linha de Sangue
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/Pedidos.2024/Panico_na_Floresta_5_.Linha_de_Sangue.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/Pedidos.2024/Panico_na_Floresta_5_.Linha_de_Sangue.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/PEDIDOS/Panico_na_Floresta_6_Ultimo_Resort.png" group-title="PEDIDOS MENSAL", Pânico na Floresta 6 Último Resort
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/Pedidos.2024/Panico_na_Floresta_6_Ultimo_Resort.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/Pedidos.2024/Panico_na_Floresta_6_Ultimo_Resort.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/PEDIDOS/Panico_na_Floresta_A_Fundacao.png" group-title="PEDIDOS MENSAL", Pânico na Floresta A Fundação
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/Pedidos.2024/Panico_na_Floresta_A_Fundacao.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/Pedidos.2024/Panico_na_Floresta_A_Fundacao.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/PEDIDOS/Perdida.png" group-title="PEDIDOS MENSAL", Perdida
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/Pedidos.2024/Perdida.mkv
+http://github.com/s4f1ixcustom/F00000/releases/download/Pedidos.2024/Perdida.mkv
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/PEDIDOS/Poder_Sem_Limites.png" group-title="PEDIDOS MENSAL", Poder Sem Limites
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/Pedidos.2024/Poder_Sem_Limites.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/Pedidos.2024/Poder_Sem_Limites.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/PEDIDOS/Programa.de.protecao.a.princesa.png" group-title="PEDIDOS MENSAL", Programa de Proteção as Princesas
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/Pedidos.2024/Programa.de.protecao.a.princesa.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/Pedidos.2024/Programa.de.protecao.a.princesa.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/PEDIDOS/Projeto.almanaque.png" group-title="PEDIDOS MENSAL", Projeto Almanaque
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/Pedidos.2024/Projeto.almanaque.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/Pedidos.2024/Projeto.almanaque.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/PEDIDOS/Raquel.1_1.png" group-title="PEDIDOS MENSAL", Raquel 1.1
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/Pedidos.2024/Raquel.1_1.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/Pedidos.2024/Raquel.1_1.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/PEDIDOS/Robin_hood.png" group-title="PEDIDOS MENSAL", Robin hood
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/Pedidos.2024/Robin_hood.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/Pedidos.2024/Robin_hood.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/PEDIDOS/Renfield.Dando.o.Sangue.Pelo.Chefe.png" group-title="PEDIDOS MENSAL", Renfield Dando o Sangue Pelo Chefe
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/Pedidos.2024/Renfield.Dando.o.Sangue.Pelo.Chefe.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/Pedidos.2024/Renfield.Dando.o.Sangue.Pelo.Chefe.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/PEDIDOS/Sangue.e.Ouro.png" group-title="PEDIDOS MENSAL", Sangue e Ouro
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/Pedidos.2024/Sangue.e.Ouro.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/Pedidos.2024/Sangue.e.Ouro.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/PEDIDOS/Sem.Reservas.png" group-title="PEDIDOS MENSAL", Sem Reservas
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/Pedidos.2024/Sem.Reservas.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/Pedidos.2024/Sem.Reservas.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/PEDIDOS/Solomon_Kane.png" group-title="PEDIDOS MENSAL", Solomon Kane
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/Pedidos.2024/Solomon_Kane.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/Pedidos.2024/Solomon_Kane.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/PEDIDOS/Um.pequeno.favor.png" group-title="PEDIDOS MENSAL", Um Pequeno Favor
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/Pedidos.2024/Um.pequeno.favor.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/Pedidos.2024/Um.pequeno.favor.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mkv" tvg-logo="http://raw.githubusercontent.com/p0st3ers/im4g3ns/main/POSTER/FILMES/PEDIDOS/Uma.prova.de.amor.png" group-title="PEDIDOS MENSAL", Uma Prova de Amor
-http://sandroflix.sandrostoreps3.workers.dev/content/filmes/Pedidos.2024/Uma.prova.de.amor.mp4
+http://github.com/s4f1ixcustom/F00000/releases/download/Pedidos.2024/Uma.prova.de.amor.mp4
